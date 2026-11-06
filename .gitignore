@@ -1,0 +1,5 @@
+__pycache__/
+_site/
+.DS_Store
+# Exports bruts (contiennent les notes internes) : jamais sur GitHub
+data/brut/

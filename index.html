@@ -1,0 +1,619 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ForsterData</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --navy:#0b3c78; --navy-2:#082d5b; --ink:#16202c; --muted:#5d6b7a; --line:#e3e8ee;
+    --bg:#f5f7fa; --card:#fff; --chip:#f0f3f7; --accent:#0b3c78;
+    --ok:#1f7a4d; --ok-bg:#e6f4ec; --warn:#9a5b00; --warn-bg:#fff2dc; --bad:#b42318; --bad-bg:#fde8e7;
+    --radius:10px;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);background:var(--bg);font-size:14px;line-height:1.45}
+  button{font:inherit;color:inherit;cursor:pointer}
+  input,select{font:inherit;color:inherit}
+  a{color:var(--navy)}
+
+  header.top{background:var(--navy);color:#fff;position:sticky;top:0;z-index:20}
+  header.top .in{max-width:1240px;margin:0 auto;padding:12px 24px;display:flex;align-items:center;gap:14px}
+  .brand{display:flex;align-items:baseline;gap:10px;font-weight:700;font-size:17px;letter-spacing:.2px;text-decoration:none;color:#fff}
+  .brand .mark{font-weight:800;font-style:italic;letter-spacing:-.5px;font-size:19px}
+  .brand .sep{opacity:.4;font-weight:400}
+  header.top .spacer{flex:1}
+  header.top .stamp{font-size:12px;opacity:.75}
+
+  main{max-width:1240px;margin:0 auto;padding:24px}
+  .intro{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px 24px;margin-bottom:22px}
+  .intro h1{margin:0 0 6px;font-size:22px}
+  .intro p{margin:0;color:var(--muted)}
+
+  .groups{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-bottom:22px}
+  .group h2{font-size:15px;text-transform:none;margin:0 0 10px;text-align:center;color:var(--navy-2)}
+  .group .btns{display:grid;gap:10px}
+  .cat{display:flex;align-items:center;justify-content:center;gap:10px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:12px;font-weight:600;transition:border-color .15s, box-shadow .15s}
+  .cat:hover{border-color:#b9c6d6}
+  .cat[aria-pressed="true"]{border-color:var(--navy);box-shadow:inset 0 0 0 1px var(--navy);color:var(--navy)}
+  .cat .n{font-weight:500;color:var(--muted);font-size:12px}
+  .cat svg{width:18px;height:18px;flex:none}
+  .hint{text-align:center;color:var(--muted);padding:30px 0}
+
+  .work{display:grid;grid-template-columns:300px 1fr;gap:18px;align-items:start}
+  .panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius)}
+  aside.panel{padding:18px;position:sticky;top:70px;max-height:calc(100vh - 90px);overflow:auto}
+  .f{margin-bottom:18px}
+  .f:last-child{margin-bottom:0}
+  .f > label,.f .lab{display:block;font-weight:600;margin-bottom:7px;font-size:13px}
+  .f .sub{font-weight:400;color:var(--muted);font-size:12px;margin:-4px 0 7px}
+  .txt,.sel{width:100%;border:1px solid var(--line);border-radius:8px;padding:8px 10px;background:#fff}
+  .txt:focus,.sel:focus{outline:2px solid #bcd0ea;border-color:var(--navy)}
+  .chips{display:flex;flex-wrap:wrap;gap:6px}
+  .chip{border:1px solid var(--line);background:#fff;border-radius:999px;padding:5px 11px;font-size:13px}
+  .chip:hover{border-color:#b9c6d6}
+  .chip[aria-pressed="true"]{background:var(--navy);border-color:var(--navy);color:#fff}
+  .row2{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+  .toggle{display:flex;align-items:center;gap:8px;font-size:13px}
+  .reset{display:inline-flex;align-items:center;gap:6px;border:0;background:none;color:var(--navy);font-weight:600;padding:0}
+  .fhead{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}
+  .fhead strong{font-size:15px}
+
+  section.results{padding:18px 18px 10px;min-width:0}
+  .rhead{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin-bottom:10px}
+  .rhead h2{margin:0;font-size:20px}
+  .rhead .count{color:var(--muted)}
+  .tablewrap{overflow-x:auto}
+  table.list{width:100%;border-collapse:collapse}
+  table.list th{font-size:11px;text-transform:uppercase;letter-spacing:.4px;color:var(--muted);font-weight:600;text-align:left;padding:8px 8px;border-bottom:1px solid var(--line);white-space:nowrap;user-select:none}
+  table.list th.sortable{cursor:pointer}
+  table.list th .arr{opacity:.5;margin-left:3px}
+  table.list td{padding:10px 8px;border-bottom:1px solid #eef1f5;vertical-align:middle}
+  table.list tbody tr{cursor:pointer}
+  table.list tbody tr:hover td{background:#f7f9fc}
+  table.list td.strong{font-weight:600}
+  table.list td.cb,table.list th.cb{width:30px;padding-right:0}
+  .empty{padding:30px;text-align:center;color:var(--muted)}
+
+  .badge{display:inline-block;font-size:11.5px;font-weight:600;border-radius:999px;padding:2px 8px;white-space:nowrap}
+  .b-ok{background:var(--ok-bg);color:var(--ok)} .b-warn{background:var(--warn-bg);color:var(--warn)} .b-bad{background:var(--bad-bg);color:var(--bad)} .b-na{background:var(--chip);color:var(--muted)}
+
+  .pager{display:flex;align-items:center;justify-content:center;gap:4px;padding:14px 0 6px;flex-wrap:wrap}
+  .pager button{border:1px solid var(--line);background:#fff;border-radius:7px;min-width:34px;padding:5px 9px}
+  .pager button[aria-current="true"]{background:var(--navy);color:#fff;border-color:var(--navy)}
+  .pager button:disabled{opacity:.4;cursor:default}
+
+  .cmpbar{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);background:var(--ink);color:#fff;border-radius:12px;padding:10px 12px 10px 16px;display:flex;gap:12px;align-items:center;box-shadow:0 8px 30px rgba(0,0,0,.25);z-index:30}
+  .cmpbar button{border:0;border-radius:8px;padding:7px 12px;font-weight:600}
+  .cmpbar .go{background:#fff;color:var(--ink)}
+  .cmpbar .clr{background:transparent;color:#cfd6df}
+
+  .scrim{position:fixed;inset:0;background:rgba(10,20,35,.45);z-index:40;display:none}
+  .scrim.on{display:block}
+  .drawer{position:fixed;top:0;right:0;height:100%;width:min(560px,100%);background:#fff;z-index:41;transform:translateX(100%);transition:transform .2s ease;display:flex;flex-direction:column}
+  .drawer.on{transform:none}
+  .drawer .dh{padding:22px 24px 16px;border-bottom:1px solid var(--line);position:relative;text-align:center}
+  .drawer .dh h3{margin:0 0 10px;font-size:22px;line-height:1.25}
+  .drawer .dh .meta{display:flex;flex-direction:column;gap:4px;align-items:center}
+  .drawer .dh .pv{font-size:17px;font-weight:600}
+  .drawer .dh .vv{font-weight:600}
+  .x{position:absolute;top:12px;right:12px;border:0;background:none;width:34px;height:34px;border-radius:8px;font-size:20px;color:var(--muted)}
+  .x:hover{background:var(--chip)}
+  .drawer .db{overflow:auto;padding:18px 24px 30px}
+  .kv{border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;margin-bottom:12px}
+  .kv h4{margin:0 0 6px;font-size:13px;color:var(--navy-2)}
+  .kv .v{white-space:pre-line}
+  .kv.nums{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:10px}
+  .kv.nums div span{display:block;font-size:11.5px;color:var(--muted)}
+  .kv.nums div b{font-size:15px}
+  .drawer .actions{display:flex;justify-content:center;gap:8px;margin-top:12px}
+  .btn{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 12px;font-weight:600}
+  .btn.primary{background:var(--navy);color:#fff;border-color:var(--navy)}
+
+  .modal{position:fixed;inset:4vh 3vw;background:#fff;z-index:41;border-radius:14px;display:none;flex-direction:column;overflow:hidden}
+  .modal.on{display:flex}
+  .modal .mh{padding:16px 20px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:12px}
+  .modal .mh h3{margin:0;font-size:18px;flex:1}
+  .modal .mh label{font-size:13px;color:var(--muted);display:flex;gap:6px;align-items:center}
+  .modal .mb{overflow:auto;padding:0 0 20px}
+  table.cmp{border-collapse:separate;border-spacing:0;min-width:100%}
+  table.cmp th,table.cmp td{padding:10px 14px;border-bottom:1px solid #eef1f5;vertical-align:top;text-align:left;white-space:pre-line;min-width:240px}
+  table.cmp th.k{position:sticky;left:0;background:#fafbfd;font-size:12px;color:var(--muted);font-weight:600;min-width:170px;max-width:200px;z-index:1}
+  table.cmp thead th{position:sticky;top:0;background:#fff;z-index:2;font-size:14px;color:var(--ink);border-bottom:1px solid var(--line)}
+  table.cmp thead th.k{z-index:3}
+  table.cmp tr.diff th.k{box-shadow:inset 3px 0 0 #e0a100}
+  table.cmp tr.diff td{background:#fffdf4}
+
+  footer{max-width:1240px;margin:0 auto;padding:10px 24px 40px;color:var(--muted);font-size:12px}
+
+  .mobile-only{display:none}
+  @media (max-width:900px){
+    .work{grid-template-columns:1fr}
+    aside.panel{position:static;max-height:none}
+    aside.panel.collapsed .fbody{display:none}
+    .mobile-only{display:inline-flex}
+  }
+  @media (max-width:640px){
+    main{padding:14px}
+    .groups{grid-template-columns:1fr}
+    header.top .stamp{display:none}
+    table.list .hide-sm{display:none}
+  }
+</style>
+</head>
+<body>
+<header class="top"><div class="in">
+  <a class="brand" href="#" id="home"><span class="mark">forster</span><span class="sep">|</span><span>ForsterData</span></a>
+  <div class="spacer"></div>
+  <div class="stamp" id="stamp"></div>
+</div></header>
+
+<main>
+  <div class="intro">
+    <h1>ForsterData</h1>
+    <p>Plateforme de consultation, de comparaison et de sélection des Procès-Verbaux, AEV et essais acoustiques.<br>
+    Pour toute demande spécifique : <a href="mailto:france@forstersystems.com">france@forstersystems.com</a> · 01 64 13 85 30</p>
+  </div>
+
+  <div class="groups" id="groups"></div>
+  <div id="work"></div>
+</main>
+<footer id="foot"></footer>
+
+<div class="scrim" id="scrim"></div>
+<div class="drawer" id="drawer" role="dialog" aria-modal="true" aria-label="Détail du PV"></div>
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-label="Comparaison"></div>
+<div id="cmpbarHost"></div>
+
+<script>
+(() => {
+'use strict';
+
+/* ---------- Icônes ---------- */
+const ICON = {
+  feu:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22c4 0 7-2.7 7-6.8 0-3.4-2.3-5.6-3.6-7.6-.4 1.6-1.3 2.7-2.4 3.2C13.3 7 11.6 4 9 2c.3 3-1.6 5.2-3 7.1C4.8 10.8 5 12.7 5 15.2 5 19.3 8 22 12 22z"/></svg>',
+  rc:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="10" width="16" height="11" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/><circle cx="12" cy="15.5" r="1.4"/></svg>',
+  fb:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l8 3v6c0 4.5-3.4 8-8 9-4.6-1-8-4.5-8-9V6z"/><path d="M9 12l2 2 4-4"/></svg>',
+  aev:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h11a3 3 0 1 0-3-3"/><path d="M3 12h15a3 3 0 1 1-3 3"/><path d="M3 16h7"/></svg>',
+  acoustique:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9v6h4l5 4V5L8 9z"/><path d="M17 9l4 6M21 9l-4 6"/></svg>'
+};
+
+/* ---------- Configuration par catégorie ---------- */
+const num = s => { const m = String(s ?? '').match(/\d+/); return m ? +m[0] : null; };
+const CONFIG = {
+  feu: {
+    title: r => `Forster ${r['Série']} ${r['Type de châssis']} ${r['Degré feu']}`,
+    sub: r => r['Verrier'],
+    columns: [
+      {key:'Type de châssis', strong:true}, {key:'Degré feu', label:'Degré feu'}, {key:'Série'},
+      {key:'Verrier', cls:'hide-sm'}, {key:'n° PV', label:'PV'}, {key:'Validité', badge:true, cls:'hide-sm'}
+    ],
+    filters: [
+      {type:'search', label:'Recherche par référence', placeholder:'Numéro de PV', fields:['n° PV','Codification de classement']},
+      {type:'chips', label:'Degré', key:'_classe', values:['E','EI']},
+      {type:'chips', label:'Temps (minutes)', key:'_temps', values:[30,60,90,120]},
+      {type:'select', label:'Application', key:'Type de châssis'},
+      {type:'chips', label:'Série', key:'Série', ref:'series'},
+      {type:'chips', label:'Verrier', key:'Verrier', ref:'verriers', extra:['Tous'], note:'Les PV « Tous » (tous verriers) restent affichés quand un verrier est choisi.', wildcard:'Tous'},
+      {type:'dims', label:'Recherche dimensions'},
+      {type:'valid', label:'Validité'}
+    ],
+    header: ['Type de châssis','Série','Degré feu','Verrier','n° PV','Validité','_classe','_temps'],
+    numbers: ['Largeur Verre','Hauteur Verre','Largeur 1V','Largeur 2V','Hauteur BP1V','Hauteur BP2V','Hauteur Cloison'],
+    numberLabels: {'Largeur Verre':'Largeur verre maxi','Hauteur Verre':'Hauteur verre maxi','Largeur 1V':'Largeur BP 1 vantail','Largeur 2V':'Largeur BP 2 vantaux','Hauteur BP1V':'Hauteur BP 1 vantail','Hauteur BP2V':'Hauteur BP 2 vantaux','Hauteur Cloison':'Hauteur cloison maxi'},
+    sectionTitles: {'Vitrage (dimensions LxH)':'Vitrage'}
+  },
+  rc: {
+    title: r => `Forster ${r['Série']} ${r['Type de châssis']} ${r['Classe']}`,
+    sub: r => r['Type de résistance'],
+    columns: [{key:'Type de châssis', strong:true},{key:'Classe'},{key:'Série'},{key:'Entrée controlée', label:'Entrée contrôlée', cls:'hide-sm'},{key:'n° PV', label:'PV'}],
+    filters: [
+      {type:'search', label:'Recherche par référence', placeholder:'Numéro de PV', fields:['n° PV','Codification de classement']},
+      {type:'chips', label:'Classe', key:'Classe', values:['RC1','RC2','RC3','RC4']},
+      {type:'select', label:'Application', key:'Type de châssis'},
+      {type:'chips', label:'Série', key:'Série', ref:'series'},
+      {type:'select', label:'Sortie', key:'Sortie type'},
+      {type:'select', label:'Verrouillage', key:'Type de verrouillage'}
+    ],
+    header: ['Type de châssis','Série','Classe','n° PV','Type de résistance']
+  },
+  fb: {
+    title: r => `Forster ${r['Série']} ${r['Type de châssis']} ${r['Classe']}`,
+    sub: r => r['Type de résistance'],
+    columns: [{key:'Type de châssis', strong:true},{key:'Classe'},{key:'Série'},{key:'n° PV', label:'PV'}],
+    filters: [
+      {type:'search', label:'Recherche par référence', placeholder:'Numéro de PV', fields:['n° PV','Codification de classement']},
+      {type:'chips', label:'Classe', key:'Classe'},
+      {type:'select', label:'Application', key:'Type de châssis'},
+      {type:'chips', label:'Série', key:'Série', ref:'series'}
+    ],
+    header: ['Type de châssis','Série','Classe','n° PV','Type de résistance']
+  },
+  aev: {
+    title: r => `Forster ${r['Série']} – ${r['Type de châssis']}`,
+    sub: r => `${r['A']} · ${r['E']} · ${r['V']}${r['V type abc'] ? ' ' + r['V type abc'] : ''}`,
+    columns: [{key:'Type de châssis', strong:true},{key:'Série'},{key:'A'},{key:'E'},{key:'V'},{key:'n° PV', label:'PV', cls:'hide-sm'}],
+    filters: [
+      {type:'search', label:'Recherche par référence', placeholder:'Numéro de PV', fields:['n° PV']},
+      {type:'select', label:'Type de châssis', key:'Type de châssis'},
+      {type:'chips', label:'Série', key:'Série', ref:'series'},
+      {type:'min', label:'Perméabilité à l\'air (A) minimum', key:'A', values:['A1','A2','A3','A4']},
+      {type:'min', label:'Étanchéité à l\'eau (E) minimum', key:'E', values:['E1A','E2A','E3A','E4A','E5A','E6A','E7A','E8A','E9A']},
+      {type:'min', label:'Résistance au vent (V) minimum', key:'V', values:['V1','V2','V3','V4','V5']}
+    ],
+    header: ['Type de châssis','Série','n° PV'],
+    numbersInline: ['A','E','V','V type abc']
+  },
+  acoustique: {
+    title: r => `Forster ${r['Série']} – ${r['Type de châssis']}`,
+    sub: r => r['Rw'] != null ? `Rw ${r['Rw']} dB (C ${r['Rw C']} ; Ctr ${r['Rw Ctr']})` : '',
+    columns: [{key:'Type de châssis', strong:true},{key:'Série'},{key:'Rw', label:'Rw (dB)'},{key:'Rw C', cls:'hide-sm'},{key:'Rw Ctr', cls:'hide-sm'},{key:'n° PV', label:'PV'}],
+    filters: [
+      {type:'search', label:'Recherche par référence', placeholder:'Numéro de PV', fields:['n° PV']},
+      {type:'select', label:'Type de châssis', key:'Type de châssis'},
+      {type:'chips', label:'Série', key:'Série'},
+      {type:'numMin', label:'Affaiblissement Rw minimum (dB)', key:'Rw', placeholder:'ex. 40'}
+    ],
+    header: ['Type de châssis','Série','n° PV'],
+    numbersInline: ['Rw','Rw C','Rw Ctr']
+  }
+};
+
+/* ---------- Utilitaires ---------- */
+const $ = (s, el=document) => el.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const norm = s => String(s ?? '').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase().trim();
+const decoder = document.createElement('textarea');
+const decode = s => { decoder.innerHTML = s; return decoder.value; };
+const isBlank = v => v == null || v === '' || v === '-' || v === '—';
+
+// Texte riche : on échappe tout, puis on réautorise <strong>/<b>/<i>/<u>/<br> et on rend les liens cliquables
+function rich(v){
+  let s = esc(decode(String(v)));
+  s = s.replace(/&lt;(\/?)(strong|b|i|em|u)&gt;/gi, '<$1$2>').replace(/&lt;br\s*\/?&gt;/gi, '\n');
+  s = s.replace(/(https?:\/\/[^\s<]+)/g, u => `<a href="${u}" target="_blank" rel="noopener">${u.length > 60 ? u.slice(0,57)+'…' : u}</a>`);
+  return s;
+}
+const fmtDate = iso => { if(!iso) return ''; const [y,m,d] = iso.split('-'); return `${d}/${m}/${y}`; };
+
+let DATA, TODAY = new Date(); TODAY.setHours(0,0,0,0);
+function validity(iso){
+  if(!iso) return {cls:'b-na', label:'Non renseignée', state:'na'};
+  const d = new Date(iso + 'T00:00:00');
+  const lim = new Date(TODAY); lim.setMonth(lim.getMonth() + (DATA.ref.moisAlerteValidite || 3));
+  if(d < TODAY) return {cls:'b-bad', label:'Expiré le ' + fmtDate(iso), state:'bad'};
+  if(d <= lim) return {cls:'b-warn', label:'Expire le ' + fmtDate(iso), state:'warn'};
+  return {cls:'b-ok', label:'Valide → ' + fmtDate(iso), state:'ok'};
+}
+
+/* ---------- État ---------- */
+const state = { cat:null, f:{}, page:1, sort:null, cmp:new Map() };
+const PAGE = 20;
+
+function catData(id){ return DATA.categories.find(c => c.id === id); }
+
+function defaultFilters(){
+  return { q:'', chips:{}, sel:{}, min:{}, numMin:{}, dims:{app:'', L:'', H:''}, valid:'all' };
+}
+
+/* ---------- Groupes de catégories ---------- */
+function renderGroups(){
+  const groups = {};
+  DATA.categories.forEach(c => (groups[c.group] ||= []).push(c));
+  $('#groups').innerHTML = Object.entries(groups).map(([g, cats]) => `
+    <div class="group"><h2>${esc(g)}</h2><div class="btns">
+      ${cats.map(c => `<button class="cat" data-cat="${c.id}" aria-pressed="${state.cat===c.id}">${ICON[c.id]||''}<span>${esc(c.label)}</span><span class="n">${c.rows.length}</span></button>`).join('')}
+    </div></div>`).join('');
+  $('#groups').querySelectorAll('.cat').forEach(b => b.onclick = () => {
+    location.hash = state.cat === b.dataset.cat ? '' : b.dataset.cat;
+  });
+}
+
+function selectCat(id){
+  if(id && !CONFIG[id]) id = null;
+  if(state.cat !== id){ state.cmp.clear(); }
+  state.cat = id; state.f = defaultFilters(); state.page = 1; state.sort = null;
+  renderGroups(); renderWork(); renderCmpBar();
+}
+
+/* ---------- Filtres ---------- */
+function uniq(rows, key){ return [...new Set(rows.map(r => r[key]).filter(v => !isBlank(v)))]; }
+
+function renderFilters(cat, cfg){
+  const rows = cat.rows, F = state.f;
+  return cfg.filters.map((f, i) => {
+    if(f.type === 'search') return `<div class="f"><label for="q">${esc(f.label)}</label><input id="q" class="txt" type="search" placeholder="${esc(f.placeholder)}" value="${esc(F.q)}"></div>`;
+    if(f.type === 'chips'){
+      let vals = f.values || (f.ref ? DATA.ref[f.ref] : uniq(rows, f.key).sort((a,b)=>String(a).localeCompare(String(b),'fr',{numeric:true})));
+      if(f.ref) vals = vals.filter(v => rows.some(r => r[f.key] === v));
+      if(f.extra) vals = vals.concat(f.extra.filter(v => rows.some(r => r[f.key] === v) && !vals.includes(v)));
+      // valeurs présentes dans les données mais absentes de la table de référence
+      if(f.ref) uniq(rows, f.key).forEach(v => { if(!vals.includes(v)) vals.push(v); });
+      const on = F.chips[f.key] || [];
+      return `<div class="f"><span class="lab">${esc(f.label)}</span>${f.note?`<div class="sub">${esc(f.note)}</div>`:''}<div class="chips">${vals.map(v => `<button class="chip" data-chip="${esc(f.key)}" data-v="${esc(v)}" aria-pressed="${on.includes(String(v))}">${esc(v)}</button>`).join('')}</div></div>`;
+    }
+    if(f.type === 'select'){
+      const vals = uniq(rows, f.key).sort((a,b)=>a.localeCompare(b,'fr'));
+      return `<div class="f"><label for="s${i}">${esc(f.label)}</label><select id="s${i}" class="sel" data-sel="${esc(f.key)}"><option value="">— Toutes —</option>${vals.map(v => `<option ${F.sel[f.key]===v?'selected':''}>${esc(v)}</option>`).join('')}</select></div>`;
+    }
+    if(f.type === 'min'){
+      return `<div class="f"><label for="m${i}">${esc(f.label)}</label><select id="m${i}" class="sel" data-min="${esc(f.key)}"><option value="">— Indifférent —</option>${f.values.map(v => `<option value="${num(v)}" ${String(F.min[f.key]??'')===String(num(v))?'selected':''}>${esc(v)} ou mieux</option>`).join('')}</select></div>`;
+    }
+    if(f.type === 'numMin'){
+      return `<div class="f"><label for="n${i}">${esc(f.label)}</label><input id="n${i}" class="txt" type="number" inputmode="numeric" placeholder="${esc(f.placeholder||'')}" data-nummin="${esc(f.key)}" value="${esc(F.numMin[f.key]??'')}"></div>`;
+    }
+    if(f.type === 'dims'){
+      const d = F.dims;
+      return `<div class="f"><span class="lab">${esc(f.label)}</span>
+        <div class="sub">Dimensions souhaitées en mm. Pour une cloison : dimensions du vitrage ; pour un bloc-porte : dimensions du bloc-porte.</div>
+        <select class="sel" id="dimApp" style="margin-bottom:8px"><option value="">— Type d'ouvrage —</option>${DATA.ref.dimApplications.map(a => `<option value="${a.code}" ${d.app===a.code?'selected':''}>${esc(a.label)}</option>`).join('')}</select>
+        <div class="row2"><input class="txt" id="dimL" type="number" inputmode="numeric" placeholder="Largeur" value="${esc(d.L)}"><input class="txt" id="dimH" type="number" inputmode="numeric" placeholder="Hauteur" value="${esc(d.H)}"></div></div>`;
+    }
+    if(f.type === 'valid'){
+      return `<div class="f"><label for="valid">${esc(f.label)}</label><select class="sel" id="valid">
+        <option value="all" ${F.valid==='all'?'selected':''}>Tous les PV</option>
+        <option value="valid" ${F.valid==='valid'?'selected':''}>Masquer les PV expirés</option>
+        <option value="soon" ${F.valid==='soon'?'selected':''}>PV arrivant à échéance (${DATA.ref.moisAlerteValidite} mois)</option>
+        <option value="expired" ${F.valid==='expired'?'selected':''}>PV expirés uniquement</option></select></div>`;
+    }
+    return '';
+  }).join('');
+}
+
+function dimCode(type){
+  const map = DATA.ref.dimCodes, n = norm(type);
+  for(const [k, v] of Object.entries(map)) if(norm(k) === n) return v;
+  for(const [k, v] of Object.entries(map)) if(n.startsWith(norm(k)) || norm(k).startsWith(n)) return v;
+  return /^porte|^ouvrant/.test(n) ? 'BP1V' : 'CV';
+}
+
+function applyFilters(cat, cfg){
+  const F = state.f;
+  const q = norm(F.q);
+  const searchF = cfg.filters.find(f => f.type === 'search');
+  return cat.rows.filter(r => {
+    if(q && !searchF.fields.some(k => norm(r[k]).replace(/\s/g,'').includes(q.replace(/\s/g,'')))) return false;
+    for(const [k, vals] of Object.entries(F.chips)){
+      if(!vals.length) continue;
+      const fdef = cfg.filters.find(f => f.key === k);
+      const v = String(r[k] ?? '');
+      if(!vals.includes(v) && !(fdef && fdef.wildcard && v === fdef.wildcard)) return false;
+    }
+    for(const [k, v] of Object.entries(F.sel)) if(v && r[k] !== v) return false;
+    for(const [k, v] of Object.entries(F.min)) if(v !== '' && v != null && !((num(r[k]) ?? -1) >= +v)) return false;
+    for(const [k, v] of Object.entries(F.numMin)) if(v !== '' && v != null && !((r[k] ?? -999) >= +v)) return false;
+    const d = F.dims;
+    if(d.app){
+      const code = dimCode(r['Type de châssis']);
+      if(d.app === 'CV'){
+        if(code !== 'CV') return false;
+        if(d.L && !(r['Largeur Verre'] >= +d.L)) return false;
+        if(d.H && !(r['Hauteur Verre'] >= +d.H)) return false;
+      } else {
+        if(code !== 'BP1V') return false;
+        const L = d.app === 'BP2V' ? 'Largeur 2V' : 'Largeur 1V', H = d.app === 'BP2V' ? 'Hauteur BP2V' : 'Hauteur BP1V';
+        if(!r[L] && !r[H]) return false;
+        if(d.L && !(r[L] >= +d.L)) return false;
+        if(d.H && !(r[H] >= +d.H)) return false;
+      }
+    }
+    if(F.valid !== 'all' && cfg.filters.some(f => f.type === 'valid')){
+      const s = validity(r['Validité']).state;
+      if(F.valid === 'valid' && s === 'bad') return false;
+      if(F.valid === 'soon' && s !== 'warn') return false;
+      if(F.valid === 'expired' && s !== 'bad') return false;
+    }
+    return true;
+  });
+}
+
+/* ---------- Zone de travail ---------- */
+function renderWork(){
+  const host = $('#work');
+  if(!state.cat){
+    host.innerHTML = '<div class="hint">Sélectionnez une performance pour commencer.</div>';
+    return;
+  }
+  const cat = catData(state.cat), cfg = CONFIG[state.cat];
+  host.innerHTML = `<div class="work">
+    <aside class="panel collapsed" id="fpanel">
+      <div class="fhead"><strong>Filtres</strong>
+        <span style="display:flex;gap:12px">
+          <button class="reset" id="reset"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>Réinitialiser</button>
+          <button class="reset mobile-only" id="ftoggle">Afficher</button>
+        </span></div>
+      <div class="fbody">${renderFilters(cat, cfg)}</div>
+    </aside>
+    <section class="panel results" id="results"></section>
+  </div>`;
+  bindFilters(cat, cfg);
+  renderResults();
+}
+
+function bindFilters(cat, cfg){
+  const F = state.f, panel = $('#fpanel');
+  const upd = () => { state.page = 1; renderResults(); };
+  $('#reset').onclick = () => { state.f = defaultFilters(); renderWork(); };
+  $('#ftoggle').onclick = e => { panel.classList.toggle('collapsed'); e.target.textContent = panel.classList.contains('collapsed') ? 'Afficher' : 'Masquer'; };
+  const q = $('#q'); if(q) q.oninput = () => { F.q = q.value; upd(); };
+  panel.querySelectorAll('[data-chip]').forEach(b => b.onclick = () => {
+    const k = b.dataset.chip, v = b.dataset.v, arr = (F.chips[k] ||= []);
+    const i = arr.indexOf(v); i >= 0 ? arr.splice(i, 1) : arr.push(v);
+    b.setAttribute('aria-pressed', i < 0); upd();
+  });
+  panel.querySelectorAll('[data-sel]').forEach(s => s.onchange = () => { F.sel[s.dataset.sel] = s.value; upd(); });
+  panel.querySelectorAll('[data-min]').forEach(s => s.onchange = () => { F.min[s.dataset.min] = s.value; upd(); });
+  panel.querySelectorAll('[data-nummin]').forEach(s => s.oninput = () => { F.numMin[s.dataset.nummin] = s.value; upd(); });
+  const da = $('#dimApp'); if(da){
+    da.onchange = () => { F.dims.app = da.value; upd(); };
+    $('#dimL').oninput = e => { F.dims.L = e.target.value; upd(); };
+    $('#dimH').oninput = e => { F.dims.H = e.target.value; upd(); };
+  }
+  const v = $('#valid'); if(v) v.onchange = () => { F.valid = v.value; upd(); };
+}
+
+function sortRows(rows){
+  if(!state.sort) return rows;
+  const {key, dir} = state.sort;
+  return [...rows].sort((a, b) => {
+    const x = a[key], y = b[key];
+    if(x == null || x === '') return 1; if(y == null || y === '') return -1;
+    return (typeof x === 'number' && typeof y === 'number' ? x - y : String(x).localeCompare(String(y), 'fr', {numeric:true})) * dir;
+  });
+}
+
+function renderResults(){
+  const cat = catData(state.cat), cfg = CONFIG[state.cat];
+  const rows = sortRows(applyFilters(cat, cfg));
+  const pages = Math.max(1, Math.ceil(rows.length / PAGE));
+  state.page = Math.min(state.page, pages);
+  const slice = rows.slice((state.page - 1) * PAGE, state.page * PAGE);
+  const sec = $('#results');
+  sec.innerHTML = `
+    <div class="rhead"><h2>Performance : ${esc(cat.label)}</h2><span class="count">${rows.length} PV${rows.length !== cat.rows.length ? ` sur ${cat.rows.length}` : ''}</span></div>
+    ${rows.length ? `<div class="tablewrap"><table class="list"><thead><tr><th class="cb" title="Comparer"></th>${cfg.columns.map(c => {
+      const s = state.sort && state.sort.key === c.key ? (state.sort.dir > 0 ? '▲' : '▼') : '';
+      return `<th class="sortable ${c.cls||''}" data-sort="${esc(c.key)}">${esc(c.label || c.key)}<span class="arr">${s}</span></th>`;
+    }).join('')}</tr></thead><tbody>${slice.map(r => {
+      const idx = cat.rows.indexOf(r);
+      return `<tr data-i="${idx}"><td class="cb"><input type="checkbox" aria-label="Comparer" data-cmp="${idx}" ${state.cmp.has(idx)?'checked':''}></td>${cfg.columns.map(c => {
+        let v = r[c.key];
+        if(c.badge){ const b = validity(v); return `<td class="${c.cls||''}"><span class="badge ${b.cls}">${esc(b.state==='na'?'—':b.label.replace('Valide → ',''))}</span></td>`; }
+        return `<td class="${c.strong?'strong ':''}${c.cls||''}">${esc(isBlank(v) ? '—' : v)}</td>`;
+      }).join('')}</tr>`;
+    }).join('')}</tbody></table></div>` : '<div class="empty">Aucun PV ne correspond à ces critères.</div>'}
+    ${pages > 1 ? pager(pages) : ''}`;
+
+  sec.querySelectorAll('th[data-sort]').forEach(th => th.onclick = () => {
+    const k = th.dataset.sort;
+    state.sort = state.sort && state.sort.key === k ? (state.sort.dir > 0 ? {key:k, dir:-1} : null) : {key:k, dir:1};
+    renderResults();
+  });
+  sec.querySelectorAll('tbody tr').forEach(tr => tr.onclick = e => {
+    if(e.target.matches('input[type=checkbox]')) return;
+    openDetail(+tr.dataset.i);
+  });
+  sec.querySelectorAll('[data-cmp]').forEach(cb => cb.onchange = () => toggleCmp(+cb.dataset.cmp, cb.checked));
+  sec.querySelectorAll('[data-page]').forEach(b => b.onclick = () => { state.page = +b.dataset.page; renderResults(); sec.scrollIntoView({block:'start', behavior:'smooth'}); });
+}
+
+function pager(pages){
+  const p = state.page, items = [];
+  const add = n => items.push(`<button data-page="${n}" aria-current="${n===p}">${n}</button>`);
+  const set = new Set([1, pages, p-1, p, p+1].filter(n => n >= 1 && n <= pages));
+  let last = 0;
+  [...set].sort((a,b)=>a-b).forEach(n => { if(n - last > 1) items.push('<span>…</span>'); add(n); last = n; });
+  return `<div class="pager"><button data-page="${p-1}" ${p===1?'disabled':''}>Précédent</button>${items.join('')}<button data-page="${p+1}" ${p===pages?'disabled':''}>Suivant</button></div>`;
+}
+
+/* ---------- Fiche détail ---------- */
+function detailBody(r, cfg){
+  const parts = [];
+  if(cfg.numbers){
+    const nums = cfg.numbers.filter(k => r[k]);
+    if(nums.length) parts.push(`<div class="kv"><h4>Dimensions maximales (mm)</h4><div class="kv nums" style="border:0;padding:0;margin:0">${nums.map(k => `<div><span>${esc(cfg.numberLabels[k]||k)}</span><b>${r[k].toLocaleString('fr-FR')}</b></div>`).join('')}</div></div>`);
+  }
+  if(cfg.numbersInline){
+    const nums = cfg.numbersInline.filter(k => !isBlank(r[k]));
+    if(nums.length) parts.push(`<div class="kv nums">${nums.map(k => `<div><span>${esc(k)}</span><b>${esc(r[k])}</b></div>`).join('')}</div>`);
+  }
+  const skip = new Set([...(cfg.header||[]), ...(cfg.numbers||[]), ...(cfg.numbersInline||[])]);
+  for(const [k, v] of Object.entries(r)){
+    if(skip.has(k) || k.startsWith('_') || isBlank(v)) continue;
+    parts.push(`<div class="kv"><h4>${esc((cfg.sectionTitles||{})[k] || k)}</h4><div class="v">${rich(v)}</div></div>`);
+  }
+  return parts.join('');
+}
+
+function openDetail(i){
+  const cat = catData(state.cat), cfg = CONFIG[state.cat], r = cat.rows[i];
+  const v = r['Validité'] !== undefined ? validity(r['Validité']) : null;
+  $('#drawer').innerHTML = `
+    <div class="dh"><button class="x" id="dx" aria-label="Fermer">×</button>
+      <h3>${esc(cfg.title(r))}</h3>
+      <div class="meta">${cfg.sub(r) ? `<div class="vv">${esc(cfg.sub(r))}</div>` : ''}<div class="pv">${esc(r['n° PV'] || '—')}</div>
+      ${v ? `<span class="badge ${v.cls}">${esc(v.state==='na' ? 'Date de validité non renseignée' : v.label)}</span>` : ''}</div>
+      <div class="actions"><button class="btn" id="dcmp">${state.cmp.has(i) ? 'Retirer de la comparaison' : 'Ajouter à la comparaison'}</button><button class="btn" id="dcopy">Copier le n° de PV</button></div>
+    </div>
+    <div class="db">${detailBody(r, cfg)}</div>`;
+  $('#dx').onclick = closeOverlays;
+  $('#dcmp').onclick = () => { toggleCmp(i, !state.cmp.has(i)); openDetail(i); };
+  $('#dcopy').onclick = async e => { try{ await navigator.clipboard.writeText(r['n° PV']); e.target.textContent = 'Copié ✓'; }catch{ e.target.textContent = 'Copie impossible'; } };
+  $('#drawer').classList.add('on'); $('#scrim').classList.add('on');
+}
+
+function closeOverlays(){
+  $('#drawer').classList.remove('on'); $('#modal').classList.remove('on'); $('#scrim').classList.remove('on');
+}
+
+/* ---------- Comparaison ---------- */
+const MAX_CMP = 4;
+function toggleCmp(i, on){
+  if(on){
+    if(state.cmp.size >= MAX_CMP && !state.cmp.has(i)){ flash(`Comparaison limitée à ${MAX_CMP} PV`); renderResults(); return; }
+    state.cmp.set(i, true);
+  } else state.cmp.delete(i);
+  renderCmpBar();
+  if($('#results')) $('#results').querySelectorAll(`[data-cmp="${i}"]`).forEach(cb => cb.checked = on);
+}
+function flash(msg){
+  const h = $('#cmpbarHost'); const old = h.innerHTML;
+  h.innerHTML = `<div class="cmpbar"><span>${esc(msg)}</span></div>`;
+  setTimeout(renderCmpBar, 1600);
+}
+function renderCmpBar(){
+  const n = state.cmp.size, h = $('#cmpbarHost');
+  if(!n || !state.cat){ h.innerHTML = ''; return; }
+  h.innerHTML = `<div class="cmpbar"><span>${n} PV sélectionné${n>1?'s':''}</span><button class="go" id="cgo" ${n<2?'disabled style="opacity:.5"':''}>Comparer</button><button class="clr" id="cclr">Vider</button></div>`;
+  $('#cgo').onclick = openCompare;
+  $('#cclr').onclick = () => { state.cmp.clear(); renderCmpBar(); if($('#results')) renderResults(); };
+}
+function openCompare(){
+  const cat = catData(state.cat), cfg = CONFIG[state.cat];
+  const rows = [...state.cmp.keys()].map(i => cat.rows[i]);
+  const keys = (cfg.header || []).filter(k => !k.startsWith('_'));
+  rows.forEach(r => Object.keys(r).forEach(k => { if(!k.startsWith('_') && !keys.includes(k)) keys.push(k); }));
+  const shown = keys.filter(k => rows.some(r => !isBlank(r[k])));
+  const fmt = (k, v) => k === 'Validité' ? (v ? fmtDate(v) : '—') : (typeof v === 'number' ? v.toLocaleString('fr-FR') : (isBlank(v) ? '—' : rich(v)));
+  const tbody = shown.map(k => {
+    const vals = rows.map(r => String(r[k] ?? ''));
+    const diff = new Set(vals).size > 1;
+    return `<tr class="${diff?'diff':''}" data-diff="${diff}"><th class="k">${esc(k)}</th>${rows.map(r => `<td>${fmt(k, r[k])}</td>`).join('')}</tr>`;
+  }).join('');
+  $('#modal').innerHTML = `<div class="mh"><h3>Comparaison – ${esc(cat.label)}</h3>
+      <label><input type="checkbox" id="onlydiff"> Uniquement les différences</label>
+      <button class="x" style="position:static" id="mx" aria-label="Fermer">×</button></div>
+    <div class="mb"><table class="cmp"><thead><tr><th class="k"></th>${rows.map(r => `<th>${esc(cfg.title(r))}<br><span style="font-weight:500;color:var(--muted)">${esc(r['n° PV']||'')}</span></th>`).join('')}</tr></thead><tbody>${tbody}</tbody></table></div>`;
+  $('#mx').onclick = closeOverlays;
+  $('#onlydiff').onchange = e => $('#modal').querySelectorAll('tbody tr').forEach(tr => tr.style.display = e.target.checked && tr.dataset.diff === 'false' ? 'none' : '');
+  $('#modal').classList.add('on'); $('#scrim').classList.add('on');
+}
+
+/* ---------- Démarrage ---------- */
+$('#scrim').onclick = closeOverlays;
+document.addEventListener('keydown', e => { if(e.key === 'Escape') closeOverlays(); });
+$('#home').onclick = e => { e.preventDefault(); location.hash = ''; };
+window.addEventListener('hashchange', () => { closeOverlays(); selectCat(location.hash.slice(1) || null); });
+
+async function load(){
+  if(window.__FORSTER_DATA__) return window.__FORSTER_DATA__;
+  const r = await fetch('data/data.json', {cache:'no-cache'});
+  if(!r.ok) throw new Error('HTTP ' + r.status);
+  return r.json();
+}
+load().then(d => {
+  DATA = d;
+  $('#stamp').textContent = 'Données du ' + fmtDate(d.generated);
+  $('#foot').textContent = `ForsterData · ${d.categories.reduce((n, c) => n + c.rows.length, 0)} PV · données mises à jour le ${fmtDate(d.generated)}`;
+  selectCat(location.hash.slice(1) || null);
+}).catch(err => {
+  $('#work').innerHTML = `<div class="empty">Impossible de charger les données (${esc(err.message)}).</div>`;
+});
+})();
+</script>
+</body>
+</html>

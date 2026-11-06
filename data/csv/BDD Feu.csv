@@ -1,0 +1,3376 @@
+Type de châssis,Série,Degré feu,Verrier,n° PV,Ext. - Rec. - Rév.,Vitrage (dimensions LxH),Largeur Verre,Hauteur Verre,Panneau plein,Mise en œuvre des remplissages :,Equipement,Domaine de validité : (LxH),Largeur 1V,Largeur 2V,Hauteur BP1V,Hauteur BP2V,Hauteur Cloison,Environnement (construction support),Sens de feu du châssis :,Notes - Particularités,Cumul de perf :,Validité,Codificatiotion de classsement,Type de résistance
+Cloison,presto,E30,VETROTECH, 10-A-650,Rec 26/3 + Rec 21/2 + Rec 16/1 + Ext 11/2 + Ext 17/3 + Ext 23/4,"• Vetroflam Climaplus : L x H maxi = 1500 x 3000 ou 1920 x 1035
+• Vetroflam Stadip : L x H maxi = 890 x 2220 ou 1475 x 940
+• Vetroflam monolithique : L x H maxi = 890 x 2220 ou 1475 x 940
+
+• Pyroswiss 5 mm : L x H = 1000 x 1250
+• Pyroswiss 6 mm : L x H = 1605x 2485 ou 1890 x 1890
+• Pyroswiss 10 mm : L x H = 2055 x 3100
+• Pyroswiss Satinovo et Mastercarre 6 mm : L x H = 1320 x 2200
+• Pyroswiss Seralit et Parsol 6 mm : L x H = 1200 x 2200
+• Pyroswiss Stadip : L x H = 1905 x 1505 ou 1200 x 2220
+• Pyroswiss Climaplus avec couche faible émissivité : L x H = 1500 x 3000
+• Pyroswiss Climaplus sans couche faible émissivité : L x H = 1370 x 1650
+
+• Contraflam Lite 30 monolithique : L x H maxi = 1680 x 3800, sans pouvoir dépasser surface de 5,52 m²
+• Contraflam Lite 30 Climaplus ou Climalit : L x H maxi = 1680 x 3800, sans pouvoir dépasser surface de 5,52 m²
+",2055,3800,"Composé de 2 plaques de BA13 tôlé 2 faces ou 1 face Emalit 
+S maxi : 2 m²",Joint silicone sur bandes fibres,-,"Longeur illimitéé x 3300 hauteur
+Longeur illimitér x 3400 hauteyr (y compris cloison légère)",0,0,0,0,3400,"Béton, parpaing plein, béton cellulaire
+Intégration dans la Cloison légère 48/98 ou 70/120 en imposte, parties fixes latérales ou allège 
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage ou dos à dos",Pas de restriction sur le sens de feu châssis,-,-,20/01/2031 0:00:00,10316,FEU
+Cloison,fuego light,EI60,AGC,EFR-25-003458,,"• Pyrobel 25, 25 EG, 25 EG2, 25 ISO et 25 EG ISO : L x H = 2643 x 1529 ou L x H = 1529 x 2643
+• Vitrage en forme de triangles ou parallélogrammes, Surface maxi 3,75 m² et angle mini 26°.
+• Possibilité de vitrages avec store à lames ou petits-bois (alu/laiton) intégrés dans la lame d’air",1529,2643,"• Composé de 3 plaques de BA13 tôlé 2 faces, surface maxi 3 m² (ép. 40,5 ou 41,5 mm)
+• Composé de 2 plaques de GIFAboard 18,5 mm (Knauf) tôlé 2 faces, surface maxi 1,07 m² (ép. 42 mm), avec possibilité de boitier passe-câble PROMASTOP-IM CBOX125","• Joints silicone ou EPDM
+• Simple ou double parclosage
+• Busettes ou tubulures pour drainage des fonds de feuillure",,"• Longueur illimitée x hauteur maxi 4400 de dalle à dalle
+• Longueur illimitée x hauteur maxi 3400 dans cloison cloison légère plâtre type 98/48
+• Longueur illimitée x hauteur maxi 4000 dans cloison cloison légère plâtre type 98/62 ou 120/70",0,0,0,0,4400,"• Béton, parpaing plein, béton cellulaire
+• Intégration dans cloisons légères plâtre types 98/48, 98/62 ou 120/70 avec retombée d'imposte maxi 500 mm
+• Poteau acier protégé en ligne ou en angle à 90°",• Sens de feu indifférent,"• Possibilité de facettes ou d'angles rentrants/sortants à 45 et 90°
+• Possibilité de superposition des châssis
+• Possibilité de fixation sous dalle avec dilatation
+• Possibilité de manchonnage des châssis et d'assemblage mécanique des traverses",,26/03/2031 0:00:00,80341,FEU
+Porte,fuego light,EI60,AGC,EFR-25-003456,,"• Pyrobel 25, 25 EG, 25 EG2, 25 ISO et 25 EG ISO
+• Possibilité de vitrages avec store à lames ou petits-bois (alu/laiton) intégrés dans la lame d’air",0,0,"• Composé de 3 plaques de BA13 tôlé 2 faces, surface maxi 3 m² (ép. 40,5 ou 41,5 mm)
+• Composé de 2 plaques de GIFAboard 18,5 mm (Knauf) tôlé 2 faces, surface maxi 1,07 m² (ép. 42 mm)
+------
+<strong>Nota :</strong> pour une obturation complète, le vantail devra comporter une à trois traverses intermédiaires <em>(il n'est pas possible de mettre en œuvre un panneau plein toute hauteur sans traverse)</em>","• Joints silicone ou EPDM
+• Simple ou double parclosage
+• Busettes ou tubulures pour drainage des fonds de feuillure","• Paumelles à souder ou à visser réglables 2D ou 3D et pion médian
+   <strong>--> Nota</strong> : possibilité de porte à double sens d'ouverture (SafeFlow)
+• Serrures 1 ou 2 points avec ou sans fonction anti panique, avec béquille, pushbar...
+• Bâton de maréchal acier, inox ou aluminium sur vantail principal (voir conditions au § 3.3.5.3.2. du PV)
+• Contrôle d’accès en applique ou encastré
+• Ferme-portes en applique ou encastrés de marques DormaKaba, Geze, Eco Schulte, Assa Abloy
+• Opérateurs d’ouverture DormaKaba ED 100 ou 250 avec radar de détection ""Flatscan"" (BEA Sensors)
+• Verrous thermiques (possibilité de porte sans serrure avec poignée de tirage, ou serrure à rouleau)
+• Taquets d'entrainement et bandeaux sélecteurs de fermeture pour les portes à deux vantaux • Passe-câbles encastrés ou en applique
+","• Porte 1 vantail : hors-tout maxi vantail L x H = 1288 x 2938
+
+------
+• Porte 2 vantaux égaux :
+&#32;&#32;&#32;- Vantail principal hors-tout maxi L x H = 1443 x 2700
+&#32;&#32;&#32;- Vantail secondaire hors-tout maxi L x H = 1443 x 2700
+------
+• Porte 2 vantaux inégaux :
+&#32;&#32;&#32;- Vantail principal hors-tout maxi L x H = 1375 x 2898
+&#32;&#32;&#32;- Vantail secondaire hors-tout maxi L x H = 1259 x 2898",1288,2886,2938,2700,4000,"• Béton, parpaing plein, béton cellulaire
+• Intégration dans cloisons légères plâtre types 98/48, 98/62 ou 120/70 avec retombée d'imposte maxi 500 mm
+• Poteau acier protégé en ligne ou en angle à 90°
+• Possibilité d'intégration les portes EI60 directement dans de la cloison vitrée EI60 dito PV EFR-25-003458, ou par assemblage dos-à-dos avec petit montants corps de 30 mm + renfort par tube acier de 50x50x2 fixé mécaniquement côté feu",• Sens de feu indifférent,,,26/03/2031 0:00:00,80141,FEU
+Cloison,fuego light,EI60,PILKINGTON,08-A-275,Rec 3,"Pyrostop 60-101 ép 23±2
+2554 x 1524 (lxh ou hxl)
+Pyrostop 60-201 ép 27±2
+Pyrostop 60-201 avec PVB opal
+Pyrostop Isolant
+1540 x 2495 (lxh ou hxl)
+VISI vitrage avec store intégré
+1000 x 2000 (lxh ou hxl)
+Vitrage de forme S maxi : 2,3 m²
+Angle mini 45°.
+Feu indifférent",2554,2495,"Composé de 3 plaques de BA13 tôlé 2 faces
+1112 x 2700 (lxh ou hxl) 
+Feu indifférent","Joint silicone 
+Joint  EPDM 
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage",-,"Longueur illimitée x 4000
+Longueur illimitée x 3400 y compris cloison légère",0,0,0,0,4000,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120 sur quatre côtés allège et imposte
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage, dos à dos ou à facette",Pas de restriction sur le sens de feu châssis,-,-,2/16/29,80343,FEU
+Porte,fuego light,EI60,PILKINGTON,08-A-287,Rec 24/3 + Ext 11/1 + Ex19/3,"Pyrostop 60-101 ép 23±2
+Pyrostop 60-201 ép 27±2
+Pyrostop 60-201 avec PVB opale
+Pyrostop Isolant
+Feu indifférent",0,0,"Composé de 3 plaques de BA13 tôlé 2 faces 1088 x 2676 (lxh ou hxl) 
+S maxi : 2,9 m²
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent","Joint silicone 
+Joint  EPDM 
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage","Paumelles à souder, avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar
+Contrôle d’accès en applique ou encastré par gâche électrique à émission
+Ferme porte en applique ou encastré
+Automatisme d’ouverture TS99F, ED100 ED 200 ou ED250, Flatscan
+Sans serrure et serrure à rouleaux
+Passecâble en applique ou encastré","Porte 1 vantail 
+PL maxi : 1290 x 2478
+PL maxi : 1180 x 2700 
+PL mini : 560 x 1875
+Vantaux égaux 
+PL maxi : 2800 x 2372
+PL maxi : 2458 x 2700
+PL mini : 1110 x 1875
+Vantaux inégaux(rapport ? à 0,56)
+PL maxi : 2250 x 2514
+PL maxi : 2093 x 2700
+PL mini : 980 x 1875
+S maxi : 5,65 m²",1290,2800,2700,2700,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120 
+Poteau acier protégé entre deux portes ou en angle à 90°
+Possibilité de faire des portes fenêtre dormant 4 côtés
+Intégration des vantaux EI260 dans la Cloison fixe vitrée EI60 PV 08A275",Pas de restriction sur le sens de feu châssis,-,RC2 sur porte 1 vantail,2/16/29,80143,FEU
+Cloison,fuego light,EI30,PILKINGTON,08-A-342,Rec 24/3 + Ext 12/1,"Pyrostop 30-10 ép 15±2
+Pyrostop 30-20 ép 18±2
+1454 x 2438 
+1440 x 2580
+2424 x 1424
+2779 x 1324
+1324 x 2779
+Pyrostop 30-20 + P6B ép 18±2
+964 x 2374
+Pyrostop Isolant
+2889 x 1524 (lxh ou hxl)
+Pyrostop S vitrage avec store intégré
+1000 x 2000 (lxh ou hxl)
+Vitrage de forme S maxi : 2,3 m²
+Angle mini 45°.",2779,2438,"Composé de 2 plaques de BA13 tôlé 2 faces
+2889 x 884 (lxh ou hxl)
+Feu indifférent","Joint silicone 
+Joint  EPDM 
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage",-,Longueur illimitée x 4000 hauteur,0,0,0,0,4000,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 70/120
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage, dos à dos ou à facette
+Assemblage des châssis à facette de 90 à 180 °en profilés fins Ext 12/1",Pas de restriction sur le sens de feu châssis,-,-,2/16/29,70343,FEU
+Porte,fuego light,EI30,PILKINGTON,08-A-343,Rec 24/3 + Ext 11/1 + Ext 17/2,"Pyrostop 30-10 ép 15±2
+Hmax 2500mm en simple vitrage
+Pyrostop 30-20 ép 18±2
+Pyrostop 30-20 + P6B ép 18±2
+Pyrostop Isolant
+Feu indifférent",0,0,"Composé de 2 plaques de BA13 tôlé 2 faces 2865 x 860 (lxh ou hxl)
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent","Joint silicone 
+Joint  EPDM 
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage","Paumelles à visser, à souder, avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar, Bâtons de maréchal
+Contrôle d’accès en applique ou encastré par gâche électrique à émission ou serrure à rupture
+Poteau technique TEGO pour encastrer des digicodes
+Ferme porte en applique ou encastré.
+Automatisme d’ouverture TS99F, ED100 ou ED250, Flatscan
+Ferme porte en applique ou encastré
+Sans serrure et serrure à rouleaux
+Serrures RC2","Porte 1 vantail 
+PL maxi : 1105 x 2887
+PL maxi : 1219 x 2618
+PL maxi : 1550 x 2550
+PL mini : 530 x 1883
+PL mini : 900 x 1600
+Vantaux égaux 
+PL maxi : 2535 x 2864 
+PL maxi : 2795 x 2598
+PL mini : 1215 x 1867
+Vantaux inégaux(rapport ? à 0,51)
+PL maxi : 1908 x 2887
+PL maxi : 2105 x 2617
+PL mini : 915 x 1883",1550,2795,2887,2887,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 70/120
+Poteau acier protégé entre deux portes ou en angle à 90°
+Possibilité de faire des portes fenêtre dormant 4 côtés
+Intégration des vantaux EI230 dans la Cloison fixe vitrée EI30 PV 08A342
+Intégration des vantaux EI230 dans la Cloison fixe vitrée EI60 PV 08A275
+Intégration des vantaux EI230 vitrés dans la Cloison fixe remplissage bois EI30 PV 15003850 Ext 17/2",Pas de restriction sur le sens de feu châssis,-,RC2 sur porte 1 vantail,2/16/29,70143,FEU
+Cloison,presto,E30,PILKINGTON,09-A-496,"+ Ext 11/1+ Ext 12/2 + Ext 15/3 + 
+Rec 15/1 + Ext 19/5","Pyroclear 30-001, 30-002, 30-003
+1424 x 3024 (lxh ou hxl)
+Pyroclear 30-007, 30-008 Ext 11/1
+1584 x 1404 ou 1208 x 2858
+Feu indifférent
+Pyroclear ISO 30-361, 30-371, 30-381
+1408 x 2877 ou 2411 x 1208
+Feu côté contre face
+Pyrodur 30-200 ép 10 Ext 12/2
+1200 x 2600 (lxh ou hxl)
+Pyrodur ISO 30-200 Ext 12/2
+1559 x 2751 ou 1430 x 3000
+3000 x 1333 ou 1547 x 2585
+Feu indifférent
+Pyrodur 30-203, 30-203 ISO Ext 15/3
+1248 x 3000 (lxh ou hxl)
+1400 x 2672 (lxh ou hxl)
+Pyrodur 30-10
+1000 x 2000
+Feu indifférent
+Pyrodur Plus 30-106 Ext 19/5
+1300 x 3000 (lxh)
+2480 x 1196 (lxh)
+Vitrage de forme avec le Pyrodur
+Angle mini : 20° 
+S maxi : 2,07 m²  vitrage triangulaire              S maxi : 0,68 m² vitrage tête cintrée",3000,3000,"Composé de 2 plaques de BA13 tôlé 2 faces .
+1180 x 1700 (lxh ou hxl)
+Feu indifférent","Joint silicone
+Joint  CR avec le Pyrodur",-,"Longeur illimitéé x 3100 hauteur
+Châssis L x H = 3000 x 4000",0,0,0,0,3100,"Béton, parpaing plein, béton cellulaire
+Intégration dans la Cloison légère 70/120 
+Poteau acier protégé entre deux  châssis ou en angle à 90°
+Système d’assemblage des traverses  par manchonnage 
+Ossature Cloison vitrée profilés ACIER ou INOX ",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",6/8/25,10313,FEU
+Porte,presto,E30,PILKINGTON,09-A-497,"+ Ext 11/1 + Ext 12/2 + Ext 12/3 +
+Ext 15/4 + Ext 19/6 + Ext 22/7","Pyroclear 30-001, 30-002, 30-003
+Pyroclear 30-007, 30-008 .Ext 11/1
+Feu indifférent
+Pyroclear ISO 30-361, 30-371, 30-381
+Feu côté contre face
+Pyrodur 30-200, 30-200 ISO Ext 12/2
+Feu indifférent
+Pyrodur 30-203, 30-203 ISO Ext 15/4
+Pyrodur 30-10
+Pyrodur plus 30-106 Ext 19/6
+Feu indifférent",0,0,"Composé de 2 plaques de BA13 tôlé 2 faces 
+1180 x 1700 (lxh ou hxl)
+Remplissage maxi 50% de la surface de la porte
+Feu indifférent","Joint silicone 
+Joint  CR avec le Pyrodur","Paumelles à visser, à souder ou invisible, avec pion médian
+Serrure 1 , 2 ou 3 points avec ou sans fonction anti panique
+Verrouillage thermique : serrure à rouleau, sans serrure, suppression du renfort en partie haute du vtl
+Contrôle d’accès encastré ou en applique
+Ferme porte en applique ou encastré","Porte 1 vantail 
+PL maxi : 1260 x 2415 serrure 1 pt
+PL maxi : 1260 x 2915 serrure 2 pts
+PL maxi : 1460 x 2720 INOX serrure 3 pts
+Vantaux égaux 
+PL maxi : 2800 x 2415 serrure 1 pt sur le VP, 2 pts encastrés sur le VS
+PL maxi : 2800 x 2970
+PL maxi : 2280 X 2860 INOX
+Vantaux inégaux rapport ? à 0,39
+PL maxi : 2800 x 2970
+VP larg maxi 1150
+VS larg mini 500.
+rapport ? à 0,50 INOX serrure 2 pts sur le VP, serrure encastrée, en applique ou libre sur le VS",1460,2800,2970,2970,0,"Béton, parpaing plein, béton cellulaire.
+Intégration dans Cloison légère 70/120
+Poteau acier protégé entre deux  portes ou en angle à 90°
+Intégration des vantaux E30 dans la Cloison fixe vitrée E30 PV 09A496
+Intégration des vantaux E30 dans la Cloison fixe vitrée EI30 PV 08A342
+Intégration des vantaux E30 dans la Cloison fixe vitrée EI60 PV 08A275
+Bloc porte  version profilés INOX  Ext 12/3",Pas de restriction sur le sens de feu châssis,-,-,6/8/25,10113,FEU
+Ouvrant de service,presto,E30,PILKINGTON,09-A-497,+ Ext 11/1 + Ext 12/2 + Ext 15/4 + Rec 15/1,"Pyroclear 30-001, 30-002, 30-003
+1424 x 3024 (lxh ou hxl)
+Pyroclear 30-007, 30-008 Ext 11/1
+1584 x 1404 ou 1208 x 2858
+Feu indifférent
+Pyroclear ISO 30-361, 30-371, 30-381
+1408 x 2877 ou 2411 x 1208
+Feu côté contre face
+Pyrodur 30-200 ép 10 Ext 12/2
+1200 x 2600 (lxh ou hxl)
+Pyrodur ISO 30-200 Ext 12/2
+1559 x 2751 ou 1430 x 3000
+3000 x 1333 ou 1547 x 2585
+Feu indifférent
+Pyrodur 30-203, 30-203 ISO Ext 15/3
+1248 x 3000 (lxh ou hxl)
+1400 x 2672 (lxh ou hxl)
+Pyrodur 30-10
+1000 x 2000
+Feu indifférent
+Pyrodur Plus 30-106 Ext 19/5
+1300 x 3000 (lxh)
+2480 x 1196 (lxh)
+Vitrage de forme avec le Pyrodur
+Angle mini : 20° 
+S maxi : 2,07 m²  vitrage triangulaire              S maxi : 0,68 m² vitrage tête cintrée",0,0,-,"Joint silicone 
+Joint  CR avec le Pyrodur","Crémone encastrée MTS
+Paumelles à souder du commerce","Ouvrant à la Française
+ 1 vantail 
+PL 1196 x 1285
+PL 1095 x 1403",1460,2800,2970,2970,0,"Béton, parpaing plein, béton cellulaire
+Intégration de l’Ouvrant dans la cloison fixe E30 
+PV 09A496",Pas de restriction sur le sens de feu châssis,-,-,6/8/25,10213,FEU
+Cloison,fuego light,EI30,GLASTRÖSCH,EFR-25-002146,,"• Fireswiss Foam 30-15, 30-16 O, 30-19 ou 30-20 O : L x H = 2000 x 2840 ou L x H = 2500 x 1500
+• Fireswiss Foam 30 isolant : L x H = 1200 x 2500 ou L x H = 2000 x 2840
+",2500,2840,Non,"• Joints EPDM ou silicone sur fibre céramique
+• Simple ou double parclosage
+",-,Longueur illimitée x 3000 hauteur (3400 avec retombée cloison légère de 400 mm),0,0,0,0,3000,"• Béton, parpaing plein, béton cellulaire
+• Intégration dans cloison légère 98/48",Sens de feu indifférent,-,-,06/05/2030 0:00:00,70342,FEU
+Porte,fuego light,EI30,GLASTRÖSCH,09-A-500 A,,"Fireswiss Foam 30-15 ép 15
+Fireswiss Foam 30-16 ép 16
+Fireswiss Foam 30-19 ép 19
+Fireswiss Foam 30-20 ép 20
+Fireswiss Foam 30 Isolant
+Feu indifférent",0,0,Non,"Joint silicone 
+Joint  EPDM 
+Simple ou double parclosage
+","Paumelles à souder avec pion médian
+Serrure à 1 ou 2 points avec ou sans fonction anti panique avec béquille
+Ferme porte en applique ou encastré
+Serrures RC2","Porte 1 vantail 
+PL maxi : 1400 x 2980
+PL mini : 700 x 2235
+Vantaux égaux 
+PL maxi : 2830 x 2880
+PL mini : 1415 x 2160
+Vantaux inégaux 
+PL maxi : 2977 x 2516
+PL mini : 1466 x 1887
+Larg VP maxi : 1460 mm
+Larg VS mini : 652 mm",1400,2830,2980,2980,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98
+Intégration des vantaux EI230 dans la Cloison fixe vitrée EI30 PV 09A499 ",Pas de restriction sur le sens de feu châssis,-,RC2 sur porte 1 vantail,5/6/25,70142,FEU
+Cloison,fuego light,EI30,AGC,EFR-25-003460,,"• Pyrobel 16, 16 EG, et 16 EG2 : L x H = 1600 x 2835 ou L x H = 2835 x 1400
+• Pyrobel 16 ISO et 16 EG ISO : L x H = 1400 x 2835 ou L x H = 2835 x 1400
+• Vitrage en forme de triangle, parallélogrammes ou trapèzes,  Surface maxi 3,75 m² et angle mini 19°.
+• Possibilité de vitrages avec store à lames ou petits-bois (alu/laiton) intégrés dans la lame d’air",1600,2835,"• Composé de 2 plaques de BA13 tôlé 2 faces, surface maxi 2,5 m² (ép. 28 ou 29 mm)
+• Composé de 3 plaques de BA13 tôlé 2 faces, surface maxi 3 m² (ép. 40,5 ou 41,5 mm)
+• Composé de 2 plaques de plâtre GKF spécial feu tôlé 2 faces, surface maxi 3,58 m² (ép. 28 mm)","• Joints silicone ou EPDM
+• Simple ou double parclosage
+• Busettes ou tubulures pour drainage des fonds de feuillure",,"• Longueur illimitée x hauteur maxi 4960 de dalle à dalle
+• Longueur illimitée x hauteur maxi 3400 dans cloison cloison légère plâtre type 98/48
+• Longueur illimitée x hauteur maxi 4000 dans cloison cloison légère plâtre type 98/62 ou 120/70",0,0,0,0,4960,"• Béton, parpaing plein, béton cellulaire
+• Intégration dans cloisons légères plâtre types 98/48, 98/62 ou 120/70 avec retombée d'imposte maxi 500 mm
+• Poteau acier protégé en ligne ou en angle à 90°",• Sens de feu indifférent,"• Possibilité de facettes ou d'angles rentrants/sortants à 45 et 90°
+• Possibilité de superposition des châssis
+• Possibilité de fixation sous dalle avec dilatation
+• Possibilité de manchonnage des châssis et d'assemblage mécanique des traverses",,26/03/2031 0:00:00,70341,FEU
+Porte,fuego light,EI30,AGC,EFR-25-0003461,,"• Pyrobel 16, 16 EG et 16 EG2 : L x H = 1407 x 2839
+• Pyrobel 16 ISO, 16 EG ISO : L x H = 1308 x 2460
+• Possibilité de vitrages avec store à lames ou petits-bois (alu/laiton) intégrés dans la lame d’air",1407,2839,"• Composé de 2 plaques de BA13 tôlé 2 faces, surface maxi 2,5 m² (ép. 28 ou 29 mm)
+• Composé de 3 plaques de BA13 tôlé 2 faces, surface maxi 3 m² (ép. 40,5 ou 41,5 mm)
+• Composé de 2 plaques de plâtre GKF spécial feu tôlé 2 faces, surface maxi 3,58 m² (ép. 28 mm)
+------
+<strong>Nota :</strong> pour une obturation complète, le vantail devra comporter une à trois traverses intermédiaires <em>(il n'est pas possible de mettre en œuvre un panneau plein toute hauteur sans traverse)</em>","• Joints silicone ou EPDM
+• Simple ou double parclosage
+• Busettes ou tubulures pour drainage des fonds de feuillure","• Paumelles à souder ou à visser réglables 2D ou 3D et pion médian
+• Paumelles encastrées invisibles
+   <strong>--> Nota :</strong> possibilité de porte à double sens d'ouverture (SafeFlow)
+• Serrures 1 ou 2 points avec ou sans fonction anti panique, avec béquille, pushbar...
+• Bâton de maréchal acier, inox ou aluminium sur vantail principal (voir conditions au § 3.3.5.3.2. du PV)
+• Contrôle d’accès en applique ou encastré
+• Poteau technique TEGO pour encastrer les dispositifs de contrôle d'accès
+• Ferme-portes en applique ou encastrés de marques DormaKaba, Geze, Eco Schulte, Assa Abloy
+• Opérateurs d’ouverture DormaKaba ED 100 ou 250 avec radar de détection ""Flatscan"" (BEA Sensors)
+• Verrous thermiques (possibilité de porte sans serrure avec poignée de tirage, ou serrure à rouleau)
+• Taquets d'entrainement et bandeaux sélecteurs de fermeture pour les portes à deux vantaux
+• Passe-câbles encastrés ou en applique","• Porte 1 vantail : hors-tout maxi vantail L x H = 1679 x 2935
+
+• Porte 2 vantaux (égaux ou inégaux) :
+       - Vantail principal hors-tout maxi L x H = 1679 x 3476
+       - Vantail secondaire hors-tout maxi L x H = 1679 x 3476",1679,3358,2935,3476,4000,"• Béton, parpaing plein, béton cellulaire
+• Intégration dans cloisons légères plâtre types 98/48, 98/62 ou 120/70 avec retombée d'imposte maxi 500 mm
+• Poteau acier protégé en ligne ou en angle à 90°
+• Possibilité d'intégration les portes EI30 directement dans des cloisons vitrées EI30 dito PV EFR-25-003460 ou EI60 dito PV EFR-25-003458, ou par assemblage dos-à-dos avec petit montants corps de 30 mm + renfort par tube acier de 50x50x2 fixé mécaniquement côté feu",• Sens de feu indifférent,,,26/03/2031 0:00:00,70141,FEU
+Cloison,fuego light,EI60,GLASTRÖSCH,10-A-631,+ Ext 14/1,"Fireswiss Foam 60-23 
+Fireswiss Foam 60-24 O 
+Fireswiss Foam 60-27 
+Fireswiss Foam 60-28 O 
+Fireswiss Foam 60 Isolant
+Fireswiss Foam 60 feuilleté
+1500 x 2500 (hxl ou lxh)
+Vitrage de forme S maxi : 1,3 m²
+Angle mini 45°.
+Feu indifférent",1500,2500,Non,"Kérafix + Joint silicone 
+Joint EPDM
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage",-,"Longueur illimitée x 3000
+Longueur illimitée x 3400 y compris cloison légère",0,0,0,0,3400,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 98 /48 en imposte et partie fixe latérale ht maxi 400 mm
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage et jonction dos à dos vertical
+Remplacement des profilés Fuego light percés par les profilés sans trous. Ext 17/1",Pas de restriction sur le sens de feu châssis,-,-,1/26/27,80342,FEU
+Porte,fuego light,EI60,GLASTRÖSCH,10-A-632,Rec. 23/2,"Fireswiss Foam 60-23 
+Fireswiss Foam 60-24 O 
+Fireswiss Foam 60-27 
+Fireswiss Foam 60-28 O 
+Fireswiss Foam 60 Isolant
+Fireswiss Foam 60 feuilleté",0,0,"Composé de 3 plaques de BA13 tôlé 2 faces 1088 x 2676 (lxh ou hxl) 
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent","Joint silicone
+Joint EPDM
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage","Paumelles à souder, avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar
+Contrôle d’accès en applique ou encastré par gâche électrique à émission
+Ferme porte en applique ou encastré
+Passecâble en applique ou encastré","Porte 1 vantail 
+PL maxi : 1403 x 2851
+PL maxi : 1391 x 2875 
+PL mini : 610 x 1975
+Vantaux égaux 
+PL maxi : 2820 x 2700 
+PL mini : 1410 x 2025
+Vantaux inégaux 
+Largeur maxi vantail secondaire : 610 mm
+Largeur maxi vantail principal : 1410 mm",1403,2820,2875,2875,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120 ht imposte maxi 500 mm.
+Poteau acier protégé entre deux portes ou en angle 
+à 90°
+Possibilité de faire des portes fenêtre dormant 4 côtés
+Intégration des vantaux EI260 dans la Cloison fixe vitrée EI60 PV 10A631","Restriction sur le sens de feu châssis, voir PV",-,RC2 sur porte 1 vantail,12/06/2028 0:00:00,80142,FEU
+Ouvrant de service,presto,E30,VETROTECH,10-A-650,Rec 26.3 + Rec 21/2 + Rec 16/1 + Ext 11/2 + Ext 17/3 + Ext 23/4,"• Vetroflam Climaplus, Vetroflam Stadip, Vetroflam monolithique
+
+• Pyroswiss 5, 6 ou 10 mm, Pyroswiss Satinovo et Mastercarre 6 mm, Pyroswiss Seralit et Parsol 6 mm
+• Pyroswiss Stadip, Pyroswiss Climaplus
+
+• Contraflam Lite 30 monolithique, Contraflam Lite 30 Climaplus ou Climalit, Contraflam Lite 30 monolithique",0,0,-,-,"Crémone encastrée MTS
+Paumelles à souder du commerce","• Ouvrant à la Française 1 vantail
+Passage libre maxi L x H = 1196 x 1403, sans que la surface ne dépasse 1,52 m²",1196,0,1403,0,0,"Béton, parpaing plein, béton cellulaire",Pas de restriction sur le sens de feu châssis,-,-,20/01/2031 0:00:00,10216,FEU
+Cloison,presto,E60,VETROTECH,10-A-650,Rec 26/3 + Rec 21/2 + Rec 16/1 + Ext 11/2 + Ext 17/3 + Ext 23/4,"• Vetroflam Climaplus : L x H maxi = 1500 x 3000 ou 1920 x 1035
+• Vetroflam Stadip : L x H maxi = 890 x 2220 ou 1475 x 940
+• Vetroflam monolithique : L x H maxi = 890 x 2220 ou 1475 x 940
+
+• Contraflam Lite 60 monolithique, Climaplus ou Climalit : L x H maxi = 1680 x 3800, sans pouvoir dépasser surface de 5,52 m²",0,0,"Composé de 2 plaques de BA13 tôlé 2 faces 
+S maxi : 2 m²
+Feu indifférent",Joint siliconeou Fibre minérale + Joint silicone Firestop 700 ou Pyrosil B ,-,Longueur illimitée x 3300 hauteur,1195,0,1403,1403,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120 sur quatre côtés en allège, imposte ou partie fixe
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage ou dos à dos",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",20/01/2031 0:00:00,20316,FEU
+Cloison,fuego light,EI90,PILKINGTON,11-A-091,,"Pyrostop 90-102 ép 37±2
+1360 x 2844 
+2218 x 1414
+Pyrostop 90-182 ép 54±2
+1384 x 2864
+1430 x 1330
+Feu indifférent",2218,2844,"Promatect H ép 50 mm tôlé 2 faces 
+1384 x 465 (HxL ou LxH)
+2 plaques de Powerpanel FermacelL+ isolant kit 900301 tôlé 23 faces ép 50 mm
+1406 x 1876 ou 1440 x 1910
+Feu indifférent","Joint silicone
+Joint EPDM
+Simple ou double parclosage
+Douille pour le drainage en applique pour le drainage du fond de feuillure du vitrage",-,Longueur illimitée x 3950 hauteur,0,0,0,0,3950,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 70/120 dans partie fixes latérales
+Assemblage des châssis entre eux dos à dos ",Pas de restriction sur le sens de feu châssis,-,-,3/29/26,90343,FEU
+Cloison,presto,E90,VETROTECH,11-A-504,,"Contraflam lite 60
+Feu indifférent
+Contraflam lite 60 Isolant
+1250 x 2338
+Feu côté contre face",1250,2338,Non,Joint siliconeou Fibre minérale + Joint silicone Firestop 700 ou Pyrosil B ,-,Longueur illimitée x 3040 hauteur,0,0,0,0,3040,"Béton, parpaing plein
+Intégration dans Cloison légère 70/120 
+Assemblage des châssis en dos à dos vissé",Pas de restriction sur le sens de feu châssis,-,-,1/16/27,50316,FEU
+Cloison,presto,E120,VETROTECH,11-A-504,,"Contraflam lite 60
+Feu indifférent
+Contraflam lite 60 Isolant
+1250 x 2338
+Feu côté contre face",1250,2338,Non,Joint siliconeou Fibre minérale + Joint silicone Firestop 700 ou Pyrosil B ,-,Longueur illimitée x 3040 hauteur,0,0,0,0,3040,"Béton, parpaing plein
+Intégration dans Cloison légère 70/120 
+Assemblage des châssis en dos à dos vissé",Pas de restriction sur le sens de feu châssis,-,-,1/16/27,60316,FEU
+Porte,presto,E90,VETROTECH,11-A-505,+ Rec 17/1,"Contraflam lite 60
+Feu indifférent
+Contraflam lite 60 Isolant
+Feu côté contre face",0,0,Non,"Joint siliconeou Fibre minérale + Joint silicone Firestop 700 ou 
+Pyrosil B ","Paumelles à visser, à souder ou invisible, avec pion médian
+Serrure 2 points avec ou sans fonction anti panique
+Contrôle d’accès encastré ou en applique
+Ferme porte en applique ou encastré, DORMA, GEZE, LEVASSEUR, ASSA ABLOY
+Automatisme d’ouverture TS99FL, ED100, 200 ou 250 DORMA","Vantaux égaux 
+PL maxi 2185 x 2457
+PL maxi : 1983 x 2708
+Vantaux inégaux 
+VP larg maxi : 1288 
+VS larg mini : 300",0,2185,2708,2708,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 70/120
+Intégration des vantaux E90 dans la Cloison fixe vitrée E90 PV 11A504
+Intégration des vantaux E120 dans la cloison fixe vitrée E120 PV 11A504",Pas de restriction sur le sens de feu châssis,-,-,1/12/27,50116,FEU
+Porte,presto,E120,VETROTECH,11-A-505,+ Rec 17/1,"Contraflam lite 60
+Feu indifférent
+Contraflam lite 60 Isolant
+Feu côté contre face",0,0,Non,"Joint siliconeou Fibre minérale + Joint silicone Firestop 700 ou 
+Pyrosil B ","Paumelles à visser, à souder ou invisible, avec pion médian
+Serrure 2 points avec ou sans fonction anti panique
+Contrôle d’accès encastré ou en applique
+Ferme porte en applique ou encastré, DORMA, GEZE, LEVASSEUR, ASSA ABLOY
+Automatisme d’ouverture TS99FL, ED100, 200 ou 250 DORMA","Vantaux égaux 
+PL maxi 2185 x 2457
+PL maxi : 1983 x 2708
+Vantaux inégaux 
+VP larg maxi : 1288 
+VS larg mini : 300",0,2185,2708,2708,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 70/120
+Intégration des vantaux E90 dans la Cloison fixe vitrée E90 PV 11A504
+Intégration des vantaux E120 dans la cloison fixe vitrée E120 PV 11A504",Pas de restriction sur le sens de feu châssis,-,-,1/12/27,60116,FEU
+Porte,presto,E60,VETROTECH,11-A-506,+ Ext EFR 14-000468,"Vétroflam ép 6
+Feu côté marquage
+Vétroflam feuilleté
+Vétroflam Climaplus Isolant
+Feu côté contre face",0,0,"Composé de 2 plaques de BA13 tôlé 2 faces
+Peut remplacer un vitrage  S maxi : 2 m²
+Feu indifférent",Joint siliconeou Fibre minérale + Joint silicone Firestop 700 ou Pyrosil B,"Paumelles à visser, à souder, invisible, ou déportées et pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique
+Contrôle d’accès encastré ou en applique
+Ferme porte en applique, encastré ou pivot frein au sol à axe déporté, DORMA, GEZE, LEVASSEUR, ASSA ABLOY
+Automatisme d’ouverture TS99FL, ED100, 200 ou 250 DORMA","Porte 1 vantail 
+PL maxi : 1050 x 2250
+Vantaux égaux 
+PL maxi : 2460 x 2845
+Vantaux inégaux 
+VP larg maxi : 1350 
+VS larg mini : 300 ",1050,2460,2845,2845,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120 
+Poteau acier protégé en ligne ou en angle à 90° 
+Intégration des vantaux E60 dans la cloison fixe vitrée E60 PV 10A650
+Intégration des vantaux E60 dans la cloison fixe vitrée EI60 PV 12A077",Pas de restriction sur le sens de feu châssis,-,-,4/12/27,20116,FEU
+Porte,presto,E30,VETROTECH,11-A-507,+ Ext EFR 14-000468 + Rec 17/1 + Ext 22/2,"Pyroswiss 5 – 6 – 10 mm
+Feu indifférent
+Pyroswiss feuilleté ou Isolant
+Feu côté contre face
+Pyroswiss Climaplus
+Feu côté tampon de marquage",0,0,"Composé de 2 plaques de BA13 tôlé 2 faces ou 1 face émalit 
+Peut remplacer un vitrage  S maxi : 2 m²
+Feu indifférent",Joint silicone,"Paumelles à visser, à souder ou invisible, avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique
+Serrure électrique à rupture.
+Contrôle d’accès encastré ou en applique
+Verrouillage thermique : serrure à rouleau, sans serrure, suppression du renfort en partie haute du vtl
+Ferme porte en applique ou encastré, pivot frein au sol à axe déporté DORMA , GEZE, LEVASSEUR, ASSA ABLOY
+Automatisme d’ouverture TS99FL, ED100, 200 ou 250 DORMA","Porte 1 vantail 
+PL maxi : 1610 x 2820
+PL maxi : 1462 x 3105 
+Vantaux égaux 
+PL maxi : 2767 x 3036
+PL maxi : 2567 x 3272
+Vantaux inégaux 
+VP larg maxi 1428 
+VS larg mini 300 ",1610,2767,3272,3272,0,"Béton, parpaing plein, béton cellulaire.
+Intégration dans Cloison légère 70/120 ou 48/98
+Poteau acier protégé entre deux portes ou en angle à 90°
+Intégration des vantaux E30 dans la Cloison fixe vitrée E30, PV 10A650
+Intégration des vantaux E30 dans la Cloison fixe vitrée E60, PV 10A650
+Intégration des vantaux E30 dans la Cloison fixe vitrée EI30, PV 12A079
+Intégration des vantaux E30 dans la Cloison fixe vitrée EI60, PV 12A077",Pas de restriction sur le sens de feu châssis,-,RC2,4/12/27,10116,FEU
+Cloison,presto,E30,AGC,11-A-571,"+ Ext 11/1 + Ext 12/2 + Ext 12/3 
++ Ext 14-003209","Pyrobelite 7 
+1100 x 2420 ou 2240 x 1130 
+Feu indifférent
+Pyrobelite 9EG ou Isolant Ext 14-003209
+1100 x 2420 ou 2240 x 1130
+Feu indifférent
+Double vitrage avec petit bois intégré dans la lame d’air Ext 12/2
+Pyrobelite 10 ou Isolant avec contre face feuilletée
+ Ext 12 /3
+1200 x 3100 ép 11  
+2240 x 1130 ép 11, ISO
+1430 x 2280 ISO*
+1155 x 2967 
+Feu indifférent pour le Pyrobelite 10
+*Feu côté contreface
+Pyrobelite 12 , 12EG ou Isolant
+1315 x 2880 ou 2500 x 1300
+Feu indifférent
+Pyrobelite 13, 13EG ou Isolant
+1100 x 2420 ou 2240 x 1130 
+Feu indifférent
+Pyrobelite ISO avec Store intégré 
+Ext 11/1
+Vitrage de forme , angle mini 23°
+S maxi : 3.75 m²",2500,2880,"Composé de 2 plaques de BA13 tôlé 2 faces
+1180 x 1700 (lxh ou hxl)
+Feu indifférent",Joint silicone ,-,Longeur illimitée x 3400,0,0,0,0,3400,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120  en imposte ht maxi 1000, partie fixes latérales et allège ht maxi 2200  Ext 12/2
+Poteau acier protégé entre deux châssis ou en angle à 90°",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",7/3/27,10311,FEU
+Porte,presto,E30,AGC,11-A-572,Rec 22/2 + Ext 12/1 + Ext 12/2 + Ext 14-003209 + Ext 22/4 + Ext 25/6,"Pyrobelite 7 (ne pas utiliser pour les portes)
+Feu indifférent
+Pyrobelite 9EG ou Isolant Ext 14-003209
+Feu indifférent
+Pyrobelite 10 ou Isolant Ext 12 /2
+Feu indifférent
+ISO feu côté contre face
+Pyrobelite 12, 12EG ou Isolant
+Feu indifférent
+Pyrobelite 13, 13EG ou Isolant
+Feu indifférent",0,0,"Composé de 2 plaques de BA13 tôlé 2 faces
+ 1180 x 1700 (lxh ou hxl)
+Remplissage maxi 50% de la surface de la porte
+Feu indifférent",Joint silicone,"Paumelles à visser, à souder ou invisible, avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique
+Contrôle d’accès encastré ou en applique
+Verrouillage thermique : serrure à rouleau, sans serrure
+Ferme porte en applique ou encastré","• Porte 1 vantail : PL maxi : 1056 x 3000 serrure 1 ou 2 pts  
+• Porte 2 vantaux égaux : PL maxi : 2022 x 3000 serrure 2 pts sur le VP, serrure encastrée, en applique ou libre sur le VS 
+• Porte 2 vantaux inégaux : 0,39 < rapport VP/VS < 1, avec largeur mini VS de 300 mm.",1056,2022,3000,3000,0,"• Béton, parpaing plein, béton cellulaire
+• Intégration dans Cloison légère 70/120 ou 48/98 
+• Poteau acier protégé entre deux portes ou en angle à 90° 
+• Intégration des vantaux E30 dans la Cloison fixe vitrée E30 PV 11A571 
+• Intégration des vantaux E30 dans la Cloison fixe vitrée EI30 PV 10A446 
+• Intégration des vantaux E30 dans la Cloison fixe vitrée EI60 PV 06A105 ",Pas de restriction sur le sens de feu châssis,-,-,7/3/27,10111,FEU
+Ouvrant de service,presto,E30,AGC,11-A-572,Rec 22/2 + Ext 12/1 + Ext 12/2 + Ext 14-003209 + Ext 22/4 + Ext 25/6,"Pyrobelite 7 (ne pas utiliser pour les portes)
+Feu indifférent
+Pyrobelite 9EG ou Isolant Ext 14-003209
+Feu indifférent
+Pyrobelite 10 ou Isolant Ext 12 /2
+Feu indifférent
+ISO feu côté contre face
+Pyrobelite 12, 12EG ou Isolant
+Feu indifférent
+Pyrobelite 13, 13EG ou Isolant
+Feu indifférent",0,0,-,Joint silicone ou Fiberfrax,"Crémone encastrée MTS
+Paumelles à souder du commerce","Ouvrant à la Française 1 vantail 
+PL maxi L x H = 1196 x 1285 ou L x H = 1095 x 1403",0,0,0,0,0,"Béton, parpaing plein, béton cellulaire
+Intégration de l’ouvrant dans la cloison fixe E30 selon PV 11-A-571",Pas de restriction sur le sens de feu châssis,-,-,7/3/27,10211,FEU
+Cloison,fuego light,EI60,VETROTECH,12-A-077,Rév. 1 + Rec. 22/2 et 17/1,"• Contraflam 60 monolithique ép 25 : 2500 x 1500 (hxl ou lxh)
+• Contraflam 60 monolithique ép 26 : 2750 x 1500 (hxl ou lxh)
+• Contraflam 60 monolithique ép 29 : 2750 x 1500 (hxl ou lxh) 2500 x 1650 (hxl ou lxh)
+• Contraflam 60 Climaplus : 
+   &#45; 1572 x 2390
+   &#45; 1310 x 2868
+• Contraflam 60-3 :
+   &#45; 2300 x 4310
+   &#45; 2760 x 2300
+   --> Epaisseur à faire valider en fonction de la dimension
+• Contraflam 60-3  Climaplus / Contraflam 60-3 Climalit :
+   &#45; 2300 x 3800
+   &#45; 2748 x 948 - Surface maxi 2.19 m²
+• Contraflam 60-3 Climalit avec store intégré : 1600 x 3210
+• Vitrage de forme S maxi : 1,06 m² / Angle mini 20°
+• Feu indifférent",2760,3800,"• Panneau ép. 40,5 mm constitués de 2 tôles acier ép. 1,5 mm + 3 plaques de BA13 (Une des tôles acier peut être remplacée par un vitrage émaillé ""Emalit Evolution"")
+• Panneau ép. 40 mm constitués de 2 tôles alu ép. 2 mm + 2 plaques de Promatect H ép. 18 mm (Une des tôles alu peut être remplacée par un vitrage émaillé ""Emalit Evolution"")
+• Panneau composite ""RF-1"" de la Sté RWD Schlatter AG) d'épaisseur 58 à 63 mm (voir détails dans le PV)","Kérafix + Joint silicone 
+Joint EPDM
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage",-,"Longueur illimitée x 4400
+Longueur illimitée x 3800 y compris cloison légère",0,0,0,0,4400,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage et jonction dos à dos vertical ou horizontal ou à facette
+Intégration dans Cloison légère 48/98 ou 70/120 sur quatre côtés allège ht maxi 2310 et imposte ht maxi 1000 mm Ext 17/1",Pas de restriction sur le sens de feu châssis,-,-,5/29/27,80346,FEU
+Porte,fuego light,EI60,VETROTECH,12-A-078 ,+ Ext 17/1 révisée + Ext 19/2 + Ext 20/3,"Contraflam 60 monolithique ép 25
+Contraflam 60 monolithique ép 26
+Contraflam 60 monolithique ép 29
+Contraflam 60 Climaplus Isolant
+Contraflam 60-3 ép 27-31 Ext 17/1 révisée
+Contraflam 60-3 Climaplus Isolant
+Feu indifférent",0,0,"Composé de 3 plaques de BA13 tôlé 2 faces ou 1 émalit 6 mm 1082 x 2670 (lxh ou hxl) 
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent","Joint silicone
+Joint EPDM
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage","Paumelles à souder, à visser ou pivot au sol avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar ou bâtons de maréchal
+Contrôle d’accès en applique ou encastré par gâche électrique à émission ou serrure à rupture
+Ferme porte en applique, ou pivot frein au sol
+Automatisme d’ouverture TS99F, ED100 ED200 ou ED250, Flatscan
+Sans serrure et serrure à rouleaux
+Passecâble en applique ou encastré","Porte 1 vantail 
+PL maxi : 1290 x 2700 
+PL mini : 560 x 1875
+Vantaux égaux 
+PL maxi : 2800 x 2464
+PL maxi : 2555 x 2700
+PL mini : 1100 x 1875
+Vantaux inégaux (rapport ? à 0,56)
+PL maxi : 2250 x 2700
+PL mini : 980 x 1875
+Largeur maxi VP : 1185
+Largeur mini VS : 412",1290,2800,2700,2700,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120 
+Poteau acier protégé entre deux portes ou en angle 
+à 90°
+Possibilité de faire des portes fenêtre dormant 4 côtés
+Intégration des vantaux EI260 dans la Cloison fixe vitrée EI60 PV 12A077
+Intégration du bloc porte EI260 dans la Cloison fixe vitrage à joints verticaux collés EI60 PV 11A384 séparé d’un poteau acier protégé.",Pas de restriction sur le sens de feu châssis,-,"RC2 sur porte 1 vantail
+Sa
+S200 + C5",5/29/27,80146,FEU
+Cloison,fuego light,EI30,VETROTECH,12-A-079,Rec 22/2 + Rév 1 + Ext 23/2,"Contraflam 30 monolithique ép 16
+1500 x 3000 (lxh ou hxl)
+Contraflam 30 Climaplus Isolant
+1500 x 3000
+2500 x 1500
+Contraflam 30 monolithique ép 18
+1800 x 3028
+1558 x 3500
+Contraflam 30 monolithique ép 22
+1800 x 3028
+1514 x 3600
+Vitrage de forme S maxi : 1,72 m²
+Angle mini 20°.
+Feu indifférent
+
+Ext 23/2 : intégration vitrage E30 – EW30 – E60 – EW 60 dans profil Fuego Light 30 (Porte E30 dans EI60)
+Pyroswiss Climaplus (VSGI)
+Pyroswiss Low-E Climaplus (VSGI)
+Vetroflam Climaplus (VSGI)
+Contraflam Lite 30 Climaplus (VSGI)
+Contraflam Lite 60 Climaplus (VSGI)
+Film adhésif d'épaisseur maximale 150 μm et de classement M0, M1, A1, A2 ou B peut être mis en œuvre sur l'une des faces vitrages
+Les vitrages VETROFLAM (VSGI) et PYROSWISS (VSGI) sont situés cotés opposé au feu",2500,3600,"Composé de Promatect H ép 30 mm tôlé 2 faces ou 1 face en Emalit 6 mm 
+S maxi : 2 m²
+Feu indifférent","Joint silicone
+Joint EPDM
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage",-,Longueur illimitée x 3400 avec traverses             Longueur illimitée x 3750 sans traverses                      Longueur illimitée x 3800 ycompris cloisons légères,0,0,0,0,3800,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux châssis ou en angle
+ à 90°
+Système d’assemblage des traverses par manchonnage et jonction dos à dos vertical ou horizontal
+Intégration dans Cloison légère 48/98 ou 70/120 sur quatre côtés allège ht maxi 2310 et imposte ht maxi 1000 mm Ext 17/1",Pas de restriction sur le sens de feu châssis,-,-,6/20/27,70346,FEU
+Porte,fuego light,EI30,VETROTECH,12-A-080,Rec 22/2 + Ext 23/2 + Ext 23/3 + Ext 23/4,"Contraflam 30 monolithique ép 16
+Contraflam 30 monolithique ép 18
+Contraflam 30 monolithique ép 22
+Contraflam 30 Climaplus Isolant
+Feu indifférent
+Ext 22/4 : intégration vitrage E30 – EW30 – E60 – EW 60 dans profil Fuego Light 30 (Porte E30 dans EI60)
+Pyroswiss Climaplus (VSGI) 			
+Pyroswiss Low-E Climaplus (VSGI)			
+Vetroflam Climaplus (VSGI)			
+Contraflam Lite 30 Climaplus (VSGI)			
+Contraflam Lite 60 Climaplus (VSGI)	
+Film adhésif d'épaisseur maximale 150 μm et de classement M0, M1, A1, A2 ou B peut être mis en œuvre sur l'une des faces vitrages			
+Les vitrages VETROFLAM (VSGI) et PYROSWISS (VSGI) sont situés cotés opposé au feu",0,0,"Composé de Promatect H ép 30 mm tôlé 2 faces ou 1 face en Emalit 6 mm S maxi : 2 m²
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent","Joint silicone
+Joint EPDM
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage","Paumelles à visser, à souder ou pivot avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar ou bâtons de maréchal
+Contrôle d’accès en applique ou encastré par gâche électrique à émission ou serrure à rupture
+Poteau technique TEGO pour encastrer des digicodes
+Ferme porte en applique ou encastré, ou pivot frein au sol
+Automatisme d’ouverture TS99F, ED100 ED200 ou ED250, flatscan
+Sans serrure et serrure à rouleaux
+Serrures RC2","Porte 1 vantail 
+PL maxi : 1596 x 2620
+PL maxi : 1446 x 2891
+PL mini : 640 x 1885
+Vantaux égaux 
+PL maxi : 2783 x 2598
+PL maxi : 2525 x 2863
+PL mini : 1210 x 1887
+Vantaux inégaux (rapport ? à 0,56)
+PL maxi : 2420 x2490
+PL mini : 1210 x 1867
+Larg VP maxi : 1300 mm
+Larg VS mini : 371 mm",1596,2783,2863,2863,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120
+Poteau acier protégé entre deux portes ou en angle à 90° 
+Possibilité de faire des portes fenêtre dormant 4 côtés
+Intégration des vantaux EI230 dans la Cloison fixe vitrée EI60 PV 12A077
+Intégration des vantaux EI230 dans la Cloison fixe vitrée EI30 PV 12A079 ou Cloison fixe vitrage à joints verticaux collés EI30 PV 11A383       
+Intégration du bloc porte EI230 dans la Cloison fixe vitrage à joints verticaux collés EI60 PV 11A384 séparé d’un poteau acier protégé.",Pas de restriction sur le sens de feu châssis,-,RC2 sur porte 1 vantail,7/10/27,70146,FEU
+Cloison,unico,E30,PILKINGTON,12-A-086,+ Ext 15/1 + Ext 16/2,"Pyrodur 30-200 Isolant
+3000 x 1333
+2586 x 1547
+1559 x 2752
+1430 x 3000
+Feu indifférent
+Pyrodur 30-203 Isolant Ext 15/1
+1320 x 2600 (lxh ou hxl)
+1200 x 2860 (lxh ou hxl)
+1295 x 2800
+1207 x 3000
+Feu indifférent
+Pyroclear Plus  30-362  Isolant Ext 16/2
+Pyroclear Plus  30-372  Isolant Ext 16/2
+Pyroclear Plus  30-382  Isolant Ext 16/2
+1800 x 2895
+1516 x 3437
+Feu côté contre face",3000,3000,Non,"Joint silicone
+Joint CR ",-,Longueur illimitée x 3553 hauteur,0,0,0,0,3553,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux  châssis ou en angle à 90°
+Assemblage des châssis en dos à dos vissés",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",4/10/27,10323,FEU
+Ouvrant de service,unico,E30,PILKINGTON,12-A-087,+ Ext 13/2 + Ext 15/3,"Pyrodur 30-200 Isolant
+Feu indifférent
+Pyrodur 30-203 Isolant Ext 15/3
+Feu indifférent",0,0,-,"Joint silicone 
+Joint CR ","Quincaillerie surposé RC3
+Béquille à clé","Ouvrant à la Française
+ 1 vantail 
+PL 973 x 1751
+PL 1078 x 1584",1078,0,1751,1751,0,"Béton, parpaing plein, béton cellulaire
+Intégration de l’ouvrant dans la cloison fixe E30 
+PV 12A086
+Petit profilé pour l’ouvrant avec quincaillerie cachée Ext 13/2
+Possibilité de positionner les ouvrants en batterie dos à dos ou montant intermédiaire Ext 13/2
+","Restriction sur le sens de feu châssis, voir PV",-,"RC2
+RC3",5/24/27,10223,FEU
+Porte,unico,E30,PILKINGTON,12-A-087 ,+ Ext 13/1 + Ext 15/3 + Rec 17/1,"Pyrodur 30-200 Isolant
+Feu indifférent
+Pyrodur 30-203 Isolant Ext 15/3
+Feu indifférent",0,0,"Laine de Roche tôlé 2 faces
+Ep 33 mm 
+S maxi : 2,24 m² Ext 13/1
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent","Joint silicone ou 
+Joint à sec qualité CR ","Paumelles à visser, à souder, avec pion médian
+Serrure 3 points avec ou sans fonction anti panique
+Contrôle d’accès en applique
+Contrôle d’accés encastrée serrure électrique Ext 13/1 
+Ferme porte en applique
+Ferme porte encastré Ext 13/1","Porte 1 vantail 
+PL maxi : 1495 x 2313
+PL maxi : 1351 x 2555
+Vantaux égaux 
+PL maxi : 3264 x 2710 
+Vantaux inégaux  
+VS Larg mini: 723
+VP Larg maxi  : 1662",1495,3264,2710,2710,0,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux portes ou en angle à 90°
+Intégration  du bloc porte E30 dans la cloison vitrée E30 PV 12A086
+Intégration  du bloc porte E30 dans la cloison vitrée EI30 PV 08A342 Ext 13/1
+Intégration  du bloc porte E30 dans la cloison vitrée EI60 PV 08A275 Ext 13/1",Pas de restriction sur le sens de feu châssis,-,-,5/24/27,10123,FEU
+Verrière,thermfix light,E30,VETROTECH,12-A-090,Rév.1 + Rec 22/2 + Rec 17/1 + Ext 12/1_Rev 1 + Ext 22/2_Rev 2 + Ext 24/3 + Ext 24/4 + Ext. 25/5,"Contraflam
+  lite 60 climaplus horizontal
+
+    705 x 1506
+
+    Vetroflam climaplus
+
+    1300 x 2800",1334,2800,"• Panneaux tôlés à base de plaques (voir ext. 25/5) :
+   &#45; soit de Promaxon (Promat) - Surf. maxi 4,5 m²
+   &#45; soit de GIFAboard (Knauf) - Surf. maxi 4,2 m²","Joint
+  EPDM
+
+    Joint CR pour les vitrages Vetroflam climaplus",-,4000 mm,0,0,0,0,4000,Béton,"Restriction sur le sens de feu châssis, voir PV","Drainage du vitrage par les joints EPDM
+Dilatation intégrée directement aux manchonnage des traverses
+Capots plats extérieur au niveau des traverses
+Angle d’inclinaison 0 à 60 °",-,10/26/27,10666,FEU
+Verrière,thermfix light,E60,VETROTECH,12-A-090,Rév.1 + Rec 22/2 + Rec 17/1 + Ext 12/1_Rev 1 + Ext 22/2_Rev 2 + Ext 24/3 + Ext 24/4 + Ext. 25/5,"Contraflam
+  30-2 Climatop 60mm
+
+    1250 x 2200
+
+    1334 x 1506
+
+    Contraflam 30 climaplus horizontal
+
+    1200 x 2200",1334,2800,"• Panneaux tôlés à base de plaques de GIFAboard (Knauf) - Surf. maxi 4,2 m² (voir ext. 25/5)","Joint
+  EPDM",-,4000 mm,0,0,0,0,4000,Béton,"Restriction sur le sens de feu châssis, voir PV","Drainage du vitrage par les joints EPDM.
+Dilatation intégrée directement aux manchonnage des traverses
+Capots plats extérieur au niveau des traverses
+Angle d’inclinaison 0 à 60°
+Verrière à un pan long maxi 4000 mm",-,26/10/2027 0:00:00,20666,FEU
+Verrière,thermfix light,EI30,VETROTECH,12-A-090,Rév. 1 + Rec 22/2 + Rec 17/1 + Ext 12/1_Rev 1 + Ext 22/2_Rev 2 + Ext 24/3 + Ext 24/4 + Ext. 25/5,"Inclinaison
+  0 à 60
+
+    Contraflam 30-2 Climatop 60mm
+
+    1250 x 2200
+
+    1334 x 1506
+
+    Contraflam lite 30 climaplus horizontal
+
+    1300 x 3100
+
+    Contraflam 30 climaplus
+
+    1300 x 3100
+
+    Contraflam 30-2 climaplus horizontal
+
+    1250 x 2200
+
+    1334 x 1506",1334,2800,"• Panneaux tôlés à base de plaques (voir ext. 25/5) :
+   &#45; soit de Promaxon (Promat) - Surf. maxi 4,5 m²
+   &#45; soit de GIFAboard (Knauf) - Surf. maxi 4,2 m²","Joint
+  EPDM",-,"4000
+  mm",0,0,0,0,4000,Béton,"Restriction sur le sens de feu châssis, voir PV","Drainage du vitrage par les joints EPDM
+Dilatation intégrée directement aux manchonnage des traverses
+Capots plats extérieur au niveau des traverses
+Angle d’inclinaison 0 à 60 °
+Verrière à  2 pans long maxi du rampant 3000 mm PV 12A091
+Verrière à 1 pan long maxi du rampant 3000 mm avec retombée verticale de 1500 mm PV 12A091
+Verrière à un pan long maxi du rampant 4000 mm PV 12A090 angle de 0 à 15 °",-,10/26/27,70666,FEU
+Verrière,thermfix light,EI60,VETROTECH,12-A-090,Rév. 1 + Rec 22/2 + Rec 17/1 + Ext 12/1_Rev 1 + Ext 22/2_Rev 2 + Ext 24/3 + Ext 24/4 + Ext. 25/5,"Inclinaison
+  0 à 15
+
+    Contraflam 30-2 Climatop 60mm
+
+    1250 x 2200
+
+    1334 x 1506",1334,2800,"• Panneaux tôlés à base de plaques de GIFAboard (Knauf) - Surf. maxi 4,2 m² (voir ext. 25/5)","Joint
+  EPDM",-,4000 mm,0,0,0,0,4000,Béton,"Restriction sur le sens de feu châssis, voir PV","Drainage du vitrage par les joints EPDM.
+Dilatation intégrée directement aux manchonnage des traverses
+Capots plats extérieur au niveau des traverses
+Angle d’inclinaison 0 à 15°
+Verrière à un pan long maxi du rampant 4000 mm                    Verrière à 1 pan uniquement",-,10/26/27,80666,FEU
+Verrière,thermfix light,E30,VETROTECH,12-A-091,Rév. 1 + Rec 22/2 + Ext 12/1_Rev 1 + Ext 22/2_Rev 2 + Ext 24/3 + Ext. 25/5,"Contraflam
+  lite 60 climaplus horizontal
+
+    705 x 1506
+
+    Vetroflam climaplus
+
+    1300 x 2800",1334,2800,"• Panneaux tôlés à base de plaques (voir ext. 25/5) :
+   &#45; soit de Promaxon (Promat) - Surf. maxi 4,5 m²
+   &#45; soit de GIFAboard (Knauf) - Surf. maxi 4,2 m²","Joint
+  EPDM
+
+    Joint CR pour les vitrages Vetroflam climaplus",-,"2 pans :
+  3000mm par pans
+
+    1 pan + retombé 3000mm + 1500mm
+
+    ",0,0,0,0,3000,Béton,"Restriction sur le sens de feu châssis, voir PV","Drainage du vitrage par les joints EPDM
+Dilatation intégrée directement aux manchonnage des traverses
+Capots plats extérieur au niveau des traverses
+Angle d’inclinaison 0 à 60 °",-,11/6/27,10666,FEU
+Verrière,thermfix light,EI30,VETROTECH,12-A-091,Rév. 1 + Rec 22/2 + Ext 12/1_Rev 1 + Ext 22/2_Rev 2 + Ext 24/3 + Ext. 25/5,"Contraflam
+  30 climaplus horizontal
+
+    1200 x 2200",1334,2800,"• Panneaux tôlés à base de plaques (voir ext. 25/5) :
+   &#45; soit de Promaxon (Promat) - Surf. maxi 4,5 m²
+   &#45; soit de GIFAboard (Knauf) - Surf. maxi 4,2 m²","Joint
+  EPDM",-,"2 pans :
+  3000mm par pans
+
+    1 pan + retombé 3000mm + 1500mm
+
+    ",0,0,0,0,3000,Béton,"Restriction sur le sens de feu châssis, voir PV","Drainage du vitrage par les joints EPDM
+Dilatation intégrée directement aux manchonnage des traverses
+Capots plats extérieur au niveau des traverses
+Angle d’inclinaison 0 à 60 °
+Verrière à  2 pans long maxi du rampant 3000 mm PV 12A091
+Verrière à 1 pan long maxi du rampant 3000 mm avec retombée verticale de 1500 mm PV 12A091
+Verrière à un pan long maxi du rampant 4000 mm PV 12A090 angle de 0 à 15 °",-,11/6/27,70666,FEU
+Cloison bords-à-bords,fuego light,EI60,GLASTRÖSCH,12-A-461,Rec. 23/2,"Fireswiss Foam 60-27
+Fireswiss Foam 60-28 O
+1500 x 2895
+Feu indifférent",1500,2895,Non,"Joint silicone
+Joint EPDM
+Simple ou double parclosage",-,Longueur illimitée x 3000 hauteur,0,0,0,0,3000,"Béton, parpaing plein, béton cellulaire",Pas de restriction sur le sens de feu châssis,-,-,03/01/2028 0:00:00,80342,FEU
+Cloison bords-à-bords,fuego light,EI30,GLASTRÖSCH,12-A-462 ,Rec. 23/2,"Fireswiss Foam 30-19 ép 19
+Fireswiss Foam 30-20 O ép 20
+1800 x 2895
+1703 x 3060
+Feu indifférent",1800,3060,Non,"Joint silicone
+Simple parclosage uniquement",-,Longueur illimitée x 3170 hauteur,0,0,0,0,3170,"Béton, parpaing plein, béton cellulaire",Pas de restriction sur le sens de feu châssis,-,-,03/01/2028 0:00:00,70442,FEU
+Mur Rideau,thermfix vario,EI90,PILKINGTON,12-A-765,Rec 24/2,"Pyrostop 90-102 et 90-201 
+1400 x 2600
+2300 x 1400
+Feu indifférent
+Pyrostop 90-102 et 90-201 Isolant 
+1400 x 2000 (lxh ou hxl)
+Feu côté contre face
+1400 x 2600
+2300 x 1400
+Feu côté opposé à la contre face",2300,2600,"Composé de 3 plaques de BA13 tôlé 2 faces
+S maxi : 0,39 m²
+Feu indifférent",Joint EPDM,-,"Longueur illimitée x 5000 (devant nez de dalle)
+Longueur illimitée x 5000 (posé entre dalle)",0,0,0,0,5000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Profilés série 45 ou 60 mm de face vue
+Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Possibilité de faire des angle fins de 45 à 180°
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Possibilité de faire de l’Anti effraction performance RC2 et RC3","RC2
+RC3",10/1/28,90553,FEU
+Cloison,fuego light,EI120,PILKINGTON,13-A-1050,Rec 24/2 + Ext 17/1,"Pyrostop 120-106 ép 55±2
+2844 x 1300 (lxh ou hxl)
+1389 x 1898
+Qualité intérieur
+Pyrostop 120-270 ép 58 à 68 ±2
+Pyrostop 120-280 ép 58 à 76 ±2
+Pyrostop 120-370 ép 58 à 68 ±2
+Pyrostop 120-380 ép 58 à 76 ±2
+1200 x 2600
+1578 x 598
+1380 x 594
+1148 x 714
+Qualité extérieur
+Pyrostop 120-108 ép 47±2  Ext 17/1
+(Hauteur cloison maxi 3000 mm)
+1409 x 2844
+2358 x 1450
+Qualité intérieur
+Feu indifférent",2844,2844,"Panneau BA13+laine de roche tôlé 2 faces ép 110 mm
+S maxi : 2 m²
+Feu indifférent","Joint silicone ou joint CR
+Simple ou double parclosage 
+Douille en applique ou invisible pour le drainage du fond de feuillure du vitrage",-,"Longueur illimitée x 3400
+Longueur illimitée x 3400 y compris cloison légère",0,0,0,0,3400,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 70/120 avec partie fixes latérales et imposte ht maxi 400 mm
+Assemblage des châssis entre eux par manchonnage ",Pas de restriction sur le sens de feu châssis,-,-,1/22/29,100343,FEU
+Cloison,presto,E30,PYROGUARD,13-A-175,+ Ext 14/1 + Ext 18/2,"Pyroguard T-E30/6 ép 12 mm
+1110 x 2280 ép 6
+3110 x 1520 ou 1505 x 3000 ép 8-10-12
+1770 x 3150 ou 1360 x 3310 ép 10-12 
+Feu indifférent
+Pyroguard T-EW30/6
+1535 x 3135 (lxh ou hxl) 
+Feu côté marquage
+Pyroguard T-EW30/6 VF
+1535 x 3135 (lxh ou hxl) 
+Feu côté contre face
+Pyroguard T-EW30/6 VI
+1535 x 3135 (lxh ou hxl)
+1360 x 3310 
+Feu côté contre face
+Vitrage de forme Ext 18/2
+Angle supérieur à 27° 
+Surface maxi : 2,12 m²
+Pyroguard T-EW30/13-1 VI E30/EW30 
+Ext 18/6 du PV 13-A-177
+1500 x 3420 
+Feu Indifférent",1535,3310,"Composé de 2 plaques de BA13 tôlé 2 faces
+1130 x 1700 S maxi : 2 m²
+Feu indifférent",Joint silicone,-,"Longueur illimitée x 4400 hauteur
+Longueur illimitée x 4000 hauteur (y compris cloison légère)
+",0,0,0,0,4400,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 120/70 en imposte et parties fixes latérales
+Intégration dans Cloison légère 98/48 en imposte, partie fixes latérales et allège Ext 14/1
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage
+Utilisation presto 60 s performance E30/EW30 
+Ext 18/6 du PV 13A177",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",6/17/28,10315,FEU
+Ouvrant de service,presto,E30,PYROGUARD,13-A-176,+ Ext 14/1 rév 1 rév 2 + Ext 14/2 + Rec 18/1,"Pyroguard T-E30/6 à 12 mm Feu indifférent
+Pyroguard T-EW30/6 Feu côté marquage
+Pyroguard T-EW30/6 VF Feu côté contre face
+Pyroguard T-EW30/6 VI Feu côté contre face",0,0,-,Joint silicone,"Crémone encastrée MTS
+Paumelles à souder du commerce","Ouvrant à la Française
+ 1 vantail 
+PL 1196 x 1285
+PL 1095 x 1403",1196,0,1403,1403,0,"Béton, parpaing plein, béton cellulaire
+Intégration de l’Ouvrant dans la cloison fixe E30 
+PV 13A175",Pas de restriction sur le sens de feu châssis,-,-,6/17/28,10215,FEU
+Porte,presto,E30,PYROGUARD,13-A-176 ,"+ Ext 14/1 rév 1 rév 2 + Ext 14/2 +
+ Ext 14-002247 +  Rec 18/1  + Ext 22/5","Pyroguard T-E30/6 à 12 mm Feu indifférent
+Pyroguard T-EW30/6 Feu côté marquage
+Pyroguard T-EW30/6 VF Feu côté contre face
+Pyroguard T-EW30/6 VI Feu côté contre face",0,0,"Composé de 2 plaques de BA13 tôlé 2 faces 
+S maxi : 2 m² 
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent",Joint silicone,"Paumelles à visser, à souder ou invisible, avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique
+Verrouillage thermique : serrure à rouleau, sans serrure, suppression du renfort en partie haute du vtl
+Contrôle d’accès encastré ou en applique
+Ferme porte en applique ou encastré ","Porte 1 vantail 
+PL maxi : 1260 x 2415 serrure 1 point
+PL maxi : 1449 x 3054 serrure 2 points
+PL maxi : 1316 x 3352 serrure 2 points
+Vantaux égaux 
+PL maxi : 2830 x 2616
+PL maxi : 2026 x 2875 
+serrure 1 pt sur le VP, 2 pts encastrés sur le VS 
+PL maxi : 2830 x 3000
+PL maxi : 2121 x 3450
+PL maxi : 2335 x 3140
+serrure 2 pts sur le VP, serrure encastrée, en applique ou libre sur le VS 
+Vantaux inégaux  rapport ? à 0,39
+PL maxi : 2231 x 2616
+PL maxi : 2026 x 2875
+serrure 1 pt  sur le VP, serrure 2 pts encastrés sur le VS
+Vantaux inégaux  rapport ? à 0,45
+PL maxi : 2335 x 3140
+PL maxi : 2121 x 3450
+serrure 2 pts sur le VP, serrure encastrée, en applique ou libre sur le VS",1449,2830,3450,3450,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 120/70 
+Intégration dans Cloison légère 98/48 Ext 14/2
+Poteau acier protégé entre deux  portes ou en angle à 90° 
+Intégration des vantaux E30 dans la Cloison fixe vitrée E30 PV 13A175
+Intégration des vantaux E30 dans la Cloison fixe vitrée EI30 PV 13A439 ou Cloison EI60  PV 13A429 ou PV 15002712  Ext 14/1 Ext 14002247",Pas de restriction sur le sens de feu châssis,-,-,6/17/28,10115,FEU
+Cloison,presto,E60,PYROGUARD,13-A-177,"+ Ext 14/1+ Ext 14-002238 +
+Ext 14-002239 + Ext 18/4 + Ext 18/5 + Ext 18/6","Pyroguard T-E60/13-1
+1202 x 3190 (lxh ou hxl)
+1535 x 3110 (lxh ou hxl)
+Pyroguard T-EW60/13-1
+1559 X 2830 (lxh ou hxl)
+Pyroguard T-EW60/13-1 VF ou VI
+1460 x 2810 (lxh ou hxl)
+Feu Indifférent
+Pyroguard T-EW60/13-1 VF ou VI Ext 14-002238
+anti-effraction P1A –P6B
+1460 x 2810 (lxh ou hxl)
+Feu côté contre face anti effraction
+Pyroguard T-EW60/6 VF Ext 14-002239
+2835 x 1385 (LxH ou HxL)
+Pyroguard T-EW60/6 VI
+1542 x 2302
+1294 x 2742
+Feu côté contre face
+Pyroguard T-EW30/6 Ext 18/4
+1100 x 1900
+Pyroguard T-EW30/6 VI
+1668 x 1122 (LxH ou HxL) 
+Feu côté marquage
+Vitrage de forme Ext 18/5
+Angle supérieur à 27° 
+Surface maxi : 2,12 m²
+ 
+Pyroguard T-EW30/13-1 VI  Ext 18/6
+1500 x 3420 
+Feu Indifférent",1542,3190,"Composé de 2 plaques de BA13 tôlé 2 faces  
+S maxi : 2 m²
+Feu indifférent",Joint silicone,-,Longueur illimitée x 3740 hauteur,0,0,0,0,3740,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 120/70 
+Intégration dans Cloison légère 98/48 Ext 14/1
+Poteau acier protégé entre deux  châssis ou en angle à 90°
+Système d’assemblage des traverses  par manchonnage 
+Utilisation presto 60 s performance E30/EW30 Ext 18/6 ",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",8/27/28,20315,FEU
+Porte,presto,E60,PYROGUARD,13-A-178,Rec 23/2 + Rév.1 + Ext 14/1 rev 2 + Ext 14/2 + Ext 14-002238 + Ext 14-002239 + Ext 14-002247 + Ext 18/6,"Pyroguard T-EW60/13-1 VF ou VI Ext 14-002238
+anti effraction P1A –P6B
+1460 x 2810 (lxh ou hxl)
+Feu côté contre face anti effraction
+Pyroguard T-EW60/6 VF Ext 14-002239
+2815 x 1365 (LxH ou HxL)
+Pyroguard T-EW60/6 VI
+2522 x 2332 ou 1304 x 2722
+Feu côté contre face
+Pyroguard T-EW30/6 Ext 18/6
+1100 x 1900
+Pyroguard T-EW30/6 VI
+1668 x 1122 (LxH ou HxL) 
+Feu côté marquage",2815,2815,"Composé de 2 plaques de BA13 tôlé 2 faces
+1130 x 1700  S maxi : 2 m²
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent",Joint silicone,"Paumelles à visser, à souder, avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique
+Contrôle d’accès encastré ou en applique
+Ferme porte en applique ou encastré","Porte 1 vantail 
+PL maxi : 1104 x 2557       PL maxi : 1334 x 3079
+PL maxi : 1006 x 2794       PL maxi : 1215 x 3369
+PL maxi : 1260 x 2415       PL maxi : 1260 x 2915 
+serrure 1 point                   serrure 2 points 
+Vantaux égaux 
+PL maxi : 2450 x 2400 serrure 1 pt 
+PL maxi : 2139 x 2954
+PL maxi : 1869 x 3370 serrure 2 pts sur le VP, 
+Vantaux inégaux rapport ? à 0,48
+PL maxi : 2380 x 2480
+PL maxi : 2078 x 2832 serrure 1pt sur le VP
+Vantaux inégaux rapport ? à 0,39
+PL maxi : 2139 x 2954
+PL maxi : 1869 x 3370 serrure 2 pts sur le VP",1196,0,1403,1403,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 120/70 
+Intégration dans Cloison légère 98/48 Ext 14/2
+Poteau acier protégé en ligne ou en angle à 90°
+Intégration des vantaux E60 dans la Cloison fixe vitrée E60 PV 13A177
+Intégration des vantaux E60 dans la Cloison fixe vitrée EI60  PV 13A429 ou 15002712  Ext 14/1 Ext 14002247",Pas de restriction sur le sens de feu châssis,-,-,05/11/2028 0:00:00,20115,FEU
+Ouvrant de service,presto,E60,PYROGUARD,13-A-178,Rec 23/2 + Rév.1 + Ext 14/1 rev 2 + Ext 14/2 + Ext 14-002238 + Ext 14-002239 + Ext 14-002247 + Ext 18/6,"Pyroguard T-EW60/13-1 VF ou VI Ext 14-002238
+anti effraction P1A –P6B
+1460 x 2810 (lxh ou hxl)
+Feu côté contre face anti effraction
+Pyroguard T-EW60/6 VF Ext 14-002239
+2815 x 1365 (LxH ou HxL)
+Pyroguard T-EW60/6 VI
+2522 x 2332 ou 1304 x 2722
+Feu côté contre face
+Pyroguard T-EW30/6 Ext 18/6
+1100 x 1900
+Pyroguard T-EW30/6 VI
+1668 x 1122 (LxH ou HxL) 
+Feu côté marquage",2815,2815,-,Joint silicone,"Crémone encastrée MTS
+Paumelles à souder du commerce","Ouvrant à la Française
+ 1 vantail 
+PL 1196 x 1285
+PL 1095 x 1403",1196,0,1403,1403,0,"Béton, parpaing plein, béton cellulaire
+Intégration de l’ouvrant dans la cloison fixe E60 
+PV 13A177",Pas de restriction sur le sens de feu châssis,-,-,05/11/2028 0:00:00,20215,FEU
+Cloison,presto,E90,PYROGUARD,13-A-180,+ Ext 14-002251,"Pyroguard T EW90/13-1 ép 13 mm Ext 15/2 du 417
+Pyroguard T EW90/13-1 VF Ext 15/2 du 417
+1579 x 2850 (lxh ou hxl)
+Pyroguard T EW60/13-1 ép 13 mm PV 13-A-374
+1720 x 720
+Pyroguard T EW60/13-1 VI ép 26 mm PV 13-A-374
+1060 x 1150 
+Feu indifférent
+Pyroguard T EW60/13-1 VF Ext 14-001235 du 374
+Feu côté vitrage feuilleté
+1720 x 720
+1060 x 1150
+Pyroguard T EW60/13-1 Ext 14-002251 du 180
+Pyroguard T EW60/13-1 VI Ext 14-002251 du 180
+Feu côté contre face
+Pyroguard T EW60/13-1 VF Ext 14-002251 du 180
+Feu côté vitrage feuilleté
+2845 x 3120 ",2845,3120,-,Joint silicone,-,Longueur illimitée x 3350 hauteur,0,0,0,0,3350,"Béton, parpaing plein densité 2200 kg/m³, ép 200 mm",Pas de restriction sur le sens de feu châssis,-,-,4/15/24,50315,FEU
+Cloison,presto,E120,PYROGUARD,13-A-180,+ Ext 14-002251,"Pyroguard T EW90/13-1 ép 13 mm Ext 15/2 du 417
+Pyroguard T EW90/13-1 VF Ext 15/2 du 417
+1579 x 2850 (lxh ou hxl)
+Pyroguard T EW60/13-1 ép 13 mm PV 13-A-374
+1720 x 720
+Pyroguard T EW60/13-1 VI ép 26 mm PV 13-A-374
+1060 x 1150 
+Feu indifférent
+Pyroguard T EW60/13-1 VF Ext 14-001235 du 374
+Feu côté vitrage feuilleté
+1720 x 720
+1060 x 1150
+Pyroguard T EW60/13-1 Ext 14-002251 du 180
+Pyroguard T EW60/13-1 VI Ext 14-002251 du 180
+Feu côté contre face
+Pyroguard T EW60/13-1 VF Ext 14-002251 du 180
+Feu côté vitrage feuilleté
+2845 x 3120 ",2845,3120,-,Joint silicone,-,Longueur illimitée x 3350 hauteur,0,0,0,0,3350,"Béton, parpaing plein densité 2200 kg/m³, ép 200 mm",Pas de restriction sur le sens de feu châssis,-,-,4/15/24,60315,FEU
+Mur Rideau,thermfix vario,E60,PYROGUARD,13-A-184,REC 24/2 + Ext 14-002239,"Pyroguard T-EW60/13-1 VF
+Feu côté feuilleté
+Pyroguard T-EW60/13-1 
+Pyroguard T-EW60/13-1 VI
+1500 x 2928 
+Indifférent
+Pyroguard T-EW60/6 VF Ext 14-002239
+1500 x 1385 
+1385 x 2835
+Pyroguard T-EW60/6 VI
+1285 x 2285
+Feu côté contre face",1500,2928,"Composé de 2 plaques de BA13 tôlé 2 faces .
+S maxi : 2 m²
+Feu indifférent","Joint CR
+Joint silicone pour le vitrage TEW60/6",-,Portée libre maxi 3000 mm,0,0,0,0,3000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Possibilité de mettre en œuvre des films adhésifs","RC2
+RC3",6/26/29,20555,FEU
+Ouvrant de service,presto,E90,PYROGUARD,13-A-374,+ Ext 18/2 + Ext EFR-14-001235,"Pyroguard T EW90/13-1 ép 13 mm Ext 15/2 du 417
+Pyroguard T EW90/13-1 VF Ext 15/2 du 417
+1579 x 2850 (lxh ou hxl)
+Pyroguard T EW60/13-1 ép 13 mm PV 13-A-374
+1720 x 720
+Pyroguard T EW60/13-1 VI ép 26 mm PV 13-A-374
+1060 x 1150 
+Feu indifférent
+Pyroguard T EW60/13-1 VF Ext 14-001235 du 374
+Feu côté vitrage feuilleté
+1720 x 720
+1060 x 1150
+Pyroguard T EW60/13-1 Ext 14-002251 du 180
+Pyroguard T EW60/13-1 VI Ext 14-002251 du 180
+Feu côté contre face
+Pyroguard T EW60/13-1 VF Ext 14-002251 du 180
+Feu côté vitrage feuilleté
+2845 x 3120 
+Vitrage de forme Ext 18/2 du 13-A-374
+Angle supérieur à 27° 
+Surface maxi : 2,12 m²",2845,3120,"Composé de 2 plaques de BA13 tôlé 2 faces 
+1724 x 1154 PV 13A374
+Feu indifférent",Joint ilicone,"Crémone encastrée MTS
+Paumelles à souder du commerce","Ouvrant à la Française 1 vantail 
+PL 1081 x 1412 
+PL 1205 x 1268 ",1205,0,1412,1412,0,"Béton, parpaing plein densité 2200 kg/m³, ép 200 mm
+Intégration dans Cloison légère 70/120  PV 13A417
+Système d’assemblage des traverses  par manchonnage PV 13A374
+Intégration direct d’un ouvrant de service PV 13A374",Pas de restriction sur le sens de feu châssis,-,-,6/12/24,50215,FEU
+Cloison,presto,E90,PYROGUARD,13-A-374,Rec 24/2 + Ext 18/2 + Ext EFR-14-001235,"Pyroguard T EW90/13-1 ép 13 mm Ext 15/2 du 417
+Pyroguard T EW90/13-1 VF Ext 15/2 du 417
+1579 x 2850 (lxh ou hxl)
+Pyroguard T EW60/13-1 ép 13 mm PV 13-A-374
+1720 x 720
+Pyroguard T EW60/13-1 VI ép 26 mm PV 13-A-374
+1060 x 1150 
+Feu indifférent
+Pyroguard T EW60/13-1 VF Ext 14-001235 du 374
+Feu côté vitrage feuilleté
+1720 x 720
+1060 x 1150
+Pyroguard T EW60/13-1 Ext 14-002251 du 180
+Pyroguard T EW60/13-1 VI Ext 14-002251 du 180
+Feu côté contre face
+Pyroguard T EW60/13-1 VF Ext 14-002251 du 180
+Feu côté vitrage feuilleté
+2845 x 3120 
+Vitrage de forme Ext 18/2 du 13-A-374
+Angle supérieur à 27° 
+Surface maxi : 2,12 m²",2845,3120,"Composé de 2 plaques de BA13 tôlé 2 faces 
+1724 x 1154 PV 13A374
+Feu indifférent",Joint ilicone,-,Longueur illimitée x 3400 hauteur,1205,0,1412,1412,0,"Béton, parpaing plein densité 2200 kg/m³, ép 200 mm
+Intégration dans Cloison légère 70/120  PV 13A417
+Système d’assemblage des traverses  par manchonnage PV 13A374
+Intégration direct d’un ouvrant de service PV 13A374",Pas de restriction sur le sens de feu châssis,-,-,6/12/29,50315,FEU
+Cloison,presto,E90,PYROGUARD,13-A-417,Rec 24/2 + Ext 14-001441 + Ext 15/2,"Pyroguard T EW90/13-1 ép 13 mm Ext 15/2 du 417
+Pyroguard T EW90/13-1 VF Ext 15/2 du 417
+1579 x 2850 (lxh ou hxl)
+Pyroguard T EW60/13-1 ép 13 mm PV 13-A-374
+1720 x 720
+Pyroguard T EW60/13-1 VI ép 26 mm PV 13-A-374
+1060 x 1150 
+Feu indifférent
+Pyroguard T EW60/13-1 VF Ext 14-001235 du 374
+Feu côté vitrage feuilleté
+1720 x 720
+1060 x 1150
+Pyroguard T EW60/13-1 Ext 14-002251 du 180
+Pyroguard T EW60/13-1 VI Ext 14-002251 du 180
+Feu côté contre face
+Pyroguard T EW60/13-1 VF Ext 14-002251 du 180
+Feu côté vitrage feuilleté
+2845 x 3120 
+Vitrage de forme Ext 18/2 du 13-A-374
+Angle supérieur à 27° 
+Surface maxi : 2,12 m²",2845,3120,"Composé de 2 plaques de BA13 tôlé 2 faces 
+1724 x 1154 PV 13A374
+Feu indifférent",Joint ilicone,-,Longueur illimitée x 2950 hauteur,0,0,0,0,2950,"Béton, parpaing plein densité 2200 kg/m³, ép 200 mm
+Intégration dans Cloison légère 70/120  PV 13A417
+Système d’assemblage des traverses  par manchonnage PV 13A374
+Intégration direct d’un ouvrant de service PV 13A374",Pas de restriction sur le sens de feu châssis,-,-,15/04/2029 0:00:00,50315,FEU
+Mur Rideau,thermfix vario,E30,PYROGUARD,13-A-427,+ Recond. 19/1,"Pyroguard T EW30/13-1 VI
+1500 x 2928
+Feu indifférent
+Pyroguard T EW30/6 Ext 14-001712 rév1
+Feu côté face réfléchissante
+Pyroguard T EW30/6 VF
+Pyroguard T EW30/6 VI
+1500 x 2928
+Feu côté contre face",1500,2928,"Composé de 2 plaques de BA13 tôlé 2 faces .
+S maxi : 2 m²
+Feu indifférent",Joint CR,-,Portée libre maxi 3300 mm,0,0,0,0,3300,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords","RC2
+RC3",9/8/24,10555,FEU
+Mur Rideau,thermfix vario,EI30,PYROGUARD,13-A-427,+ Recond. 19/1,"Pyroguard EW30/13-1 VI
+1500 x 2928
+Feu côté Pyroguard de l’intérieur vers l’extérieur",1500,2928,"Composé de 3 plaques de BA13 tôlé 2 faces
+S maxi : 2 m²
+Feu indifférent",Joint CR,-,Longueur illimitée x 3300 hauteur,0,0,0,0,3300,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle","Restriction sur le sens de feu châssis, voir PV","Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords","RC2
+RC3",9/8/24,70555,FEU
+Cloison,fuego light,EI60,PYROGUARD,13-A-429,+ Ext 18/1 + Ext 18/3,"Pyroguard T EI60/25-3 ép 25
+2594 x 1284 
+Pyroguard T EI60/25-3 ép 25
+Pyroguard T EI60/25 VF ép 28 à 52
+Pyroguard T EI60/25 VI ép 32 à 55
+1780 x 1123
+1540 x 2305
+1295 x 2740 
+Feu indifférent
+Pyroguard anti effraction 
+Feu côté contre face
+Vitrage de forme Ext 18/3
+Angle supérieur à 27° 
+Surface maxi : 2,12 m²",2594,2740,"Composé de 3 plaques de BA13 feu tôlé 2 faces
+1112 x 2700 (lxh ou hxl) 
+S maxi : 3 m²
+Feu indifférent","Joint silicone 
+Jjoint EPDM 
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage",-,"Longueur illimitée x 3000 
+Longueur illimitée x 3300 y compris cloison légère
+Longueur illimitée x 3540 avec vitrage TEI60/253 uniquement 
+Surface maxi vitrage : 3,55m² Ext 18/1",0,0,0,0,3540,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 70/120 en imposte et parties fixes latérales
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage, dos à dos ou à facette",Pas de restriction sur le sens de feu châssis,-,-,9/23/24,80345,FEU
+Porte,fuego light,EI60,PYROGUARD,EFR-24-000803,,"Pyroguard T EI60/25-3 ép 25
+Pyroguard T EI60/25 VF ép 28 à 52
+Pyroguard T EI60/25 VI ép 32 à 55
+Feu indifférent",0,0,"Composé de 3 plaques de BA13 feu tôlé 2 faces
+1088 x 2676 (lxh ou hxl)
+S maxi : 2,9 m²
+La surface d'un panneau plein ne peut pas obturer plus de 50% de la surface du vantail. Pour une obturation complète avec des panneaux pleins, le vantail devra comporter une à trois traverses intermédiaires.
+Feu indifférent","Joint silicone 
+Joint EPDM 
+Simple ou double parclosage
+Busette de drainage pour mise en oeuvre en extérieur","Paumelles à souder ou à visser, pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar ou des boutons
+Contrôle d’accès en applique ou encastré par gâche électrique à émission
+Ferme porte en applique ou encastré
+Opérateur d'ouverture DormaKaba E100 ou ED250 + flatscan 
+Sans serrure ou serrure à rouleaux avec verrous thermiques","• Porte 1 vantail : PL maxi 1612 x 2857 (surface maxi 4,18 m²) / PL mini 701 x 1863
+• Porte 2 vantaux égaux : PL maxi 2005 x 2850 (surface maxi 5,18 m²) / PL mini 872 x 1788
+• Porte 2 vantaux inégaux : PL maxi 2005 x 2850 (surface maxi 5,18 m²) / PL mini 872 x 1788
+        ou :
+        -> Vantail principal : PL maxi 1000 x 2479 / PL mini 500 x 1788
+        -> Vantail semi-fixe : PL maxi 744 x 2479 / PL mini 436 x 1788",1612,2005,2857,2857,3540,"Béton, parpaing plein, béton cellulaire
+Intégration dans cloison légère 98/48 ou 120/70
+Poteau acier protégé entre deux portes, jonction en ligne ou en angle à 90°
+Possibilité de faire des portes avec dormant 4 côtés
+Intégration des vantaux EI60 dans la cloison fixe vitrée EI60 suivant PV 13-A-429 ou cloison vitrée EI120 suivant PV EFR-16-V-004086",Pas de restriction sur le sens de feu châssis,-,RC2 sur porte 1 vantail,20/11/2029 0:00:00,80145,FEU
+Cloison,presto,E30,PYROGUARD,13-A-433,Rec. 24/2,"Pyroguard T-E30/8 ép 8 mm PV 13-A-433
+1600 x 2850
+Pyroguard T-E30/10 ép 10 mm ou T-E30/12 ép 12 mm
+1920 x 2864
+1608 x 3420
+Feu indifférent
+Feu côté marquage",1920,2864,Non,Joint silicone,-,L x H = 1728 x 3540 ou L x H = 2040 x 2984 ,0,0,0,0,3540,"Béton, parpaing plein, béton cellulaire",Pas de restriction sur le sens de feu châssis,"Baie fixe avec 1 seul vitrage, uniquement double parclosage !",,31/10/2029 0:00:00,10315,FEU
+Cloison,fuego light,EI30,PYROGUARD,13-A-439,Rec. 24/2 + Ext 16/1 + 18/3 + 23/4,"Pyroguard T EI30/18-2
+Pyroguard T EI30/18-2 VF
+1541 x 2596 (lxh ou hxl)
+1285 x 3113 (lxh ou hxl)
+Pyroguard T EI30/18-2 VI
+1553 x 2286
+1295 x 2741
+1781 x 1123
+Feu indifférent
+Pyroguard T EI30/18-1 Ext 16/1
+Pyroguard T EI30/18-1 VF
+Pyroguard T EI30/18-1 VI
+2623 x 1499 
+2382 x 1650 
+1350 x 2496
+1135 x 2970
+1500 x 2385
+Vitrage de forme Ext 18/3
+Angle supérieur à 27° 
+Surface maxi : 2,12 m²
+
+ 
+Feu indifférent",2623,2970,"Composé de 2 plaques de BA13 tôlé 2 faces
+2889 x 884 (lxh ou hxl)
+Feu indifférent","Joint silicone 
+Jjoint EPDM 
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage",-,Longueur illimitée x 3000                                     Longueur illimitée x 3400 ycompris cloison légère 98/48     Longueur illimitée x 3800 ycompris cloison légère 120/70,0,0,0,0,3800,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120 sur quatre côtés allège et imposte
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage, dos à dos ou à facette",Pas de restriction sur le sens de feu châssis,-,-,12/9/24,70345,FEU
+Porte,fuego light,EI30,PYROGUARD,13-A-441,Rec 24/2 + Ext 16/1 + 20/2 + 23/3 + 23/4,"Pyroguard T EI30/18-2
+Pyroguard T EI30/18-2 VF
+Pyroguard T EI30/18-2  VI
+Feu indifférent
+Pyroguard T EI30/18-1 Ext 16/1
+Pyroguard T EI30/18-1 VF
+Pyroguard T EI30/18-1  VI
+Feu indifférent",0,0,"Composé de 2 plaques de BA13 tôlé 2 faces 
+2865 x 860 (lxh ou hxl)
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent","Joint silicone 
+Joint EPDM 
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage","Paumelles à visser, à souder, avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar ou bâtons de maréchal
+Contrôle d’accès en applique ou encastré par gâche électrique à émission ou serrure à rupture
+Poteau technique TEGO pour encastrer des digicodes
+Ferme porte en applique ou encastré.
+Automatisme d’ouverture TS99F, ED200, flatscan
+Sans serrure et serrure à rouleaux
+Serrures RC2","Porte 1 vantail 
+PL maxi : 1644 x 3120 ou 1492 x 3438 Ext 20/1
+PL maxi : 1344 x 3004 
+PL mini : sans limite
+Vantaux égaux 
+PL maxi : 2726 x 2516 Ext 20/1
+PL maxi : 2726 x 2942* ou 2473 x 3243* Ext 20/1
+*Uniquement quand installé dans une cloison vitrée
+PL mini : 845 x 1887 Ext 20/1
+Vantaux inégaux (rapport ? à 0,51)
+PL maxi : 1887 x 2726 Ext 20/1
+PL maxi : 2044 x 3243* Ext 20/1
+*Uniquement quand installé dans une cloison vitrée
+PL mini : 845 x 1875
+Larg VP maxi : 1400 mm
+Larg VS mini : 733 mm",1644,2726,3438,3438,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120
+Poteau acier protégé entre deux portes ou en angle à 90°
+Possibilité de faire des portes fenêtre dormant 4 côtés
+Intégration des vantaux EI230 dans la Cloison fixe vitrée EI30 PV 13A439
+Intégration des vantaux EI230 dans la Cloison fixe vitrée EI60 PV 13A429",Pas de restriction sur le sens de feu châssis,-,"RC2 sur porte 1 vantail
+RC3 sur porte 1 vantail",12/11/24,70145,FEU
+Cloison,unico,E30,PYROGUARD,13-A-442,Rec. 25/2,"Pyroguard T EW30/6
+2584 x 1284 (lxh ou hxl) 
+Feu côté tampon de marquage
+Pyroguard T EW30/6 VF
+Pyroguard T EW30/6 VI
+3100 x 1284 (lxh ou hxl)
+2585 x 1540
+1517 x 1990
+1262 x 2393
+Feu côté contre face
+Pyroguard T-EW30/6 VI Ext 14/2 du PV 13-V-582
+Pyroguard T-EW30/6 TVI Ext 14/2
+3102 x 1918 
+2914 x 1920
+1600 x 2585
+Feu côté contre face
+Performance E30 uniquement",3100,2584,Non,Joint silicone,-,Longueur illimitée x 3100 hauteur                        Longueur illimitée x 3200 hauteur sans traverses,0,0,0,0,3200,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Assemblage des châssis verticalement ou horizontalement en dos à dos vissés ",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",20/01/2030 0:00:00,10325,FEU
+Porte,unico,E30,PYROGUARD,13-A-443,Rec. 25/2,"Pyroguard T EW30/6
+Feu côté tampon de marquage
+Pyroguard T EW30/6 VF
+Pyroguard T EW30/6 VI
+Feu côté contre face",0,0,Non,Joint silicone,"Paumelles à visser, à souder, avec pion médian
+Serrure 3 points avec ou sans fonction anti panique
+Contrôle d’accès en applique
+Ferme porte en applique","Porte 1 vantail 
+PL maxi : 1582 x 2210
+PL maxi : 1432 x 2434
+Vantaux égaux 
+PL maxi : 3144 x 2210
+PL maxi : 2886 x 2434
+Vantaux inégaux 
+VS Larg mini : 723
+VP Larg maxi : 1622",1078,0,1751,1751,0,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux portes ou en angle à 90°
+Intégration des vantaux E30 dans la cloison vitrée E30 PV 13A442",Pas de restriction sur le sens de feu châssis,-,-,19/02/2030 0:00:00,10125,FEU
+Ouvrant de service,unico,E30,PYROGUARD,13-A-443,Rec. 25/2,"Pyroguard T EW30/6
+Feu côté tampon de marquage
+Pyroguard T EW30/6 VF
+Pyroguard T EW30/6 VI
+Feu côté contre face",0,0,-,Joint silicone,"Quincaillerie surposé RC3
+Béquille à clé","Ouvrant à la Française
+ 1 vantail 
+PL 973 x 1751
+PL 1078 x 1584",1078,0,1751,1751,0,"Béton, parpaing plein, béton cellulaire
+Intégration de l’ouvrant dans la cloison fixe E30 PV 13A442","Restriction sur le sens de feu châssis, voir PV",-,"RC2
+RC3",19/02/2030 0:00:00,10225,FEU
+Cloison,unico,E60,PILKINGTON,13-A-676,Rec 24/2 + Ext 16/1,"Pyrodur 60-202 Isolant
+3000 x 1333 (lxh ou hxl)
+2666 x 1500 (lxh ou hxl)
+Feu indifférent
+Pyroclear Plus  60-362  Isolant Ext 16/1
+Pyroclear Plus  60-372  Isolant Ext 16/1
+Pyroclear Plus  60-382  Isolant Ext 16/1
+1800 x 2895
+1746 x 2984
+Feu côté contre face",3000,2984,"Laine de Roche tôlé 2 faces
+Ep 33 mm
+S maxi : 2,24 m² 
+Feu indifférent","Joint silicone
+Joint CR.
+Drainage de la feuillure du verre en applique ou invisible.
+Parclose vissée type cornière",-,Longueur illimitée x 3100 hauteur,0,0,0,0,3100,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux  châssis ou en angle à 90°
+Fixation mécanique dos à dos veticale ou horizontale.",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",5/6/29,20323,FEU
+Porte,unico,E60,PILKINGTON,13-A-677,Rec 24/2,"Pyrodur 60-202 Isolant
+Feu indifférent
+
+",0,0,"Laine de Roche tôlé 2 faces
+Ep 33 mm S maxi : 2,24 m²
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent","Joint silicone
+Joint à sec qualité CR
+Drainage de la feuillure du verre en applique ou invisible.
+Parclose vissée type cornière","Paumelles à visser, à souder, avec pion médian
+Serrure 3 points avec ou sans fonction anti panique
+Contrôle d’accès en applique
+Contrôle d’accés serrure électrique
+Ferme porte en applique","Porte 1 vantail Feu R/V
+PL maxi : 1370 x 2115 
+Porte 1 vantail Feu côté paumelle
+PL maxi : 1370 x 2710 
+Vantaux égaux Feu R/V
+PL maxi : 2120 x 2710 
+Vantaux inégaux  
+rapport ? à 0,50",1370,2120,2710,2710,0,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux portes ou en angle à 90°
+Intégration  des vantaux E60 dans la cloison vitrée EI60 PV 08A275
+Fixation mécanique dos à dos verticale ou horizontale. ",Pas de restriction sur le sens de feu châssis,-,-,5/6/29,20123,FEU
+Mur Rideau,thermfix vario,EI60,PILKINGTON,13-A-704,Rec 24/2,"Pyrostop 60-101 Triple 
+1500 x 2800
+1400 x 3000 (lxh ou hxl)
+Pyrostop 60-101 et 60-201 Isolant 
+1500 x 3000
+2596 x 1495
+Pyrostop 60-101, 60-201, 60-201 P5A ou P6B
+1400 x 2500 (lxh ou hxl)  
+Feu indifférent",2598,3000,"Panneau plaques Aestuver
+S maxi : 0,39 m²
+Panneau 3 plaques BA13 Feu tôlé 2 faces
+S maxi : 1,5 m²
+Feu indifférent",Joint EPDM,-,"Longueur illimitée x 5000 (devant nez de dalle)
+Longueur illimitée x 5000 (posé entre dalle)",0,0,0,0,5000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Profilés série 45 ou 60 mm de face vue
+Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Possibilité de faire des angles fins de 45 à 180°
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Possibilité de faire de l’Anti effraction performance RC2 et RC3","RC2
+RC3",12/3/28,80553,FEU
+Mur Rideau,thermfix vario,EI30,PILKINGTON,13-A-705,Rec 24/2,"Pyrostop 30-10 Simple, Isolant ou Triple
+1372 x 2972 (lxh ou hxl)
+Pyrostop 30-20 Simple, Isolant ou Triple
+1652 x 2972 (lxh ou hxl) 
+Pyrostop 30-20 feuilleté, 30-20 P5A ou P6B
+1652 x 2972 (lxh ou hxl)  
+Feu indifférent",1652,2972,"Composé de 3 plaques de BA13 tôlé 2 faces
+S maxi : 1,5 m²
+Feu indifférent",Joint EPDM,-,"Longueur illimitée x 5000 (devant nez de dalle)
+Longueur illimitée x 5000 (posé entre dalle)",0,0,0,0,5000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Profilés série 45 ou 60 mm de face vue
+Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Possibilité de faire des angles fins de 45 à 180°
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Possibilité de faire du pare balle performance FB 4 NS
+Possibilité de faire de l’Anti effraction performance RC2 et RC3","RC2
+RC3",1/13/29,70553,FEU
+Cloison,unico,E60,PYROGUARD,13-V-582,+ xt 14/1 + Ext14/2 + Rec 18/1,"Pyroguard T-EW60/6 VI Ext 14/1
+Pyroguard T-EW60/6 TVI Ext 14/1
+1285 x 2285
+2585 x 1600
+Feu côté contre face",2585,2285,Non,Joint silicone,-,Longueur illimitée x 2950 hauteur,0,0,0,0,2950,Béton armé,Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",7/15/28,20325,FEU
+Mur Rideau,thermfix vario,E30,PILKINGTON,EFR-14-001306,Rec 24/2 + Ext 15/1,"Pyrodur 30-200 ép 14 mm
+1680 x 3000 (lxh ou hxl) 
+Pyrodur 30-200 ISO
+1400 x 3000 (lxh ou hxl)
+Feu indifférent
+Pyrodur 30-203 ép 11 mm Ext 15/1
+1440 x 2402 (lxh ou hxl)
+1201 x 2880 (lxh ou hxl)
+Pyrodur 30-203 ISO
+1200 x 2400 (lxh ou hxl)
+Feu indifférent",3000,3000,"Composé de 1 plaque Aestuver ép mini 8 mm 
+tôlé alu 2 faces .
+S maxi : 1,17 m² ép 8
+S maxi : 1,80 m² ép 12
+Feu indifférent","Joint CR
+Joint EPDM",-,Portée libre maxi 5000 mm,0,0,0,0,5000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Profilés série 45 ou 60 mm de face vue
+Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Possibilité de faire des angles fins de 45 à 180°
+Performance antieffraction  RC2 et RC3
+Performance pareballes FB 4 NS","RC2
+RC3",20/10/2029 0:00:00,10553,FEU
+Cloison,fuego light,EI90,VETROTECH,14-A-001,Rec. 24/2,"Contraflam 90-4
+1800 x 3027
+1514 x 3600  
+2744 x 1512
+2305 x 1800  
+Contraflam 90-4 ép 40 mm
+1500 x 2500 (lxh ou hxl)
+Contraflam 90-4 ép 43 mm
+1500 x 3000 ou 2744 x 1500
+Contraflam 90-4 ép 48 mm
+1800 x 3027
+1557 x 3500 
+2744 x 1512
+2305 x 1800  
+Contraflam 90-4 ép 58 mm
+1800 x 3027
+1514 x 3600  
+Contraflam 90-4 Climaplus 
+1800 x 3027
+1514 x 3600 
+Vitrage de forme 
+Trapèze, triangle ou parallélogramme 
+S maxi :1,50 m², Angle mini 20° 
+Circulaire diamètre maxi 1400 mm
+Tête cintrée dim maxi 1500 x 2500 (lxh ou hxl)
+
+Feu indifférent",2744,3600,"Promatect H ép 50 mm tôlé 2 faces 
+1354 x 435 (HxL ou LxH)
+2 plaques de Powerpanel FermacelL+ isolant kit 900301 tôlé 23 faces ép 50 mm
+1376 x 1846 ou 1410 x 1880
+Feu indifférent","Joint silicone
+ joint EPDM
+Double ou simple parclosage 
+Douille en applique pour le drainage du fond de feuillure du vitrage",-,"Longueur illimitée x 3130 avec traverses
+Longueur illimitée x 3732 sans traverse
+Longueur illimitée x 3400 y compris cloison légère",0,0,0,0,3732,"Béton armé , parpaing plein
+Intégration dans Cloison légère 48/98 avec partie fixes latérales, imposte ht maxi 1000 mm et sur allège ht maxi 2100 mm
+Assemblage des châssis entre eux dos à dos",Pas de restriction sur le sens de feu châssis,-,-,"10/14/2029, 12:00:00 AM",90346,FEU
+Porte va-et-vient,presto,E30,PYROGUARD,EFR-14-001850,+ Rév. 1 + Ext 14/1 rév 2 + Ext 25/2,"Pyroguard T E30/8/10/12
+Pyroguard T EW30/6
+Pyroguard T EW30/6 VF
+Pyroguard T EW30/6 VI
+Feu indifférent",0,0,"Composé de 2 plaques de BA13 tôlé 2 faces
+ S maxi : 2,38 m²
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent",Joint silicone,"Rotation par axe central haut et pivot frein au sol et joint anti pince doigts
+Rotation par paumelle à souder, ferme porte en applique et joint anti pince doigts
+Sans serrure, avec serrure encastrée à rouleau sur traverse verticale ou condamnation par serrure deux points haut et bas 
+Contrôle d’accès encastré en traverse haute.
+Système joint anti pince doigts par joints et profilé rond
+Bâtons de Maréchal Alu Acier ou Bois","Porte 1 vantail 
+E30 dim maxi vantail : 1380 x 2326 ou 1250 x 2567
+EW30 dim maxi vantail : 1200 x 2233
+Vantaux égaux 
+E30 dim maxi vantail : 1209 x 2307 ou 1094 x 2550
+EW30 dim maxi vantail : 1052 x 2218
+Vantaux inégaux 
+E30 dim maxi vantail VP : 1322 x 2315 ou 1200 x 2550
+E30 dim maxi vantail VS : 805 x 2310 ou 730 x 2550
+EW30 dim maxi vantail VP : 1150 x 2218
+E30 dim maxi vantail VS : 700 x 2218
+rapport ? à 0,26",1380,2418,2567,2567,0,"Béton, parpaing plein . 
+Intégration dans Cloison légère 70/120
+Intégration du Bloc Porte Va et Vient ou du vantail battant sur paumelle E30 dans la cloison fixe vitrée E30 
+PV 13A175
+Intégration du Bloc Porte Va et Vient ou du vantail battant sur paumelle E30 dans la cloison fixe vitrée EI30 du PV 13A439 ou EI60 du PV 13A429 ou PV 15002712 Ext 14/1 ",Pas de restriction sur le sens de feu châssis,-,-,26/01/2030 0:00:00,10715,FEU
+Porte va-et-vient,presto,E60,PYROGUARD,EFR-14-001852,+ Ext 14/1 rév 2 + Ext. 25/2,"Pyroguard T EW 60/13-1
+Feu indifférent",0,0,"Composé de 2 plaques de BA13 tôlé 2 faces
+ S maxi : 2,38 m²
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent",Joint silicone,"Rotation par axe central haut et pivot frein au sol et joint anti pince doigts
+Rotation par paumelle à souder, ferme porte en applique et joint anti pince doigts
+Sans serrure, avec serrure encastrée à rouleau sur traverse verticale ou condamnation par serrure deux points haut et bas 
+Contrôle d’accès encastré en traverse haute.
+Système joint anti pince doigts par joints et profilé rond
+Bâtons de Maréchal Alu Acier ou Bois","Porte 1 vantail 
+E60 dim maxi vantail : 1380 x 2326 ou 1250 x 2567
+EW60 dim maxi vantail : 1200 x 2233
+Vantaux égaux 
+E60 dim maxi vantail : 1209 x 2307 ou 1094 x 2550
+EW60 dim maxi vantail : 1052 x 2218
+Vantaux inégaux 
+E60 dim maxi vantail VP : 1322 x 2315 ou 1200 x 2550
+E60 dim maxi vantail VS : 805 x 2310 ou 730 x 2550
+EW60 dim maxi vantail VP : 1150 x 2218
+E60 dim maxi vantail VS : 700 x 2218
+rapport ? à 0,26",1380,2418,2567,2567,0,"Béton, parpaing plein, béton cellulaire 
+ Intégration dans Cloison légère 70/120 
+Intégration du Bloc Porte Va et Vient ou battant sur paumelle E60 dans la cloison fixe vitrée
+E60 PV 13A177
+Intégration du Bloc Porte Va et Vient ou battant sur paumelle E60 dans la cloison fixe vitrée EI60 du 
+PV 13A429 ou PV 15002712 Ext 14/1",Pas de restriction sur le sens de feu châssis,-,-,15/01/2030 0:00:00,20715,FEU
+Cloison bords-à-bords,fuego light,EI60,AGC,EFR-15-002586,,"Pyrobel 25 VL (1200 x 2874)
+Pyrobel 25 EG VL (1355 x 2874)
+Pyrobel 25 EG VL CORNER  (1355 x 2874)
+Pyrobel 25 EG2 VL CORNER  (1355 x 2874)
+
+Feu Indifférent",1355,2874,Non,"Joint silicone
+Joint EPDM",-,"Longueur illimitée x 3000 vitrée
+Longueur illimitée x 3400 dont 400 mm de retombée imposte cloison légère
+Longueur illimitée x 3800 dont 400 mm de retombée imposte + allège en cloison légère avec Ht 1200 mm vitrage maxi",0,0,0,0,3000,"Béton armé, parpaing plein, béton cellulaire 
+Intégration dans Cloison légère 48/98 ou 70/120 sur quatre côtés allège, imposte et partie fixes latérales (uniquement avec Pyrobel 25)
+Poteau acier protégé entre deux châssis ou en angle à 90° 
+Système d’assemblage des traverses et montants de rives par manchonnage
+Angle des vitrages de 90 à 180 ° formant  la cloison à facettes (uniquement avec Pyrobel 25)",Pas de restriction sur le sens de feu châssis,Pose en intérieur uniquement,-,9/15/26,80441,FEU
+Cloison bords-à-bords,fuego light,EI30,AGC,EFR-15-002589,,"Pyrobel 16 VL
+Pyrobel 16 EG VL
+Pyrobel 16 EG2 VL
+Pyrobel 16 EG (+6) VL CORNER
+Pyrobel 16 EG2 VL CORNER
+1234 x 2874
+
+Pyrobel T EI 30-22
+Pyrobel T EI 30-27
+Lmax 1800 
+Hmax 4500 
+Smax = 7.2m²
+
+Feu Indifférent",1800,4500,Non,"Joint silicone
+Joint EPDM",-,"Longueur illimitée x 2984 vitrée  Pyrobel 16
+Longueur illimitée x 4670 vitrée  Pyrobel T EI 3022 ou 27",0,0,0,0,4670,"Béton armé, parpaing plein, béton cellulaire 
+Intégration dans Cloison légère 48/98 ou 70/120 sur quatre côtés allège, imposte et partie fixes latérales (avec Pyrobel 16 uniquement)
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses et montants de rives par manchonnage (avec Pyrobel 16 uniquement)
+Angle des vitrages de 90 à 180 ° formant  la cloison à facettes (avec Pyrobel 16 uniquement)",Pas de restriction sur le sens de feu châssis,Pose en intérieur uniquement,-,9/30/26,70441,FEU
+Cloison bords-à-bords,presto,E30,PILKINGTON,EFR-16-003119 ,,"Pyroclear line 30-603 ép 10 mm
+1680 x 2851
+1412 3391
+Feu indifférent",1680,3391,Non,Joint silicone,-,"Longueur illimitée x 3528 hauteur
+Longueur illimitée x 3400 hauteur (y compris cloison légère)",0,0,0,0,3528,"Maconnerie avec une masse volumique 850 kg/m³
+Intégration dans la Cloison légère 48/98  sur quatre côtés imposte haut maxi 1000 mm ou allège haut maxi 1200 mm et parties fixes
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Pose en applique sur maconnerie
+Système d’assemblage des traverses par manchonnage",Pas de restriction sur le sens de feu châssis,-,-,7/2/28,10413,FEU
+Cloison,fuego light,EI120,PYROGUARD,EFR-16-V-004086,+ Ext 17/1 + Ext 21/2 + Ext 21/3,"Pyroguard T-EI 120/47-3 VI ép 59 ±2
+1542 x 2302
+1295 x 2742
+1782 x 1554
+Qualité extérieur
+Pyroguard T-EI 120/47-3 VF Ext 17/1
+Qualité extérieur
+Pyroguard T-EI 120/47-3 
+1285 x 2285
+Feu indifférent
+Pyroguard T-EI120/52-4 Ext 21/3
+Pyroguard T-EI120/52-4 VF Ext 21/3
+	Largeur	Hauteur
+Mini	Sans limites	Sans limites
+Maxi	1556	3135
+	Surface maxi 4,44 m²
+
+	Largeur	Hauteur
+Mini	Sans limites	Sans limites
+Maxi	2600	1326
+	Surface maxi 2,85 m²
+Feu indifférent
+Pyroguard T-EI120/52-4 VI Ext 21/3
+1285 x 2285
+Feu indifférent",2600,2742,"Composition panneau :
+5 plaques de BA13 recouvertes de part et d’autre par des panneaux de laine de roche, le tout pris en sandwich par des tôles acier de 2mm d’épaisseur","Joint silicone Gluske
+Simple ou double parclosage ",-,"Longueur illimitée x 3540
+Longueur illimitée x 3400 y compris cloison légère",0,0,0,0,3540,"Béton, parpaing plein
+Intégration dans Cloison légère 70/120 avec partie fixes latérales et imposte ht maxi 400 mm
+Assemblage des châssis entre eux par manchonnage",Pas de restriction sur le sens de feu châssis,-,-,1/30/27,100345,FEU
+Cloison,unico,EI30,VETROTECH,EFR-17-003240,Rec 1,"Contraflam 30 Climaplus 
+Contraflam 30 Climatop
+1384 x 2609
+2384 x 1363
+Feu indifférent",2384,2609,"Composé de 1 Aestuver , tôlé 2 faces ép 44 mm
+Maxi : 3,81 m²
+Composé de 2 Flumeroc, 1 Fermacell, tôlé 2 faces ép 55 
+Maxi : 2,3 m²
+Composé de 1 Promatech h 30 mm tôlé 2 faces  ép 33
+Maxi : 2 m²
+Feu indifférent","Joint CR
+Fond de joint et Joint silicone",-,Longueur illimitée x 4000 hauteur,0,0,0,0,4000,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des châssis dos à dos",Pas de restriction sur le sens de feu châssis,-,-,6/11/29,70326,FEU
+Porte,unico,EI30,VETROTECH,EFR-17-003243 ,Rec 1,"Contraflam 30 Climaplus 
+Contraflam 30 Climatop
+Feu indifférent",0,0,"Composé de 1 Aestuver, tôlé 2 faces ép 44 mm
+Maxi : 3,81 m²
+Composé de 2 Flumeroc ,1 fermacel ,tôlé 2 faces ép 55 
+Maxi : 2,3 m²
+Composé de 1 promatech h 30 mm tôlé 2 faces  ép 33
+Maxi : 2 m²
+Feu indifférent","Joint CR
+Fond de joint et Joint silicone","Paumelles à visser, à souder, avec pion médian
+Serrure 3 points avec ou sans fonction anti panique
+avec béquilles ou Pushbar
+Contrôle d’accès en applique ou encastré par serrure 
+Ferme porte en applique  ","Porte 1 vantail 
+PL maxi : 1370 x 2860 
+PL mini : 665 x 2143
+Vantaux égaux 
+PL maxi : 2670 x 2850
+PL mini : 1296 x 2135
+Vantaux inégaux(rapport ? à 0,51)
+PL maxi : 2670 x 2850 
+Larg VP maxi : 1570 mm
+Larg VS mini : 683 mm",1370,2670,2860,2860,0,"Béton, parpaing plein, béton cellulaire
+Possibilité de faire des portes fenêtre dormant 4 côtés
+Intégration de l’ouvrant dans des parois associées EI30 UNICO imposte et partie fixe latérales PV 17003240 ",Pas de restriction sur le sens de feu châssis,-,-,7/25/29,70126,FEU
+Cloison bords-à-bords,fuego light,EI60,PILKINGTON,EFR-17-003917,+ Ext 23/1,"Pyrostop line 60-603 ép 27
+1560 x 3000 
+Pyrostop line 60-60 ép 47
+1680 x 3000 
+Feu indifférent",1680,3000,Non,"Joint silicone
+Joint EPDM",-,"Longueur illimitée x 3116 vitrée
+Longueur illimitée x 3400 vitrée  y compris cloison légère
+avec angle vitrage de 1 à 180°",0,0,0,0,3400,"Béton, parpaing en béton ép 100 mm
+Intégration dans Cloison légère 48/98  sur quatre côtés allège ht maxi 1200, imposte ht maxi 1000 mm et partie fixes latérales
+Poteau acier protégé entre deux châssis ou en angle à 90° ou pose en applique
+Système d’assemblage des traverses et montants de rives par manchonnage",Pas de restriction sur le sens de feu châssis,Pose en intérieur uniquement,-,8/23/28,80443,FEU
+Cloison bords-à-bords,fuego light,EI120,PILKINGTON,EFR-18-002293,,"Pyrostop line 120-60 ép 47
+1400 x 3000 
+Feu indifférent",1400,3000,Non,Joint silicone Unibond 3B avec angle à 90°,-,"Longueur illimitée x 3116 vitrée
+Avec vitrage de 1 à 180°
+",0,0,0,0,3116,"Béton armé, parpaing plein, béton cellulaire 
+Système d’assemblage des traverses et montants de rives par manchonnage",Pas de restriction sur le sens de feu châssis,Pose en intérieur uniquement,-,8/27/28,100443,FEU
+Plancher vitré,fuego light,EI60,VETROTECH,EFR-18-003683,,"Contraflam 60 horizontal
+1000 x 2000
+2000 x 1000
+Lite Floor 49mm
+1100 x 2100
+2100 x 1100
+
+Sens du feu :
+- côté 44.2 pour les vitrages Contraflam 60
+- côté opposé au vitrage trempé d’épaisseur 8mm pour les vitrages Lite floor 49mm.",2100,2000,Non,-,-,"Larg maxi : 4000
+Portée maxi : 3000
+Angle d’inclinaison : 0°",0,0,0,0,4000,-,"Restriction sur le sens de feu châssis, voir PV",Charge uniformément répartie max 400 kg/m²,-,7/30/24,80846,FEU
+Cloison,unico,E30,AGC,EFR-18-004879,Rec 24/1 + Ext 25/2,"• Pyrobelite 9EG ISO :
+   - Larg x haut maxi = 2562 x 1368 avec surf. maxi 2,94 m²
+   - Larg x haut maxi = 2562 x 2042 avec surf. maxi 2,17 m²
+   - Larg x haut maxi = 816 x 2042 avec surf. maxi 1,40 m²
+
+• Pyrobelite 10 ISO et 13 ISO :
+   - Larg x haut maxi = 1100 x 2420 ou 2240 x 1130
+
+• Pyrobelite 12 ISO et 12EG ISO :
+   - Larg x haut maxi = 1315 x 2880 ou 2500 x 1300
+
+Feu indifférent",2562,2880,Non,Joint silicone,-,Longueur illimitée x 3600 hauteur,0,0,0,0,3600,"Béton, parpaing plein",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",7/10/29,10321,FEU
+Cloison,fuego light,EI120,AGC,EFR-19-001169,Rec 25/1 + Ext 21/1,"Pyrobel 54
+Pyrobel 54 EG
+Pyrobel 54 ISO
+Lmax 1560
+Hmax 3000 
+Smax 4.5m²
+Feu indifférent pour les vitrage Pyrobel 54 et 54 EG
+Feu côté opposé à la contreface pour les vitrages Pyrobel 54 ISO",1560,3000,Non,"Joint silicone
+Simple parclosage ",-,"Longueur illimitée x 3600
+Longueur illimitée x 3400 cloison vitrée + cloison légère
+Hauteur maximale de l’imposte en plaques de plâtre : 400
+Largeur illimité mais pas de manchonnage",0,0,0,0,3600,"Béton, parpaing plein
+Intégration dans Cloison légère type EN 13631",Pas de restriction sur le sens de feu châssis,-,-,30/06/2030 0:00:00,100341,FEU
+Cloison bords-à-bords,presto,E60,VETROTECH,EFR-19-001242,Rec. 24/1,"CONTRAFLAM STRUCTURE LITE 60 ép. 20 mm
+Lmax 1650
+Hmax 3000
+Smax 4.16m²
+",1650,3000,Non,Fibre minérale ou joints CR,-,Longueur illimitée x 3108 hauteur,0,0,0,0,3108,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120
+Poteau acier protégé entre deux châssis ou en angle à 90°",Pas de restriction sur le sens de feu châssis,-,-,7/15/29,20416,FEU
+Cloison,presto,E30,PYROGUARD,EFR-19-002101,Rec 24/1,"Pyroguard T-EW30/13-1 simple, VF ou VI 1500 x 3420
+Pyroguard T-EW30/6 simple, VF 1100 x 1900
+Pyroguard T-EW30/6 VI 1668 x 1122 ou 1123 x 1668
+Vitrage de forme :
+Angle supérieur à 27° Surface maxi : 2,12 m²
+- Feu côté contreface feuilletée pour le vitrage de référence Pyroguard T-EW30/13-1 VF.
+- Feu côté contreface antieffraction pour les vitrages de référence Pyroguard T-EW30/13-1 VF ou VI.
+- Indifférent pour les autres vitrages.",3230,3420,"Composé de 2 plaques de BA13 tôlé 2 faces
+S maxi : 2 m²
+Feu indifférent",Joint silicone,-,"Longueur illimitée x 3740 hauteur
+Longueur illimitér x 4000 hauteur (y compris cloison légère)
+Hauteur max imposte en cloison légère 700 mm
+Hauteur max de l’allège en cloison légère 1000 mm",0,0,0,0,4000,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 120/70 en imposte et parties fixes latérales
+Intégration dans Cloison légère 98/48 en imposte, partie fixes latérales et allége
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3","9/27/2029, 12:00:00 AM",10315,FEU
+Cloison,presto,E60,PYROGUARD,EFR-19-002101,,"Pyroguard T-EW60/13-1 simple, VF ou VI
+Pyroguard T-EW60/15-1 simple, VF ou VI
+Pyroguard T-EW60/19-1 simple, VF ou VI
+1242 x 3230
+3230 x 1242
+1575 x 3150
+3150 x 1575
+3102 x 2859 ou 2607 x 3402
+
+Pyroguard T-EW60/13-1 VF ou VI
+Pyroguard T-EW60/15-1 VF ou VI
+Pyroguard T-EW60/19-1 VF ou VI
+1500 x 2850
+2850 x 1500
+
+Feu côté contreface feuilletée pour le vitrage de référence Pyroguard T-EW60 VF.
+Feu côté contreface antieffraction pour les vitrages de référence Pyroguard T-EW60 VF ou VI.
+Indifférent pour les autres vitrages.",3230,3420,"Composé de 2 plaques de BA13 tôlé 2 faces  
+S maxi : 2 m²
+Feu indifférent",Kérafix,-,"Longueur illimitée x 3740 (sur support à forte densité)
+Longueur illimitée x 3400 (sur support à faible densité)
+Hmax de l’ensemble (cloison vitrée + cloison légère) : 4000 mm
+Hmax de l’imposte en plaques de plâtre : 700 mm
+Hmax de l’allège en plaques de plâtre : 1000 mm",0,0,0,0,4000,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 120/70 en imposte et parties fixes latérales
+Intégration dans Cloison légère 98/48 en imposte, partie fixes latérales et allége
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage ",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",9/27/24,20315,FEU
+Cloison bords-à-bords,fuego light,EI30,AGC,EFR-19-002303,Rec 24/1,"Pyrobel 16 VL
+Pyrobel 16 EG VL
+Pyrobel 16 EG2 VL
+Pyrobel 16 EG (+6) VL CORNER
+Pyrobel 16 EG2 VL CORNER
+1234 x 2874
+
+Pyrobel T EI 30-22
+Pyrobel T EI 30-27
+Lmax 1800 
+Hmax 4500 
+Smax = 7.2m²
+
+Feu Indifférent",1800,4200,Non,"Joint silicone
+Joint EPDM",-,"Longueur illimitée x 2984 vitrée  Pyrobel 16
+Longueur illimitée x 4670 vitrée  Pyrobel T EI 3022 ou 27",0,0,0,0,4670,"Béton armé, parpaing plein, béton cellulaire 
+Intégration dans Cloison légère 48/98 ou 70/120 sur quatre côtés allège, imposte et partie fixes latérales (avec Pyrobel 16 uniquement)
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses et montants de rives par manchonnage (avec Pyrobel 16 uniquement)
+Angle des vitrages de 90 à 180 ° formant  la cloison à facettes (avec Pyrobel 16 uniquement)",Pas de restriction sur le sens de feu châssis,Pose en intérieur uniquement,-,"10/11/2029, 12:00:00 AM",70441,FEU
+Cloison bords-à-bords,fuego light,EI60,AGC,EFR-19-002612,Rec 24/1,"Pyrobel-T EI60-34 VISION LINE
+1800 x 4500
+
+Feu Indifférent",1800,4500,Non,"Joint silicone
+Joint EPDM",-,Longueur illimitée x Ht 4610,0,0,0,0,4610,"Béton armé, parpaing plein, béton cellulaire 
+Poteau acier protégé entre deux châssis ou en angle à 90° 
+Système d’assemblage des traverses et montants de rives par manchonnage",Pas de restriction sur le sens de feu châssis,Pose en intérieur uniquement,-,"10/11/2029, 12:00:00 AM",80441,FEU
+Cloison bords-à-bords,fuego light,EI90,VETROTECH,EFR-19-003008,,"Contraflam structure 90 ép mini 45
+Lmax 1800  
+Hmax 3500
+Smax 5,44m²
+Contraflam structure 90 ép mini 50
+Lmax 1800 
+Hmax 3600 
+Smax 5,44m²
+Feu indifférent",1800,3600,Non,"Joint silicone
+Simple ou double parclosage
+Douille pour le drainage en applique pour le drainage du fond de feuillure du vitrage",-,Longueur illimitée x 3760 hauteur,0,0,0,0,3760,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère acier ép. 125 dans partie fixes latérales
+Manchonnage possible ",Pas de restriction sur le sens de feu châssis,-,-,5/13/25,90446,FEU
+Cloison bords-à-bords,fuego light,EI90,PYROGUARD,EFR-19-004227,Rec. 24/1,"Pyroguard T-EI90/47-3 SWS ép mini 47
+Pyroguard T-EI90/49-3 SWS ép mini 49
+Lmax 1980 
+Hmax 3591 
+Smax 6,46m²
+Feu indifférent
+Pyroguard T-EI90/36-3 SWS ép mini 36
+Lmax 1800 
+Hmax 3265
+Feu indifférent",1800,3265,Non,"Joint silicone 
+Simple parclosage",-,Longueur illimitée x hmax vitrage,0,0,0,0,3400,"Béton, parpaing plein, béton cellulaire 
+Poteau protégé en ligne et à 90°",Pas de restriction sur le sens de feu châssis,Pas de manchonnage,-,"10/28/2029, 12:00:00 AM",90445,FEU
+Ouvrant de service,unico,E30,AGC,EFR-20-000597,Rec. 25/1 - Ext. 25/1,"Pyrobelite 9EG ISO
+Pyrobelite 10 ISO
+Pyrobelite 12 ISO
+Pyrobelite 12EG ISO
+Pyrobelite 13 ISO
+Feu indifférent",0,0,-,-,"Quincaillerie surposé RC3
+Béquille à clé","Ouvrant à la Française
+ 1 vantail 
+Lmax 1375
+Hmax 1946
+Smax vitrage 2.43 m²PL 1078 x 1584",1375,0,1946,1946,0,"Béton, parpaing plein, béton cellulaire
+Intégration de l’ouvrant dans la cloison fixe E30 
+PV EFR18004879 ",Pas de restriction sur le sens de feu châssis,-,"RC2
+RC3",12/11/2030 0:00:00,10221,FEU
+Mur Rideau,thermfix vario,EI60,PYROGUARD,EFR-20-000858,Rec 25/1 + Rév 1 + EXT 21/1,"Pyroguard T-EI60/25-3 
+Pyroguard T-EI60/25-3 VF
+Lmax 1540
+Hmax 3112 
+Smax 4.03m²
+Pyroguard T-EI60/25-3 VI
+Lmax 1650
+Hmax 3950
+Smax 5.9m²
+Feu indifférent",1650,3950,"Panneau Promatect H
+S maxi : 0,42 m²
+Panneau 3 plaques BA13 Feu tôlé 2 faces
+S maxi : 1,5 m²
+Feu indifférent",Joint EPDM,-,"Longueur illimitée x 6000 (devant nez de dalle)
+Longueur illimitée x 6000 (posé entre dalle)",0,0,0,0,6000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Profilés série 45 ou 60 mm de face vue
+Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Possibilité de faire des angles de 90° à 180° Ext21/1","RC2
+RC3",07/07/2030 0:00:00,80555,FEU
+Porte,unico,E30,AGC,EFR-20-001190,Rec 25/1 + Ext. 25/1,"Pyrobelite 9EG ISO
+Pyrobelite 10 ISO
+Pyrobelite 12 ISO
+Pyrobelite 12EG ISO
+Pyrobelite 13 ISO
+Feu indifférent",0,0,Non,"Joint silicone
+Joint CR","Paumelles à visser, à souder, avec pion médian
+Serrure 3 points avec ou sans fonction anti panique
+Serrure 3 points avec ou sans contrôle d’accès
+Contrôle d’accès en applique
+Ferme porte en applique
+Ferme porte encastré","Porte 1 vantail 
+Lmax 1230
+Hmax 2674
+Smax vantail 2.98m²
+Dimensions mini : illimité
+Vantaux égaux 
+Lmax 1415
+Hmax 2588
+Smax 3.32m²
+Dimensions mini : illimité
+Vantaux inégaux  
+VS Larg mini: 615
+VP Larg maxi  : 1415
+Rapport LVS/LVP ? 0,43",1230,2810,2674,2674,0,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux portes ou en angle à 90°
+Intégration  du bloc porte E30 dans la cloison vitrée E30 PV EFR18004879
+Intégration  du bloc porte E30 dans la cloison vitrée EI30 PV 10A446
+Intégration  du bloc porte E30 dans la cloison vitrée EI60 PV 06A105",Pas de restriction sur le sens de feu châssis,-,-,12/11/2030 0:00:00,10121,FEU
+Porte,fuego light,EI30,POLFLAM,EFR-24-000553,,Polflam EI30 / Fireflam 30                     Polflam EI30 DGU / Fireflam 30 DGU                              ,0,0,"D’épaisseur minimale 40,5 mm, panneaux constitués de 3 plaques de BA 13 chacune prise en sandwich entre deux parements métalliques d’épaisseur 15/10ème mm collés, Remplissage maxi 50% de la surface de la porte.","Joint silicone
+Joint  EPDM 
+Simple ou double parclosage
+Douille ou tubulure pour le drainage du fond de feuillure des vitrages","Paumelles à souder ou à visser 2D/3D, encastrée (invisible).
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar ou des boutons.
+Contrôle d’accès en applique ou encastré par gâche électrique à émission, serrures électrique DormaKaba SVP, TV100/200.
+Ferme-porte en applique ou encastr (Dorman, Geze, Eco Schulte).
+Opérateur d’ouverture ED100 ou ED250, flatscan, bandeau sélecteur de fermeture GSR, passe-câble, contacteurs de position.  Bâton de maréchal acier, inox ou alu (sous conditions)","Dimensions des vantaux : 
+• Porte 1 vantail maxi L x H = 1460 x 2720, ou mini L x H = 730 x 2040
+• Porte à 2 vantaux (égaux ou inégaux) :
+Vantail principal maxi L x H = 1545 x 3020, mini maxi L x H = 772 x 2265
+Vantail secondaire (semi-fixe) maxi L x H = 1545 x 3020, mini maxi L x H = 772 x 2265",1460,3000,3020,3020,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120 sous PV EI60.
+Jonction en ligne sur poteau acier protégé ou en angle à 90°. Intégration possible dans cloison vitrée EI30 (PV EFR 24-000552) ou EI60 (PV EFR-23-001318)",Pas de restriction sur le sens de feu châssis,"Contacteurs de positions Forster 907076 et 907077
+
+Jeux de fond de feuillure 5mm
+2x bande intumescentes 948002 ","
+",6/27/29,70144,FEU
+Mur Rideau,thermfix vario,EI30,PYROGUARD,EFR-21-000287 ,,"Pyroguard T-EI30/18-2
+Pyroguard T-EI30/18-2 VF
+	Largeur	Hauteur
+Maxi	1540	3112
+	Surface maxi 4,03m²
+
+Pyroguard T-EI30/18-2 VI
+	Largeur	Hauteur
+Maxi	1553	2740
+	Surface maxi 3.58m²",1553,3112,"Panneau d’épaisseur 52mm, réalisé à base de plaques de PROMATECTH. S maxi : 0.42 m²
+Panneau d’épaisseur 40.5mm, réalisé à base de plaques de plâtre. S maxi : 1.5 m²",Joint EPDM,-,Longueur illimitée x 5000 hauteur,0,0,0,0,5000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Assemblage à facettes de 90 à 180°","RC2
+RC3",6/2/26,70555,FEU
+Cloison,fuego light,EI120,VETROTECH,EFR-21-001121,+ Rév 1,"Contraflam 120-5
+1500 x 3000 
+1800 x 3500 (PV EFR-21-001121)
+Contraflam 120-5 Climaplus Climalit (PV EFR-21-001121)
+	Largeur	Hauteur
+Maxi	1800	3500
+	Surface maxi 5,45 m²
+Feu indifférent
+1800 x 3500 feu opposé à la contreface
+Contraflam 120-5 CLIMALIT avec stores intégrés (PV EFR-21-001121)
+1500 x 3000 ou 2000 x 1300",2000,3500,"5 plaques de BA13 + laine de roche 20mm de chaque côtés + tôlé 2 faces ép 2mm = épaisseur totale 110mm
+S maxi : 2 m²
+Feu indifférent","Joint silicone
+Joint CR 
+Simple ou double parclosage",-,Longueur illimitée x 3732 hauteur,0,0,0,0,3732,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère type EN 13631
+Assemblage des châssis entre eux par manchonnage ",Pas de restriction sur le sens de feu châssis,-,-,10/7/26,100346,FEU
+Cloison bords-à-bords,fuego light,EI30,VETROTECH,EFR-21-002687,,"Contraflam structure 30
+	Largeur	Hauteur
+Ep. en fonction des dimensions	2160	4480
+	Surface maxi 8,06 m²
+Contraflam structure 30 Corner
+	Largeur	Hauteur
+Ep. en fonction des dimensions	1800	4480
+	Surface maxi 6,72 m²
+Contraflam structure 30 Climaplus/climalit
+	Largeur	Hauteur
+Ep. en fonction des dimensions	1800	3600
+	Surface maxi 5,45 m²
+
+Ep. en fonction des dimensions	2160	3000
+	Surface maxi 4,50 m²
+
+Contraflam structure 30 Corner Climaplus/climalit
+	Largeur	Hauteur
+Ep. en fonction des dimensions	1650	3300
+	Surface maxi 4,97 m²
+
+Ep. en fonction des dimensions	2160	3000
+	Surface maxi 4,50 m²
+Feu indifférent",2160,4480,Non,"Joint silicone
+Joint EPDM 
+Simple ou double parclosage",-,"Longueur illimitée x en fonction de la hauteur du vitrage
+Longueur illimitée x 3150 cloison légère en parties latérales
+Longueur illimitée x 4000 cloison légère en imposte
+Imposte en cloison légère 820 mm maxi",0,0,0,0,4600,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 en partie fixes latérales
+Angle des vitrages de 90 à 180 ° formant  la cloison à facettes 
+Système d’assemblage des traverses et montants de rives par manchonnage
+Intégration d’un bloc porte EI30 PV 12A080",Pas de restriction sur le sens de feu châssis,Pose en intérieur uniquement,-,7/7/27,70446,FEU
+Cloison bords-à-bords,fuego light,EI60,VETROTECH,EFR-21-002688,,"Contraflam structure 60 ép 31
+	Largeur	Hauteur
+ép 31 - maxi	1600	3900
+	Surface maxi 6,24 m²
+Contraflam structure 60 Corner
+	Largeur	Hauteur
+ép 31 - maxi	1500	3438
+	Surface maxi 4,33 m²
+
+Contraflam structure 60 Climaplus/Climalit
+	Largeur	Hauteur
+ép 31 - maxi	1500	3438
+Feu indifférent",1600,3900,Non,"Joint silicone
+Joint EPDM 
+Simple ou double parclosage",-,"Longueur illimitée x en fonction de la hauteur du vitrage
+Longueur illimitée x 3400 y compris cloison légère
+Hauteur maxi imposte cloison légère 820mm
+Hauteur maxi cloison avec angle 3550mm",0,0,0,0,4000,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 en partie fixes latérales, imposte et allège
+Angle des vitrages de 90 à 180 ° formant  la cloison à facettes 
+Système d’assemblage des traverses et montants de rives par manchonnage
+Intégration  d’un Bloc porte EI60 PV 12A078 avec poteau acier protégé",Pas de restriction sur le sens de feu châssis,Pose en intérieur uniquement,-,10/11/27,80446,FEU
+Cloison bords-à-bords,presto,E60,PYROGUARD,EFR-21-002803-B,,"PYROGUARD T-EW60/24-2 SWS
+	Largeur	Hauteur
+Mini	300	400
+Maxi	1300	2898",1300,2898,Non,Joint silicone,-,Longueur illimitée x 3050 hauteur,0,0,0,0,3050,"Béton, parpaing plein, béton cellulaire
+Poteau acier protégé entre deux châssis ou en angle à 90°",Pas de restriction sur le sens de feu châssis,-,-,8/17/26,20415,FEU
+Cloison,unico,E30,VETROTECH,EFR-22-001302,Ext. 25/1-Rév.1 + Ext. 25/2,"► PV de base :
+• Vetroflam 30 Climaplus (feu côté contre face ou indifférent si deux Vetroflam) :
+      - L x H = 1800 x 3600 - max 5.45m²
+
+► Ext. 25/1 - Rév.1 :
+• Contraflam Lite 30 et Contraflam Lite 30 Climaplus/Climalit (sens de feu indiffèrent) :
+      - L x H = 3240 x 1560 - max 4.25m²
+      - L x H = 1650 x 3300 - max 5m²
+      - L x H = 1752 x 3212 - max 4.73m²
+• Contraflam Lite 30 Climatop (sens de feu coté Contraflam uniquement) :
+      -  L x H = 1501 x 2854 - max 3.6m²
+• Contraflam Lite 30 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+     - L x H = 1320 x 2400 - max 2.66m²
+
+► Ext. 25/2 :
+• Contraflam Lite 60 et Contraflam Lite 60 Climaplus/Climalit (sens de feu indiffèrent) :
+      - L x H = 1752 x 3212 - max 4.73m²
+      - L x H = 3240 x 1560 - max 4.25m²
+      - L x H = 1650 x 3300 - max 5m²
+• Contraflam Lite 60 Climatop (sens de feu coté opposé au Contraflam uniquement)
+      - L x H = 1320 x 2400 - max 2.66m²
+• Contraflam Lite 60 Climatop (sens de feu coté Contraflam uniquement)
+      - L x H =1501 x 2854 - max 3.6m²",1800,3600,"• Promatect H é.p 30 mm + 2x tôles acier 15/10èmes (ou 1 tôle acier + 1 vitrage SGG Emalit Evolution ép. 6 mm) : 2 m² maxi
+• 2 plaques BA13 + 2x tôles acier 10/10èmes : 2 m² maxi
+• Powerpaneel H2O (Fermacell) + 2 laine de roche Flumroc 341 + 2x tôles acier 10/10èmes : 2,30 m² maxi
+• Aestuver ép. 40 mm + 2x tôles aluminium 20/10èmes : 3,81 m² maxi","Joint CR
+Joint silicone",-,Longueur illimitée x 3691 hauteur,0,0,0,0,3691,"Béton, parpaing plein, béton cellulaire
+Poteau protégé en ligne ou à 90°",Restrictions sur le sens de feu : voir PV + extensions,-,"RC2
+RC3",11/7/27,10326,FEU
+Cloison,unico XS,EI30,VETROTECH,EFR-22-001303,Ext 25/2-Rév 1 + Ext. 25/3,"► PV de base :
+• Contraflam 30, Contraflam 30 Climaplus, Contraflam 30 Climalit, ou Contraflam 30 Climatop :
+       - L x H = 1560 x 3240 - max 4,25m²
+       - L x H = 1560 x 3240 - max 4,25m²
+
+► Ext 25/2-Rév 1 :
+• Contraflam Lite 30 et Contraflam Lite 30 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+       - L x H = 1752 x 3212 - max 4.73m²
+• Contraflam Lite 30 Climatop (sens de feu coté Contraflam uniquement) :
+       - L x H = 1501 x 2854 - max 3.6m²
+• Contraflam Lite 30 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+       - L x H = 1320 x 2400 - max 2.66m²
+
+► Ext 25/3 :
+• Contraflam Lite 60 et Contraflam Lite 60 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 1752 x 3212 - max 4.73m²
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+• Contraflam Lite 60 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+       - L x H = 1320 x 2400 - max 2.66m²
+• Contraflam Lite 60 Climatop (sens de feu coté Contraflam uniquement) :
+       - L x H =1501 x 2854 - max 3.6m²",3240,3278,"• à base de plaques de PROMATECTH (PROMAT), surface maxi 2 m².
+• à base de BA13 standard (PLACOPLATRE), surface maxi  2 m².
+• à base de plaques d’AESTUVER (FERMACELL), surface maxi 3,81 m².
+• à base de plaques de POWERPANEEL H2O (FERMACELL), surface maxi 2,30 m².",Joint CR,-,Longueur illimitée x 3278 hauteur,0,0,0,0,3278,"Béton, parpaing plein, béton cellulaire
+Poteau protégé en ligne ou à 90°",Restrictions sur le sens de feu : voir PV + extensions,Drainage possible pas busettes 900100 ou tubulure 980101,-,4/3/28,70336,FEU
+Porte,unico,E30,VETROTECH,EFR-22-001304,Ext. 23/1 + Ext. 25/1-Rév.1 + Ext. 25/2,"► PV de base :
+• Vetroflam Climaplus :
+       - L x H =3240 x 1560 - max 4.25m²
+       - L x H =1650 x 3300 - max 5m²
+       - L x H =1752 x 3212 - max 4.73m²
+
+► Ext 25/1 - Rév 1 :
+• Contraflam Lite 30 et Contraflam Lite 30 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+       - L x H = 1752 x 3212 - max 4.73m²
+• Contraflam Lite 30 Climatop (sens de feu coté Contraflam uniquement) :
+       - L x H = 1501 x 2854 - max 3.6m²
+• Contraflam Lite 30 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+       - L x H = 1320 x 2400 - max 2.66m²
+
+► Ext 25/2 :
+• Contraflam Lite 60 et Contraflam Lite 60 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 1752 x 3212 - max 4.73m²
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+• Contraflam Lite 60 Climatop (sens de feu coté opposé au Contraflam uniquement)
+       - L x H = 1320 x 2400 - max 2.66m²
+• Contraflam Lite 60 Climatop (sens de feu coté Contraflam uniquement)
+       - L x H =1501 x 2854 - max 3.6m²",0,0,"• Soit d'épaisseur 44 mm composés comme suit : une tôle d'aluminium d'épaisseur 20/10 mm + une plaque d'AESTUVER d'épaisseur 40 mm + une tôle d'aluminium d épaisseur 20/10 mm; assemblés par colle de référence PERMAFIX 153, Surface maxi 3,81 m²
+• Soit une tôle d'acier d'épaisseur 15/10 mm + un panneau de laine de roche de référence FLUMROC 341 d'épaisseur 20 mm + une plaque de POWERPANEEL H2O d'épaisseur 12,5 mm + un panneau de laine de roche de référence FLUMROC 341 d'épaisseur 20 mm + une tôle d'acier d'épaisseur 15/10 mm, surface maxi 2,3 m²
+• Soit d'épaisseur 30 mm composés d'une plaque de PROMATECTH d'épaisseur 30 mm prise en sandwich entre deux tôles acier d'épaisseur 15/10 mm ou une tôle acier d'épaisseur 15/10 mm et un vitrage SGG EMALIT EVOLUTION d'épaisseur minimale 6 mm fixés par colle de référence PROMACOLS, surface maxi 2 m².
+Nota : Les panneaux de soubassement ne peuvent pas obturer plus de 50% de la surface d'un vantail ",Joint CR,"Paumelles à visser, à souder, avec pion médian
+Serrure 3 points avec ou sans fonction anti panique
+Serrure 3 points avec ou sans contrôle d’accès
+Contrôle d’accès en applique en traverse haute
+Ferme porte en applique ou encastré
+","• Porte à 1 vantail : L x H = 1576 x 3462 sans que le vantail ne puisse dépasser 4,12 m²
+• Porte à 2 vantaux égaux : L x H = 1627 x 3329 sans que chaque vantail ne puisse dépasser 4,92 m²
+• Porte à 2 vantaux inégaux, les trois conditions suivantes doivent être respectées simultanément :
+--> largeur minimale hors tout du vantail secondaire : 562 mm ;
+--> largeur maximale hors tout du vantail principal : 1661 mm ;
+--> la largeur du vantail principal doit être supérieure à la largeur du vantail secondaire.
+
+• Pas de limitation pour les dimensions mini.",1576,3250,3462,3329,3462,"Béton, parpaing plein, béton cellulaire
+Poteau protégé en ligne ou à 90°",Restrictions sur le sens de feu : voir PV et extensions,"Intégration possible dans cloisons vitrées fixes attenantes en Unico ou Unico XS dito PV EFR22001302, EFR22001303 et EFR17003240, ou cloisons en Fuego Light EI30 / EI60 / EI90 / EI120","RC2
+RC3 uniquement avec serrure EFF et vitrage P8B",7/12/28,10126,FEU
+Ouvrant de service,unico,E30,VETROTECH,EFR-22-001305,Ext. 25/1-Rév.1 + Ext. 25/2,"► PV de base :
+• Vetroflam Climaplus :
+       - Passage libre fenêtre 1 vantail : L x H = 1398 x 2433 - max 3,1 m²
+       - Passage libre Fenêtre 2 vantaux égaux : L x H = 1347 x 2433 - max 2,97 m²
+       - Pour une fenêtre à 2 vantaux inégaux, les trois conditions suivantes doivent être respectées simultanément :
+           --> largeur minimale hors tout du vantail secondaire : 585 mm ;
+           --> largeur maximale hors tout du vantail principal : 1347 mm ;
+           --> la largeur du vantail principal doit être supérieure à la largeur du vantail secondaire.
+
+► Ext 25/1 - Rév 1 :
+• Contraflam Lite 30 et Contraflam Lite 30 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+       - L x H = 1752 x 3212 - max 4.73m²
+• Contraflam Lite 30 Climatop (sens de feu coté Contraflam uniquement) :
+       - L x H = 1501 x 2854 - max 3.6m²
+• Contraflam Lite 30 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+       - L x H = 1320 x 2400 - max 2.66m²
+
+► Ext 25/2 :
+• Contraflam Lite 60 et Contraflam Lite 60 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 1752 x 3212 - max 4.73m²
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+• Contraflam Lite 60 Climatop (sens de feu coté opposé au Contraflam uniquement)
+       - L x H = 1320 x 2400 - max 2.66m²
+• Contraflam Lite 60 Climatop (sens de feu coté Contraflam uniquement)
+       - L x H =1501 x 2854 - max 3.6m²",0,0,Non,"Joint silicone
+Joint CR ","Quincaillerie surposé ou  designo RC3
+Béquille à clé","• Ouvrant OB 1 vantail L x H = 1398 x 2433 (sans que la surface du vitrage ne puisse dépasser 3,1 m²)                                                               • Ouvrant OB 2 vantaux L x H = 1347 x 2433 (sans que la surface du vitrage ne puisse dépasser 2,97 m²)",1398,0,2433,2433,0,"Béton, parpaing plein, béton cellulaire
+Poteau protégé en ligne ou à 90°",Restrictions sur le sens de feu : voir PV + extensions,"intégration possible dans cloisons vitrées fixes attenantes en Unico ou Unico XS dito PV EFR22001302, EFR22001303 et EFR17003240, ou cloisons en Fuego Light EI30 / EI60 / EI90 / EI120
+Possibiliter de faire 2 vantaux","RC2
+RC3",8/10/28,10226,FEU
+Cloison bords-à-bords,fuego light,EI120,VETROTECH,EFR-22-002110,,"Contraflam structure 120-5
+	Largeur	Hauteur
+Maxi	1600	3000
+	Surface maxi 5,45 m²
+
+	Largeur	Hauteur
+Maxi	1800	1600
+Feu indifférent",1800,3000,Non,Joint silicone,-,Longueur illimitée x 3739 hauteur,0,0,0,0,3379,"Béton armé, parpaing plein, béton cellulaire 
+Système d’assemblage des traverses et montants de rives par manchonnage
+Cloison légère latérale, imposte ou allège",Pas de restriction sur le sens de feu châssis,-,-,10/26/27,100446,FEU
+Cloison bords-à-bords,fuego light,EI60,PYROGUARD,EFR-22-003781,,"Pyroguard T-EI60/32-2 SWS
+	Largeur	Hauteur
+Mini	421	Sans limites
+Maxi	1500	3270
+ou
+	Largeur	Hauteur
+Mini	421	Sans limites
+Maxi	1650	3597
+	Surface maxi 5,4 m²
+
+Feu Indifférent",1650,3957,Non,"Joint silicone
+Simple parclosage",-,Longueur illimitée x hmax vitrage,0,0,0,0,4050,"Béton armé, parpaing plein, béton cellulaire",Pas de restriction sur le sens de feu châssis,Pas de manchonnage Hauteur maxi cloison 3000 mm,-,10/10/27,80445,FEU
+Mur Rideau,thermfix vario,EI30,VETROTECH,EFR-22-004035,Ext 23/1,"• Contraflam 30 (VSGI)
+• Contraflam 30 climaplus / climalit (VSGI)
+• Contraflam 30 climatop (VSGI)			
+    --> Dimensions hors-tout des vitrages : 1800 x 3600, avec une surface MAX < 5,45 m²			
+
+• Contraflam 30-2 (VSGI)
+• Contraflam 30-2 climaplus / climalit (VSGI)
+• Contraflam 30-2 climatop (VSGI) 			
+   --> Dimensions hors-tout des vitrages : 2300 x 4600			
+			
+• Contraflam 30-2 isolant avec store intégré (VSGI)
+  --> Dimensions hors-tout des vitrages : 1600 x 3210			
+
+• Sens de feu indifférent	",2300,4600,"• Pour les panneaux installés en nez de dalle à base :
+   &#45; Plaques d'AESTUVER - Surf. maxi = 0,42 m²
+   &#45; Plaques PROMATECTH - Surf. maxi = 0,2 m²
+   &#45; Vitrage SGG EMALIT EVOLUTION (SAINT GOBAIN), ép. MIN 8mm
+   &#45; Panneau 2 plaques de BA13 - Surf. maxi = 1,35 m²			
+• Panneau pleins en partie courante :
+   &#45; Panneau 3 plaques de BA13 spécial feu - S maxi  = 2,98 m²
+   &#45; Panneau PROMATECT H - Surf. maxi = 1,5 m²","• EPDM			
+• Un joint 948000 ou 918003 en périphérie de vitrage",,"• Longueur illimitée x illimitée (facade vitrée)
+• Longueur illimitée x 5856 (hauteur entre dalle)
+  -> Entraxe Max entre montants 2300 mm",0,0,0,0,5856,"• Béton, fixation devant nez de dalle
+• Béton, fixation entre dalle",• Pas de restriction sur le sens de feu châssis,"• Profilés série 45 ou 60 mm de face vue
+• Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+• Dilatation intégrée directement aux raccords de traverses
+• Possibilité de faire des angles fins de 45 à 180°
+• Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+• Possibilité de faire du pare balle performance FB4 NS
+• Possibilité de faire de l’antieffraction performance RC2 et RC3","RC2, RC3, FB4 NS",5/11/28,70556,FEU
+Mur Rideau,thermfix vario,EI60,VETROTECH,EFR-22-004036,Rév 1 + Ext 23/1,"• Contraflam 60-3 (VSGI) : dimensions hors-tout des vitrages : 2300 x 4600
+• Contraflam 60-3 climaplus / climalit (VSGI) : dimensions hors-tout des vitrages : 2300 x 4600
+• Contraflam 60-3 climatop (VSGI) : dimensions hors-tout des vitrages :
+   -> 1980 x 3500, surf. maxi < 6,3m²		
+   -> 1800 x 3800, Surf. maxi < 5,8m²
+• Contraflam 60-3 CLIMALIT avec store intégré  (VSGI) : dimensions hors-tout des vitrages : 1600 x 3210
+
+• Sens de feu indifférent",2300,4600,"• Pour les panneaux installés en nez de dalle à base :
+   &#45; Plaques d'AESTUVER - Surf. maxi = 0,42 m²
+   &#45; Plaques PROMATECH - Surf. maxi = 0,2 m²		
+• Panneau Vitrage SGG EMALIT EVOLUTION (SAINT GOBAIN)
+• Panneau pleins en partie courante :
+   &#45; Panneau 3 plaques de BA13 spécial feu, Surf. maxi  = 2,21 m²
+   &#45; Panneau PROMATECT H, Surf. maxi = 1,83 m²","• Joint EPDM
+• Un joint 948000 (ép. inf à 65 mm) ou 918003 en périphérie de vitrage (ép. sup à 65 mm)",,"• Longueur illimitée x illimitée (facade vitrée)
+• Longueur illimitée x 5856 mm (Hauteur entre dalle)
+• Entraxe maxi entre montants 2300 mm",0,0,0,0,5856,"• Béton, fixation devant nez de dalle
+• Béton, fixation entre dalle",• Pas de restriction sur le sens de feu châssis,"• Profilés série 45 ou 60 mm de face vue
+• Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+• Dilatation intégrée directement aux raccords de traverses
+• Possibilité de faire des angle fins de 45 à 180°
+• Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+• Possibilité de faire de l’Anti effraction performance RC2 et RC3
+• Possibilité de faire du Pare balle FB4 NS","RC2, RC3, FB4NS",6/21/28,80556,FEU
+Cloison bords-à-bords,fuego light,EI30,PILKINGTON,EFR-22-004162,,"Pyrostop Line 30-600 épaisseur 18mm
+Pyrostop Line 30-604 épaisseur 22mm				
+Dimensions hors-tout des vitrages : 		
+1400 x 3000			
+Pyrostop Line 30-604 Vitrage de forme 	
+1400 x 3000			
+Vitrage de forme			
+Feu indifférent",1400,3000,Non,"Joint silicone 	
+Simple parclosage",-,"Longueur illimitée x 3116mm cloison vitrée
+Longueur illimitée x 1400mm cloison légère imposte en plaques platre 			
+Longueur illimitée x 1000mm en imposte 
+Longueur illimitée x 3400mm dans l'ensemble                                                               (allège+ cloison vitrée + imposte en cloison type  98/48)
+Longueur illimitée x 1200mm en allège
+Longueur illimitée x 4000 dans l'ensemble                                                 (cloison vitrée + imposte en cloison flexible normalisée) 		
+ Avec angle entre vitrage 1 à 180°",0,0,0,0,4000,"Béton armé, parpaing plein, Béton cellulaire
+Intégration dans cloison légère type 98/48 en parties latérales impostes et allège",Pas de restriction sur le sens de feu châssis,-,-,9/20/28,70443,FEU
+Cloison,fuego light,EI90,PYROGUARD,EFR-22-004372,,"Pyroguard T-EI90/40-3 ép 40
+L max 1494 x H max 3179
+S max 4,32m²
+Feu indifférent
+",1494,3179,"• Ep. 50 mm : âme isolant Forster 900301 ép. 22 + 2 plaques Powepanel  H²O (Fermacell) d'ép. 12,5 mm + 2 tôles acier 15/10èmes. S. maxi 2,65 m²
+• Ep. 54 mm : 2 plaques Promatect H ép. 25 mm + 2 tôles acier 20/10èmes. S. maxi 0,59 m²","Joint silicone 
+Simple parclosage
+",Drainage des feuillures possible par busettes,"H max hors-tout cloison 3300 mm
+Longueur illimitée",0,0,0,0,3300,"Béton, parpaing plein
+Cloison légère plâtre type 120/70 latéralement avec tube acier 70x70x3
+Possibilité de manchonnage ou de montage dos-à-dos
+Poteau protégé en ligne et à 90°",Pas de restriction sur le sens de feu châssis,Montage sous imposte ou sur allège cloison légère non autorisé,-,5/2/28,90345,FEU
+Cloison,fuego light,EI90,AGC,EFR-22-005108,,"Pyrobel 30
+Pyrobel 30 EG
+Pyrobel 30 EG2
+Pyrobel 30 ISO
+Pyrobel 30 EG ISO
+2502 x 1302
+1302 x 2502",2502,2502,"Promatect H 0.59m²
+Powerpanel 2.65m²","Joint silicone 
+Joints EPDM",-,Longueur illimitée x 3950 hauteur,0,0,0,0,3950,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère partie fixes latérales
+Manchonnage possible",Pas de restriction sur le sens de feu châssis,-,-,4/30/28,90341,FEU
+Cloison bords-à-bords,fuego light,EI120,POLFLAM,EFR-23-000307 ,,"Polflam BR Ei 120
+FireflamP 120
+ ép 50 mm47
+2400 x 4800 
+Surface maxi 9,68 m²
+Feu indifférent",2400,4800,Non,"Simple ou double parclosage
+Deux bandes de joint fibre			
+Bande autoadhésive BR TS (POLFLAM) / Kérafix FXL 200 en jonction entre deux vitrages",-,"Longueur illimitée  x 4916 cloison vitrée
+Longueur illimitée  x3400 mm de l’ensemble (cloison vitrée + cloison légère)
+Imposte cloison légère maxi 400 mm	",0,0,0,0,4916,"Béton armé, parpaing plein, béton cellulaire 
+Cloison légère 
+Montage sur allège en plaque de plâtre non autorisé",Pas de restriction sur le sens de feu châssis,-,-,10/3/28,100444,FEU
+Cloison,fuego light,EI120,POLFLAM,EFR-23-000308,Rév. 1,"• Monolithiques :
+Polflam EI120 ou Fireflam 120 : L x H maxi = 1646 x 3590 avec surface maxi 5,37 m²
+• Isolants (double ou triple) :
+ DGU/TGU Polflam EI120 ou DGU/TGU Fireflam 120 : L x H maxi = 1800 x 3917 avec surface maxi 5,9 m²",1800,3917,"Panneau tôlé 2 faces, épaisseur 68 mm constitué de 2 tôles acier 15/10èmes, 2 plaques Promatect H ép 20 mm + 1 plaque Promatect H ép 25 mm au centre","Joint silicone
+Joint CR
+Double ou simple parclosage ","Film adhésif
+Plat applique","Béton : Longueur illimitée x Haut maxi 4056 mm
+Cloison légère : Longueur illimitée x Haut maxi3000 mm, avec imposte cloison légère de 400 mm de hauteur maxi",0,0,0,0,3718,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère type EN 13631
+Montage sur allège plaque de plâtre non autorisé.  ",Pas de restriction sur le sens de feu châssis,-,-,8/21/28,100344,FEU
+Mur Rideau,thermfix vario,E30,AGC,EFR-23-000844,+ Ext. 23/3,"PYROBEL T EW30-16, T EW30-16 DGU, T EW30-16 TGU  PYROBELITE 9 EG ISO, 10 ISO, 12 ISO, 12 EG ISO
+• Dimension maxi PYROBEL T EW30 : L x H = 2000 x 4400  ou L x H = 2200 x 2000                                                            • Dimension maxi PYROBEL 9 à 12 ISO : L x H = 1111 x 3106 ou L x H = 1925 x 1015",2200,4400,"Pour les panneaux installés en nez de dalle à base :
+?  Plaques d'AESTUVER    | S maxi = 0,42 m²
+?  3 Plaques PROMATECH  | S maxi = 0,2 m²
+?  2 Plaques PROMATECH + laine  | S maxi = 0,34 m²
+
+Panneau pleins en partie courante :
+?  Panneau 28 mm 2 BA13 + 2 tôles acier
+S maxi = 2,5 m²","Joint EPDM
+Un joint 948000  (ép inf à 65 mm) ou  918003 en périphérie de vitrage (ép sup à 65 mm)",-,"Longueur illimitée x 5000 (devant nez de dalle)
+Longueur illimitée x 5000 (posé entre dalle)",0,0,0,0,5000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Profilés série 45 ou 60 mm de face vue
+Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Possibilité de faire des angles fins de 45 à 180°
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Possibilité de faire du pare balle performance FB 4 NS
+Possibilité de faire de l’Anti effraction performance RC2 et RC3","RC2
+RC3",11/15/28,10551,FEU
+Mur Rideau,thermfix vario,E60,AGC,EFR-23-000844,+ Ext. 23/2,"PYROBEL T EI30-18, T EI30-18 DGU, T EI30-18 TGU
+• Dimension maxi PYROBEL T EI30 : L x H = 2000 x 4000              ",2200,4400,"Pour les panneaux installés en nez de dalle à base :
+?  Plaques d'AESTUVER    | S maxi = 0,42 m²
+?  3 Plaques PROMATECH  | S maxi = 0,2 m²
+?  2 Plaques PROMATECH + laine  | S maxi = 0,34 m²
+
+Panneau pleins en partie courante :
+?  Panneau PROMATECTH                    | S maxi = 4,5 m²","Joint EPDM
+Un joint 948000  (ép inf à 65 mm) ou  918003 en périphérie de vitrage (ép sup à 65 mm)",-,"Longueur illimitée x illimitée (facade vitrée)
+Longueur illimitée x 5856 (Hauteur entre dalle)
+?  Entraxe Max entre montants 
+2417 mm (45) 
+2420 mm (60) ",0,0,0,0,5000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Profilés série 45 ou 60 mm de face vue
+Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Possibilité de faire des angle fins de 45 à 180°
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Possibilité de faire de l’Anti effraction performance RC2 et RC3
+Possibilité de faire du Pare balle FB4","RC2
+RC3",11/15/28,20551,FEU
+Mur Rideau,thermfix vario,EI30,AGC,EFR-23-000844,+ Ext. 23/1,"PYROBEL T EI30-18, T EI30-18 DGU, T EI30-18 TGU
+PYROBEL 16, 16 EG, 16 EG2, 16 ISO, 16 EH ISO                 • Dimension maxi PYROBEL T EI30 : L x H = 2000 x 4000              • Dimension maxi PYROBEL 16 : L x H = 1400 x 2900 ou L x H = 2400 x 2100",2200,4400,"Pour les panneaux installés en nez de dalle à base :
+?  Plaques d'AESTUVER    | S maxi = 0,42 m²
+?  3 Plaques PROMATECH  | S maxi = 0,2 m²
+?  2 Plaques PROMATECH + laine  | S maxi = 0,34 m²
+
+Panneau pleins en partie courante :
+?  Panneau PROMATECTH                    | S maxi = 4,5 m²","Joint EPDM
+Un joint 948000  (ép inf à 65 mm) ou  918003 en périphérie de vitrage (ép sup à 65 mm)",-,"Longueur illimitée x illimitée (facade vitrée)
+Longueur illimitée x 5856 (Hauteur entre dalle)
+?  Entraxe Max entre montants 
+2417 mm (45) 
+2420 mm (60) ",0,0,0,0,5000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Profilés série 45 ou 60 mm de face vue
+Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Possibilité de faire des angle fins de 45 à 180°
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Possibilité de faire de l’Anti effraction performance RC2 et RC3
+Possibilité de faire du Pare balle FB4","RC2
+RC3",11/15/28,70551,FEU
+Mur Rideau,thermfix vario,EI60,AGC,EFR-23-000844,,"PYROBEL 25, 25 EG, 25 EG2, 25 ISO,  25 EG ISO
+PYROBEL-T EI60-28, T EI60-28 DGU, T EI60-28 TGU                                                       • Dimension maxi PYROBEL 25 L x H = 1500 x 2928              • Dimension maxi PYROBEL T EI60-28 L x H = 2000 x 4500 ou L x H = 2400 x 2000",2200,4400,"Pour les panneaux installés en nez de dalle à base :
+?  Plaques d'AESTUVER    | S maxi = 0,42 m²
+?  3 Plaques PROMATECH  | S maxi = 0,2 m²
+?  2 Plaques PROMATECH + laine  | S maxi = 0,34 m²
+
+Panneau pleins en partie courante :
+?  Panneau PROMATECTH                    | S maxi = 4,5 m²","Joint EPDM
+Un joint 948000  (ép inf à 65 mm) ou  918003 en périphérie de vitrage (ép sup à 65 mm)",-,"Longueur illimitée x illimitée (facade vitrée)
+Longueur illimitée x 5856 (Hauteur entre dalle)
+?  Entraxe Max entre montants 
+2417 mm (45) 
+2420 mm (60) ",0,0,0,0,5000,"Béton, fixation devant nez de dalle
+Béton, fixation entre dalle",Pas de restriction sur le sens de feu châssis,"Profilés série 45 ou 60 mm de face vue
+Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+Dilatation intégrée directement aux raccords de traverses
+Possibilité de faire des angle fins de 45 à 180°
+Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+Possibilité de faire de l’Anti effraction performance RC2 et RC3
+Possibilité de faire du Pare balle FB4","RC2
+RC3",11/15/28,80551,FEU
+Cloison bords-à-bords,fuego light,EI60,POLFLAM,EFR-23-001317,,"Fireflam view 60 / Polflam BR EI 60
+	Largeur	Hauteur
+Mini	Illimitée	Illimitée
+Maxi	1800	3600
+
+S maxi : 5,45 m²
+
+Feu Indifférent",1800,3600,Non,Joint silicone,-,"Longueur illimitée x 3752 (béton ou poteau protégé) 
+Longueur illimitée x 3400 y compris cloison légère
+    Hauteur maxi imposte : 400 
+    Hauteur maxi allège : 1200 ",0,0,0,0,3752,"Béton armé, parpaing plein, béton cellulaire 
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Cloisons légères
+Jonction mécanique par manchonnage",Pas de restriction sur le sens de feu châssis,-,-,10/20/28,80444,FEU
+Cloison,fuego light,EI60,POLFLAM,EFR-23-001318,,"Polflam EI60
+Polflam EI60 DGU
+Fireflam EI60
+Fireflam EI60 DGU
+
+Ep mini 28 mm : 1500 x 3000 mm
+Ep mini 30 mm : 1800 x 3910 mm
+S maxi = 5,91 m²",1800,3910,"Composé de 3 plaques de BA13 feu tôlé 2 faces
+S maxi : 3 m²
+Feu indifférent","Joint silicone
+Joint  EPDM 
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage",-,"Longueur illimitée x 4056 (béton ou poteau protégé) 
+Longueur illimitée x 4000 y compris cloison légère
+    Hauteur maxi imposte : 500 
+    Hauteur maxi allège : 1000 ",0,0,0,0,4056,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 70/120 en imposte et parties fixes latérales
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage, dos à dos ou à facette",Pas de restriction sur le sens de feu châssis,-,-,1/12/29,80344,FEU
+Porte,fuego light,EI60,POLFLAM,EFR-23-001319,,"Polflam EI60
+Polflam EI60 DGU
+Fireflam EI60
+Fireflam EI60 DGU",0,0,"Composé de 3 plaques de BA13 feu tôlé 15 /10e 2 faces
+Remplissage maxi 50% de la surface de la porte  
+Feu indifférent","Joint silicone
+Joint  EPDM 
+Simple ou double parclosage
+Douille pour le drainage du fond de feuillure du vitrage","Paumelles à souder, avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar ou des boutons
+Contrôle d’accès en applique ou encastré par gâche électrique à émission
+Ferme porte en applique ou encastré
+Automatisme d’ouverture TS99F, ED100, ED200 ou ED250, flatscan 
+Sans serrure et serrure à rouleaux","Dimensions des vantaux : 
+Porte 1 vantail 
+Dim maxi :1210 x 2900 
+Dim mini : 526 x 1890
+Porte à 2 vantaux  
+Vantail principal : 
+Dim maxi :1443 x 2700
+Dim mini : 628 x 1732
+Vantail secondaire / semifixe : 
+Dim maxi :1443 x 2700
+Dim mini : 548 x 1732
+S maxi : 6,9 m²",1210,2900,2700,2700,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120
+Poteau acier protégé entre deux portes ou en angle à 90°
+Possibilité de faire des portes fenêtre dormant 4 côtés
+Intégration des vantaux EI260 dans la Cloison fixe vitrée EI60 EFR23001318",Pas de restriction sur le sens de feu châssis,-,RC2 sur porte 1 vantail,1/18/29,80144,FEU
+Cloison bords-à-bords,fuego light,EI30,POLFLAM,EFR-24-000551,,"Polflam BR EI30
+Fireflam VIEW 30
+L x H maxi = 2200 x 3850 mm
+Surf. maxi = 7,7 m²",2200,3850,Non,"Joint silicone
+Joint  EPDM 
+Simple ou double parclosage
+Douille ou tubulure pour le drainage du fond de feuillure du vitrage",-,"• Si cloison béton en ligne, sur poteau acier, ou avec angle 90° : Haut maxi 3978 mm, long illimitée.
+• Si cloison légère : Haut maxi 3400 mm, long illimitée.
+Hauteur maxi imposte plâtre : 400 mm
+Hauteur maxi allège plâtre : 1200 mm ",0,0,0,0,3978,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 98/48 ou 70/120 en imposte et parties fixes latérales, sous validité PV EI60.
+Poteau acier protégé entre deux châssis ou en angle à 90°
+Système d’assemblage des traverses par manchonnage.",Pas de restriction sur le sens de feu châssis,"Simple vitrage uniquement, pas de possibilité vitrage isolant !",-,5/13/29,70444,FEU
+Cloison,fuego light,EI30,POLFLAM,EFR-24-000552,,"Polflam EI30 ou Fireflam 30
+Polflam EI30 DGU ou Fireflam 30 DGU
+• Si format portrait ép. 20 : L x H maxi = 1500 x 3000 mm, S maxi = 6,0 m²
+• Si format portrait ép. 22 : L x H maxi = 1883 x 3821 mm, S maxi = 6,0 m²
+• Si format paysage ép. 20 : L x H maxi = 3000 x 1500 mm, S maxi = 6,2 m²
+• Si format paysage ép. 22 : L x H maxi = 3851 x 1913 mm, S maxi = 6,2 m²",3851,3821,"• Composé d'une âme AESTUVER 30 mm entre 2 tôles acier de 20/10èmes (surf. maxi 4,9 m²)
+• Composé de 3 plaques de BA13 (ép, 12,5 mm) entre 2 parements métalliques de 15/10èmes collés (surf. maxi 3 m²)","Joint silicone
+Joint  EPDM
+Simple ou double parclosage
+Douille ou tubulure pour le drainage du fond de feuillure du vitrage",-,"• Si cloison béton en ligne, sur poteau acier, ou avec poteau d'angle 90° : Haut maxi 5952 mm, long illimitée.
+• Si cloison légère : Haut maxi 3400 mm, long illimitée.
+Hauteur maxi imposte plâtre : 400 mm
+Hauteur maxi allège plâtre : 1200 mm ",0,0,0,0,5952,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 98/48 ou 70/120 en imposte et parties fixes latérales, sous validité PV EI60.
+Poteau acier protégé entre deux châssis ou en angle à 90°.
+Système d’assemblage des traverses par manchonnage.
+Possibilité d'assemblage des profilés en ligne dos-à-dos ou à facettes",Pas de restriction sur le sens de feu châssis,-,-,4/18/29,70344,FEU
+Porte d.a.s. portes battantes,presto,E30,Tous,SA 04 00 97 H,+ Rec 8,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté paumelles
+TS 72, 73,83, 90,91, 92,93 
+Bras à compas
+Glissière ou bandeau en applique
+Ventouse déportée ou arrêt intégré au bandeau
+","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2600
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,13/10/2029 0:00:00,10917,FEU
+Porte d.a.s. portes battantes,presto,E60,Tous,SA 04 00 97 H,+ Rec 8,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté paumelles
+TS 72, 73, 83, 90,91, 92, 93 
+Bras à compas
+Glissière ou bandeau en applique
+Ventouse déportée ou arrêt intégré au bandeau
+","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2600
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,13/10/2029 0:00:00,20917,FEU
+Porte d.a.s. portes va-et-vient,presto,E30,PYROGUARD,SA 05 00 05 D,+ Rec 4,Suivant PV feu de référence Pyroguard  EFR-14-001850 ou EFR-14-001852,0,0,Suivant PV feu de référence Pyroguard  EFR14001850 ou EFR14001852,Suivant PV feu de référence Pyroguard  EFR14001850 ou EFR14001852,"Pivot Frein au sol GEZE 
+Stop 126
+TS 550
+TS 550 ER avec électro verrou intégré
+
+Ventouse déportée","Larg maxi : 1200
+Larg mini : 400
+Haut maxi : 2200
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence Pyroguard  EFR14001850 ou EFR14001852,-,-,-,21/02/2030 0:00:00,11015,FEU
+Porte d.a.s. portes va-et-vient,presto,E60,PYROGUARD,SA 05 00 05 D,+ Rec 4,Suivant PV feu de référence Pyroguard  EFR-14-001850 ou EFR-14-001852,0,0,Suivant PV feu de référence Pyroguard  EFR14001850 ou EFR14001852,Suivant PV feu de référence Pyroguard  EFR14001850 ou EFR14001852,"Pivot Frein au sol GEZE 
+Stop 126
+TS 550
+TS 550 ER avec électro verrou intégré
+
+Ventouse déportée","Larg maxi : 1200
+Larg mini : 400
+Haut maxi : 2200
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence Pyroguard  EFR14001850 ou EFR14001852,-,-,-,21/02/2030 0:00:00,21015,FEU
+Porte d.a.s. portes battantes,fuego light,EI30,Tous,SA 05 01 35 F,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté paumelles
+TS 72738390919293 
+Bras à compas
+Glissière ou bandeau en applique
+Ventouse déportée ou arrêt intégré au bandeau","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2600
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,10/11/25,70947,FEU
+Porte d.a.s. portes battantes,fuego light,EI60,Tous,SA 05 01 35 F,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté paumelles
+TS 72738390919293 
+Bras à compas
+Glissière ou bandeau en applique
+Ventouse déportée ou arrêt intégré au bandeau","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2600
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,10/11/25,80947,FEU
+Porte d.a.s. portes battantes,presto,E30,Tous,SA 11 01 09 B,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté opposé aux paumelles
+TS 92 G EN2/4
+TS 93 G EN2/5
+TS 93 G EN 5/7
+Bras à compas
+Glissière en applique
+Ventouse déportée
+Ferme porte DORMA
+Encastré
+ITS 96 EN 2/4
+Glissière encastrée
+Ventouse déportée","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,4/16/27,10917,FEU
+Porte d.a.s. portes battantes,presto,E60,Tous,SA 11 01 09 B,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté opposé aux paumelles
+TS 92 G EN2/4
+TS 93 G EN2/5
+TS 93 G EN 5/7
+Bras à compas
+Glissière en applique
+Ventouse déportée
+Ferme porte DORMA
+Encastré
+ITS 96 EN 2/4
+Glissière encastrée
+Ventouse déportée","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,4/16/27,20917,FEU
+Porte d.a.s. portes battantes,fuego light,EI30,Tous,SA 11 01 09 B ,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté opposé aux paumelles
+TS 92 G EN2/4
+TS 93 G EN2/5
+TS 93 G EN 5/7
+Bras à compas
+Glissière en applique
+Ventouse déportée
+Ferme porte DORMA
+Encastré
+ITS 96 EN 2/4
+Glissière encastrée
+Ventouse déportée","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,,70947,FEU
+Porte d.a.s. portes battantes,fuego light,EI60,Tous,SA 11 01 09 B ,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté opposé aux paumelles
+TS 92 G EN2/4
+TS 93 G EN2/5
+TS 93 G EN 5/7
+Bras à compas
+Glissière en applique
+Ventouse déportée
+Ferme porte DORMA
+Encastré
+ITS 96 EN 2/4
+Glissière encastrée
+Ventouse déportée","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,4/16/27,80947,FEU
+Porte d.a.s. portes battantes,presto,E30,Tous,SA 11 01 10 C,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté opposé aux paumelles
+TS 92 G EN2/4
+TS 93 G EN2/5
+TS 93 G EN 5/7
+TS 99 FL EN 2/5 indice A
+Bandeau avec électro verrou
+Ferme porte DORMA
+Encastré
+ITS 96 EN 2/4
+Glissière G96 encastrée avec électro verrou","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,4/16/27,10917,FEU
+Porte d.a.s. portes battantes,presto,E60,Tous,SA 11 01 10 C,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté opposé aux paumelles
+TS 92 G EN2/4
+TS 93 G EN2/5
+TS 93 G EN 5/7
+TS 99 FL EN 2/5 indice A
+Bandeau avec électro verrou
+Ferme porte DORMA
+Encastré
+ITS 96 EN 2/4
+Glissière G96 encastrée avec électro verrou","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,4/16/27,20917,FEU
+Porte d.a.s. portes battantes,fuego light,EI30,Tous,SA 11 01 10 C,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté opposé aux paumelles
+TS 92 G EN2/4
+TS 93 G EN2/5
+TS 93 G EN 5/7
+TS 99 FL EN 2/5 indice A
+Bandeau avec électro verrou
+Ferme porte DORMA
+Encastré
+ITS 96 EN 2/4
+Glissière encastrée avec électro verrou","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,4/16/27,70947,FEU
+Porte d.a.s. portes battantes,fuego light,EI60,Tous,SA 11 01 10 C,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ferme porte DORMA 
+En applique monté côté opposé aux paumelles
+TS 92 G EN2/4
+TS 93 G EN2/5
+TS 93 G EN 5/7
+TS 99 FL EN 2/5 indice A
+Bandeau avec électro verrou
+Ferme porte DORMA
+Encastré
+ITS 96 EN 2/4
+Glissière encastrée avec électro verrou","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,4/16/27,80947,FEU
+Porte d.a.s. portes battantes,presto,E30,Tous,SA 11 01 11,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ouvre Porte DORMA
+En applique monté côté paumelles et opposé aux paumelles
+Opérateurs :
+ED 100 EN 2/4
+ED 250 EN 4/6
+
+
+Glissière ou bandeau en applique","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,,10917,FEU
+Porte d.a.s. portes battantes,presto,E60,Tous,SA 11 01 11,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ouvre Porte DORMA
+En applique monté côté paumelles et opposé aux paumelles
+Opérateurs :
+ED 100 EN 2/4
+ED 250 EN 4/6
+
+
+Glissière ou bandeau en applique","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,,20917,FEU
+Porte d.a.s. portes battantes,fuego light,EI30,Tous,SA 11 01 11,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ouvre Porte DORMA
+En applique monté côté paumelles et opposé aux paumelles
+Opérateurs :
+ED 100 EN 2/4
+ED 250 EN 4/6
+Glissière ou bandeau en applique ","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,,70947,FEU
+Porte d.a.s. portes battantes,fuego light,EI60,Tous,SA 11 01 11,,Suivant PV feu de référence,0,0,Suivant PV feu de référence,Suivant PV feu de référence,"Ouvre Porte DORMA
+En applique monté côté paumelles et opposé aux paumelles
+Opérateurs :
+ED 100 EN 2/4
+ED 250 EN 4/6
+Glissière ou bandeau en applique ","Larg maxi : 1400
+Larg mini : 500
+Haut maxi : 2900
+
+(Les dimensions varient suivant les dimensions des vantaux testées dans les PV FEU)",1400,2800,2600,2600,0,Suivant PV feu de référence,-,-,-,,80947,FEU
+Cloison bords-à-bords,fuego light,EI60,PYROGUARD,EFR-24-000806,,"• Pyroguard T-EI60/32-2 SWS :
+L x H maxi = 1500 x 3270
+• Pyroguard T-EI60/32-2 SWS :
+L x H maxi = 1650 x 3597 (EW60 uniquement) avec surf. maxi 5,4 m²
+• Pyroguard T-EI60/36-3 SWS :
+L x H maxi = 2160 x 3918 avec surf. maxi 7,11 m²
+• Pyroguard T-EI60/36-2 VF SWS :
+L x H maxi = 1830 x 2900
+• Pyroguard T-EI60/40-2 VF SWS :
+L x H maxi = 2013 x 3190 avec surf. maxi 5,84 m²
+ ",2160,3918,Non,"Joint silicone
+Simple ou double parclosage",-,"• Longueur illimitée x Ht 4000 sur béton
+• Longeur illimitée x Ht 3400 sur cloison légère
+• Longeur illimitée x Ht 3800 sur cloison légère si dimensions maxi vitrages L x H = 2000 x 1200",0,0,0,0,4000,"Béton armé, parpaing plein, béton cellulaire
+Cloison légère type 98/48 ou 120/70
+Poteau acier protégé entre deux châssis ou en angle à 90°",Pas de restriction sur le sens de feu châssis,-,-,7/31/2029,99999,FEU
+Cloison,presto,E30,PYROGUARD,13-A-433,Rec. 20/1 + 24/2,"Pyroguard T E30/8 : L x H = 1600 x 2850
+Pyroguard T E30/10 et T E30/12 : L x H = 1920 x 3420 avec surface maxi 5,5 m²",1920,3420,Non,Uniquement double parclosage + silicone sur fond de joint en fibres minérales,,,0,0,0,0,0,,Pas de restriction sur le sens de feu châssis,Baie unique avec un seul vitrage !,-,"10/31/2024, 12:00:00 AM",999999,FEU
+Porte,presto,E90,PYROGUARD,EFR-24-000797,,"Pyroguard T EW90/13-1
+Pyroguard T EW90/13-1 VI
+Pyroguard T EW90/13-1 VF",0,0,Non,"Joint silicone
+Simple ou double parclosage","Paumelles à souder ou invisible, x3 ou avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique
+Contrôle d’accès encastré (béquille contrôlée WSS)
+Ferme porte en applique ou encastré
+Passe câble","Hauteur porte + cloison légère : 3400mm (imposte max 400mm)
+Hauteur porte + cloison vitrée: 3350mm (imposte max PV 13-A-180)
+
+Avec vitrage T-EW90/13-1 et T-EW90/13-1 VF
+Porte 1 vantail 
+dim maxi vantail : 1403 x 3392 (max 4.32m²)
+
+Porte 2 vataux égaux
+dim maxi vantail : 1920 x 2930 (largeur mini 960mm)
+
+Porte 2 vataux inégaux
+dim maxi vantail principal : 1679 x 2846 (largeur mini 730mm)
+dim maxi vantail secondaire : 805 x 2846 (largeur mini 350mm)
+
+
+Avec vitrage T-EW90/13-1 VI
+Porte 1 vantail 
+dim maxi vantail : 1173 x 2817 (max 3m²)
+
+Porte 2 vataux inégaux
+dim maxi vantail : 1173 x 2817 (max 3m²)
+
+Porte 2 vataux inégaux
+dim maxi vantail principal : 1173 x 2817 (max 3m²)
+dim maxi vantail secondaire : 805 x 2846 (largeur mini 350mm)",1403,3840,3392,2930,0,"Béton
+Cloison 120/70
+Châssis vitré 13-A-180",Pas de restriction sur le sens de feu châssis,Film adhésif M0 ou M1,-,20/09/2029,9999999,FEU
+Porte,presto,E120,PYROGUARD,EFR-24-000797,,"Pyroguard T EW90/13-1
+Pyroguard T EW90/13-1 VI
+Pyroguard T EW90/13-1 VF",0,0,Non,"Joint silicone
+Simple ou double parclosage","Paumelles à souder ou invisible, x3 ou avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique
+Contrôle d’accès encastré (béquille contrôlée WSS)
+Ferme porte en applique ou encastré
+Passe câble","Hauteur porte + cloison légère : 3400mm (imposte max 400mm)
+Hauteur porte + cloison vitrée: 3350mm (imposte max PV 13-A-180)
+
+Avec vitrage T-EW90/13-1 et T-EW90/13-1 VF
+Porte 1 vantail 
+dim maxi vantail : 1403 x 3392 (max 4.32m²)
+
+Porte 2 vataux égaux
+dim maxi vantail : 1242 x 2846 (largeur mini 405mm)
+
+Porte 2 vataux inégaux
+dim maxi vantail principal : 1679 x 2846 (largeur mini 730mm)
+dim maxi vantail secondaire : 805 x 2846 (largeur mini 350mm)
+
+
+Avec vitrage T-EW90/13-1 VI
+Porte 1 vantail 
+dim maxi vantail : 1173 x 2817 (max 3m²)
+
+Porte 2 vataux inégaux
+dim maxi vantail : 1173 x 2817 (max 3m²)
+
+Porte 2 vataux inégaux
+dim maxi vantail principal : 1173 x 2817 (max 3m²)
+dim maxi vantail secondaire : 805 x 2846 (largeur mini 350mm)",1403,2800,3292,2846,0,"Béton
+Cloison 120/70
+Châssis vitré 13-A-180",Pas de restriction sur le sens de feu châssis,Film adhésif M0 ou M1,-,20/09/2029,,FEU
+Porte tolée parclosée,fuego light,EI30,POLFLAM,EFR-24-000553,,-,0,0,"Epaisseur minimale 40,5 mm, panneaux constitués de 3 plaques de BA 13 chacune prise en sandwich entre deux parements métalliques d’épaisseur 15/10ème mm collés. 
+
+La surface maximale autorisée pour les panneaux à base de ba 13 est de 3 m2. Cette dernière ne doit pas excéder 50% de la surface du vantail. Pour une obturation complète, le vantail devra comporter 1à 3 traverses intermédiaires.","Joint silicone
+Joint  EPDM 
+Simple ou double parclosage
+Douille ou tubulure pour le drainage du fond de feuillure des vitrages","Paumelles à souder ou à visser 2D/3D, encastrée (invisible).
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar ou des boutons.
+Contrôle d’accès en applique ou encastré par gâche électrique à émission, serrures électrique DormaKaba SVP, TV100/200.
+Ferme-porte en applique ou encastr (Dorman, Geze, Eco Schulte).
+Opérateur d’ouverture ED100 ou ED250, flatscan, bandeau sélecteur de fermeture GSR, passe-câble, contacteurs de position.  Bâton de maréchal acier, inox ou alu (sous conditions)","Dimensions des vantaux : 
+• Porte 1 vantail maxi L x H = 1460 x 2720, ou mini L x H = 730 x 2040
+• Porte à 2 vantaux (égaux ou inégaux) :
+Vantail principal maxi L x H = 1545 x 3020, mini maxi L x H = 772 x 2265
+Vantail secondaire (semi-fixe) maxi L x H = 1545 x 3020, mini maxi L x H = 772 x 2265",1460,3000,3020,3020,0,"Béton, parpaing plein, béton cellulaire
+Intégration dans Cloison légère 48/98 ou 70/120 sous PV EI60.
+Jonction en ligne sur poteau acier protégé ou en angle à 90°. Intégration possible dans cloison vitrée EI30 (PV EFR 24-000552) ou EI60 (PV EFR-23-001318)",Pas de restriction sur le sens de feu châssis,"Contacteurs de positions Forster 907076 et 907077
+
+Jeux de fond de feuillure 5mm
+2x bande intumescentes 948002 
+
+PV d'origine POLFLAM","
+",6/27/29,70144,FEU
+Porte tolée parclosée,fuego light,EI60,PYROGUARD,EFR-24-000803,,-,0,0,"Epaisseur minimale 40,5 mm, panneaux constitués de 3 plaques de BA 13 chacune prise en sandwich entre deux parements métalliques d’épaisseur 15/10ème mm collés. 
+
+La surface maximale autorisée pour les panneaux à base de ba 13 est de 3 m2. Cette dernière ne doit pas excéder 50% de la surface du vantail. Pour une obturation complète, le vantail devra comporter 1à 3 traverses intermédiaires.","Joint silicone 
+Joint EPDM 
+Simple ou double parclosage
+Busette de drainage pour mise en oeuvre en extérieur","Paumelles à souder ou à visser, pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique, avec béquille ou Pushbar ou des boutons
+Contrôle d’accès en applique ou encastré par gâche électrique à émission
+Ferme porte en applique ou encastré
+Opérateur d'ouverture DormaKaba E100 ou ED250 + flatscan 
+Sans serrure ou serrure à rouleaux avec verrous thermiques","• Porte 1 vantail : PL maxi 1612 x 2857 (surface maxi 4,18 m²) / PL mini 701 x 1863
+• Porte 2 vantaux égaux : PL maxi 2005 x 2850 (surface maxi 5,18 m²) / PL mini 872 x 1788
+• Porte 2 vantaux inégaux : PL maxi 2005 x 2850 (surface maxi 5,18 m²) / PL mini 872 x 1788
+        ou :
+        -> Vantail principal : PL maxi 1000 x 2479 / PL mini 500 x 1788
+        -> Vantail semi-fixe : PL maxi 744 x 2479 / PL mini 436 x 1788",1612,2005,2857,2857,3540,"Béton, parpaing plein, béton cellulaire
+Intégration dans cloison légère 98/48 ou 120/70
+Poteau acier protégé entre deux portes, jonction en ligne ou en angle à 90°
+Possibilité de faire des portes avec dormant 4 côtés
+Intégration des vantaux EI60 dans la cloison fixe vitrée EI60 suivant PV 13-A-429 ou cloison vitrée EI120 suivant PV EFR-16-V-004086",Pas de restriction sur le sens de feu châssis,PV d'origine PYROGUARD,RC2 sur porte 1 vantail,20/11/2029 0:00:00,80145,FEU
+Porte tolée parclosée,presto,E30,VETROTECH,11-A-507,+ Ext EFR 14-000468 + Rec 17/1 + Ext 22/2,-,0,0,"Composé de 2 plaques de BA13 tôlé 2 faces ou 1 face émalit 
+Peut remplacer un vitrage  S maxi : 2 m²
+Feu indifférent",Joint silicone,"Paumelles à visser, à souder ou invisible, avec pion médian
+Serrure 1 ou 2 points avec ou sans fonction anti panique
+Serrure électrique à rupture.
+Contrôle d’accès encastré ou en applique
+Verrouillage thermique : serrure à rouleau, sans serrure, suppression du renfort en partie haute du vtl
+Ferme porte en applique ou encastré, pivot frein au sol à axe déporté DORMA , GEZE, LEVASSEUR, ASSA ABLOY
+Automatisme d’ouverture TS99FL, ED100, 200 ou 250 DORMA","Porte 1 vantail 
+PL maxi : 1610 x 2820
+PL maxi : 1462 x 3105 
+Vantaux égaux 
+PL maxi : 2767 x 3036
+PL maxi : 2567 x 3272
+Vantaux inégaux 
+VP larg maxi 1428 
+VS larg mini 300 ",1610,2767,3272,3272,0,"Béton, parpaing plein, béton cellulaire.
+Intégration dans Cloison légère 70/120 ou 48/98
+Poteau acier protégé entre deux portes ou en angle à 90°
+Intégration des vantaux E30 dans la Cloison fixe vitrée E30, PV 10A650
+Intégration des vantaux E30 dans la Cloison fixe vitrée E60, PV 10A650
+Intégration des vantaux E30 dans la Cloison fixe vitrée EI30, PV 12A079
+Intégration des vantaux E30 dans la Cloison fixe vitrée EI60, PV 12A077",Pas de restriction sur le sens de feu châssis,PV d'origine VETROTECH,RC2,4/12/27,10116,FEU
+Cloison,presto,E30,POLFLAM,EFR-24-002618,Ext 25/1,"• Polflam EW30 / Fireflam Lite 30 - Epaisseur 16 mm : L x H maxi = 1500 x 3000 avec surface < 5,9 m²
+• Polflam EW30 / Fireflam Lite 30 - Epaisseur 16 mm : L x H maxi = 3396 x 1214 avec surface < 3,5 m²
+• Polflam EW30 / Fireflam Lite 30 - Epaisseur 18 mm : L x H maxi = 1800 x 3917 avec surface < 5,9 m²
+• Polflam EW30 DGU / Fireflam Lite 30 DGU - Epaisseur 16 mm : L x H maxi = 1500 x 3000 avec surface < 5,5 m²
+• Polflam EW30 DGU / Fireflam Lite 30 DGU - Epaisseur 18 mm : L x H maxi = 1800 x 3600 avec surface < 5,5 m²
+• Polflam E30 / Fireflam Clear 30 (ext 25/2 --> Joints EPDM remplacés par des joints CR)
+          - Epaisseur 6 mm : L x H maxi = 1467 x 3282 avec surface < 4,4 m², ou L x H = 3000 x 1200
+          - Epaisseur 8 mm : L x H maxi = 1600 x 3581 avec surface < 4,8 m²
+• Polflam E30 DGU / Fireflam Clear 30 DGU (ext 25/2 --> Joints EPDM remplacés par des joints CR)
+          - Epaisseur 6 mm : L x H maxi = 1389 x 1699, ou L x H = 2844 x 1499",0,0,"• 2 BA 13 + 2 tôles acier 10/10èmes --> surface maxi 2 m²
+• 1 BA 18 + 2 tôles acier 15/10èmes --> surface maxi 3,8 m²","• Joints EPDM
+• Silicone neutre + bandes fibres minérales
+• Parecloses clipsées sur boutons
+• Tubes, cornières ou plats vissés
+ ","• Drainage des traverses par busettes ou tubulures si mise en oeuvre en extérieur
+• Possibilité de renvois d'eau en aluminium","• Mise en oeuvre dans parois rigides (béton, béton cellulaire) : Longueur illimitée x Ht maxi 4056 mm
+• Mise en oeuvre dans cloison légère en plaques de plâtre type 98/48 et 120/70 : Longueur illimitée x Ht maxi 4000 mm (imposte plâtre 500 mm maxi, allège 1000 mm maxi)",0,0,0,0,0,"• Béton, parpaing plein, béton cellulaire
+• Intégration dans cloison légère plaques de plâtre en imposte (500 mm maxi), partie fixes latérales et allège (1000 mm maxi)
+• Poteau acier protégé entre deux châssis ou en angle à 90°
+• Possibilité d’assemblage des traverses par manchonnage (tube ou cornière acier)
+• Possibilité d’assemblage des profilés dos-à-dos
+• Possibilité de renforcement statique des profilés extérieurement (feu côté opposé aux renforts) ou intérieurement soit par soudure, soit par vissage (voir planche n°8)",Indifférent,"• Presto série 50 ou 60
+• Petits bois collés sur les vitrages
+• Croisillons ou petits-bois intégrés à la lame d'air des vitrages montés en isolant
+• Films adhésifs M0 ou M1 collés sur les vitrages
+• Jonction possible sur poteau bois",,13/01/2030 0:00:00,,
+Cloison bords-à-bords,fuego light,EI30,PYROGUARD,EFR-24-001040,,"• PYROGUARD T-EI30/24-2 SWS - L x H = 1800 x 3612 - Surf. maxi 5,4 m² (sens de feu indifférent)
+• PYROGUARD T-EI30/32-2 SWS - L x H = 1800 x 4080 - Surf. maxi 6,12 m² (sens de feu indifférent)
+• PYROGUARD T-EI30/32-2 SWS VI - L x H = 1800 x 4080 - Surf. maxi 6,12 m² (sens de feu côté opposé à la contreface)
+• PYROGUARD T-EI30/32-2 SWS VI - L x H = 2454 x 3444 - Surf. maxi 7,1 m² (sens de feu côté contreface)
+• PYROGUARD T-EI30/32-2 SWS VI - L x H = 1800 x 3444 - Surf. maxi 6,1 m² (sens de feu indifférent)
+• PYROGUARD T-EI30/36-3 SWS - L x H = 2160 x 3918 - Surf. maxi 7,1 m² (sens de feu indifférent)",1800,4080,Non,"Silicone sur fond de joint intumescent Kerafix Flexlit
+Simple ou double parclosage
+Douille ou tubulure pour le drainage du fond de feuillure du vitrage
+Jonction possible en ligne ou à 90° sur poteau acier protégé
+Jonction des vitrages bords-à-bords en ligne ou en angle de 0 à 180°",Système d’assemblage des traverses par manchonnage,Longueur illimitée x Ht maxi 4190,0,0,0,0,4190,"Béton, maçonnerie, cloison légère plaques de plâtre
+Hauteur maximale de la cloison vitrée 3400 mm si intégration en cloison légère (avec imposte 1000 mm maxi et allège 1200 mm maxi)",,,,22/04/2029 0:00:00,,
+Verrière,thermfix light,E60,VETROTECH,12-A-091,Rév. 1 + Rec 22/2 + Ext 12/1_Rev 1 + Ext 22/2_Rev 2 + Ext 24/3 + Ext. 25/5,"    Contraflam lite 30 climaplus horizontal
+
+1200 x 2200
+
+   ",1,2,"• Panneaux tôlés à base de plaques de GIFAboard (Knauf) - Surf. maxi 4,2 m² (voir ext. 25/5)",Joint EPDM,-,"2 pans : 3000mm par pans
+
+    1 pan + retombé 3000mm + 1500mm
+
+    ",0,0,0,0,3000,Béton,"Restriction sur le sens de feu
+  châssis, voir PV","Drainage du vitrage par les
+  joints EPDM
+
+    Dilatation intégrée directement aux manchonnage des traverses
+
+    Capots plats extérieur au niveau des traverses
+
+    Angle d’inclinaison 0 à 60 °
+
+    Verrière à 2 pans long maxi du rampant 3000 mm PV 12A091",-,06/11/2027,70666,FEU
+Mur Rideau,thermfix vario,E30,VETROTECH,EFR-22-004035,Ext 23/1,"• Contraflam Lite 30 mono (VSGI) : dimensions maxi L x H = 2300 x 3800
+• Contraflam Lite 30 Climaplus ou Climalit (VSGI) : dimensions maxi L x H = 2300 x 4600
+• Vetroflam Climaplus : dimensions maxi L x H = 1800 x 3600",2300,4600,"• Pour les panneaux installés en nez de dalle à base :
+   &#45; Plaques d'AESTUVER - Surf. maxi = 0,42 m²
+   &#45; Plaques PROMATECTH - Surf. maxi = 0,2 m²
+   &#45; Vitrage SGG EMALIT EVOLUTION (SAINT GOBAIN), ép. MIN 8mm
+   &#45; Panneau 2 plaques de BA13 - Surf. maxi = 1,35 m²			
+• Panneau pleins en partie courante :
+   &#45; Panneau 3 plaques de BA13 spécial feu - S maxi  = 2,98 m²
+   &#45; Panneau PROMATECT H - Surf. maxi = 1,5 m²","• EPDM
+• Un joint 948000 ou 918003 en périphérie de vitrage",,"• Longueur illimitée x illimitée (facade vitrée)
+• Longueur illimitée x 5856 (hauteur entre dalle)
+  -> Entraxe Max entre montants 2300 mm",0,0,0,0,0,"• Béton, fixation devant nez de dalle
+• Béton, fixation entre dalle",,"• Profilés série 45 ou 60 mm de face vue
+• Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+• Dilatation intégrée directement aux raccords de traverses
+• Possibilité de faire des angles fins de 45 à 180°
+• Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+• Possibilité de faire du pare balle performance FB4 NS
+• Possibilité de faire de l’antieffraction performance RC2 et RC3","• RC2, RC3, FB4 NS",,,
+Mur Rideau,thermfix vario,E60,VETROTECH,EFR-22-004036,Ext 23/1,"• Contraflam Lite 60 mono (VSGI) : dimensions maxi L x H = 2300 x 3800
+• Contraflam Lite 60 Climaplus ou Climalit (VSGI) : dimensions maxi L x H = 2300 x 4600",2300,4600,"• Pour les panneaux installés en nez de dalle à base :
+   &#45; Plaques d'AESTUVER - Surf. maxi = 0,42 m²
+   &#45; Plaques PROMATECH - Surf. maxi = 0,2 m²
+• Panneau Vitrage SGG EMALIT EVOLUTION (SAINT GOBAIN)
+• Panneau pleins en partie courante :
+   &#45; Panneau 3 plaques de BA13 spécial feu, Surf. maxi  = 2,21 m²
+   &#45; Panneau PROMATECT H, Surf. maxi = 1,83 m²","• EPDM
+• Un joint 948000 ou 918003 en périphérie de vitrage",,"• Longueur illimitée x illimitée (facade vitrée)
+• Longueur illimitée x 5856 (hauteur entre dalle)
+  -> Entraxe Max entre montants 2300 mm",0,0,0,0,0,"• Béton, fixation devant nez de dalle
+• Béton, fixation entre dalle",,"• Profilés série 45 ou 60 mm de face vue
+• Drainage du vitrage par traverses ou en cascade conforme au DTU 33.1
+• Dilatation intégrée directement aux raccords de traverses
+• Possibilité de faire des angles fins de 45 à 180°
+• Les traverses peuvent être directement soudées aux montants ou assemblées par raccords
+• Possibilité de faire du pare balle performance FB4 NS
+• Possibilité de faire de l’antieffraction performance RC2 et RC3","• RC2, RC3, FB4 NS",,,
+Porte,presto,E30,POLFLAM,EFR-24-002619,Ext 25/1,"• Polflam EW30 / Fireflam Lite 30 - Epaisseur 16 mm
+• Polflam EW30 DGU / Fireflam Lite 30 DGU - Epaisseur 16 mm",0,0,"• Constitués de :
+   - 2 tôles acier ép. 1 mm + 2 plaques de plâtre BA13 - Ep. totale 27 mm
+   - 2 tôles acier ép. 1,5 mm + 1 plaque de plâtre BA18 - Ep. totale 21 mm",,,,1679,2300,3476,2861,,,,,,,,
+Porte,presto,E30,POLFLAM,EFR-24-002619,Ext 25/1 + 25/2,"• Polflam EW30 / Fireflam Lite 30
+• Polflam EW30 DGU / Fireflam Lite 30 DGU
+• Polflam E30 / Fireflam Clear 30 (ext 25/2 --> Joints EPDM remplacés par des joints CR)
+• Polflam E30 DGU / Fireflam Clear 30 DGU (ext 25/2 --> Joints EPDM remplacés par des joints CR)",0,0,"• 2 BA 13 + 2 tôles acier 10/10èmes - ép. 27 mm
+• 1 BA 18 + 2 tôles acier 15/10èmes - ép. 21 mm","• Joints fibre + silicone
+• Joints EPDM
+• Simple ou double parclosage
+• Possibilité de remplacer les parcloses clipsées par des tubes, cornières ou plat acier vissés","• Paumelles à visser, à souder, invisible, avec pion médian
+• Serrure 1 ou 2 points avec ou sans fonction anti panique
+• Verrouillage thermique : serrure à rouleau, sans serrure
+• Contrôle d’accès encastré ou en applique
+• Ferme porte en applique ou encastré
+• Possibilité de serrures mécaniques ou béquilles contrôlées de marques EffEff, Assa Abloy ou DormaKaba
+• Possibilité de béquilles, rosaces et barres antipanique Forster, Eco Schulte
+• Possibilité de passe-câble Forster, EffEff, Eco Schulte, DormaKaba, Assa Abloy
+• Possibilité de contacteur de position Forster et EffEff","• Hauteur maxi bloc-porte + imposte vitrée : 4056 mm (dito PV de cloison vitrée EFR-24-002618)
+• Hauteur maxi bloc-porte + imposte cloison légère : 4000 mm",1679,2300,3476,2861,0,"• Béton, parpaing plein, béton cellulaire
+• Intégration dans cloison légère plaques de plâtre en imposte (500 mm maxi), partie fixes latérales
+• Poteau acier protégé entre deux châssis ou en angle à 90°
+• Possibilité d’assemblage des traverses par manchonnage (tube ou cornière acier)
+• Possibilité d’assemblage des profilés dos-à-dos
+• Possibilité de renforcement statique des profilés extérieurement (feu côté opposé aux renforts) ou intérieurement soit par soudure, soit par vissage (voir planche n°11)
+• Intégration des vantaux E30 dans la cloison fixe vitrée E30 selon PV EFR-24-002618",• Sens de feu indifférent,"• Presto séries 50 ou 60
+• Possibilité de fenêtres de service E30 ouvrant à la française 1 vantail, condamnation par crémone à levier Forster ou serrure Stremler à 2 points haut et bas
+",,10/02/2030 0:00:00,,
+Ouvrant de service,unico XS,E30,VETROTECH,EFR-22-001306,Ext 25/1-Rév1 + Ext 25/2,"► PV de base :
+• Vetroflam 30 Climaplus :
+       - Passage libre fenêtre 1 vantail : L x H = 1035 x 2392, surface maxi 2,2 m²
+       - Passage libre Fenêtre 2 vantaux égaux : vantail principal 1000 x 2358, surface maxi 2,1 m² / vantail secondaire 1000 x 2358, surface maxi 2,1 m²
+
+► Ext 25/1-Rév 1 :
+• Contraflam Lite 30 et Contraflam Lite 30 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+       - L x H = 1752 x 3212 - max 4.73m²
+• Contraflam Lite 30 Climatop (sens de feu coté Contraflam uniquement) :
+       - L x H = 1501 x 2854 - max 3.6m²
+• Contraflam Lite 30 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+       - L x H = 1320 x 2400 - max 2.66m²
+
+► Ext 25/2 :
+• Contraflam Lite 60 et Contraflam Lite 60 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 1752 x 3212 - max 4.73m²
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+• Contraflam Lite 60 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+       - L x H = 1320 x 2400 - max 2.66m²
+• Contraflam Lite 60 Climatop (sens de feu coté Contraflam uniquement) :
+       - L x H =1501 x 2854 - max 3.6m²",0,0,Non,"• Joint silicone
+• Joint CR","• Ferrage paumelles visibles ou ferrage caché RC2
+• Poignée à clé","• Fenêtre OF/OB 1 vantail : L x H = 1035 x 2392 (surface maxi du vantail 2,2 m²)
+• Fenêtre OF/OB 2 vantaux
+       - Vantail principal : L x H = 1000 x 2358 (surface maxi du vantail 2,1 m²)
+       - Vantail secondaire : L x H = 1000 x 2358 (surface maxi du vantail 2,1 m²)",0,0,0,0,0,"• Béton, parpaing plein, béton cellulaire
+• Poteau protégé en ligne ou à 90°
+• Cloison vitrée Unico ou Unico XS dito PVs EFR-22-001302, EFR-22-001303 et EFR-17-003240 et leurs extensions respectives",• Restriction sur le sens de feu : voir PV &#167; 6.2 + extensions,• Possibilité de jonctionner des fenêtres dos-à-dos avec les dormants corps de 30 et 50 mm,RC2,26/02/2030 0:00:00,,
+Porte tolée parclosée,presto,E30,POLFLAM,EFR-24-002619,Ext 25/1,,0,0,"• 2 BA 13 + 2 tôles acier 10/10èmes - ép. 27 mm
+• 1 BA 18 + 2 tôles acier 15/10èmes - ép. 21 mm","• Joints fibre + silicone
+• Joints EPDM
+• Simple ou double parclosage
+• Possibilité de remplacer les parcloses clipsées par des tubes, cornières ou plat acier vissés","• Paumelles à visser, à souder, invisible, avec pion médian
+• Serrure 1 ou 2 points avec ou sans fonction anti panique
+• Verrouillage thermique : serrure à rouleau, sans serrure
+• Contrôle d’accès encastré ou en applique
+• Ferme porte en applique ou encastré
+• Possibilité de serrures mécaniques ou béquilles contrôlées de marques EffEff, Assa Abloy ou DormaKaba
+• Possibilité de béquilles, rosaces et barres antipanique Forster, Eco Schulte
+• Possibilité de passe-câble Forster, EffEff, Eco Schulte, DormaKaba, Assa Abloy
+• Possibilité de contacteur de position Forster et EffEff","• Hauteur maxi bloc-porte + imposte vitrée : 4056 mm (dito PV de cloison vitrée EFR-24-002618)
+• Hauteur maxi bloc-porte + imposte cloison légère : 4000 mm",1679,200,3476,2861,0,"• Béton, parpaing plein, béton cellulaire
+• Intégration dans cloison légère plaques de plâtre en imposte (500 mm maxi), partie fixes latérales
+• Poteau acier protégé entre deux châssis ou en angle à 90°
+• Possibilité d’assemblage des traverses par manchonnage (tube ou cornière acier)
+• Possibilité d’assemblage des profilés dos-à-dos
+• Possibilité de renforcement statique des profilés extérieurement (feu côté opposé aux renforts) ou intérieurement soit par soudure, soit par vissage (voir planche n°11)
+• Intégration des vantaux E30 dans la cloison fixe vitrée E30 selon PV EFR-24-002618",• Sens de feu indifférent,"• Presto séries 50 ou 60
+• Possibilité de fenêtres de service E30 ouvrant à la française 1 vantail, condamnation par crémone à levier Forster ou serrure Stremler à 2 points haut et bas
+",,,,
+Cloison,fuego light,EI30,AGC,EFR-25-000242,,"• Pyrobel-T EI30-18
+   &#45; Larg x haut maxi = 2000 x 4235 ou 2200 x 2000",2200,4235,Non,Joint silicone + fibre céramique,,,0,0,0,0,4356,Béton,Indifférent,"• Jonction en ligne ou à 90° sur poteau acier protégé
+• Possibilité de drainage des feuillures avec busettes 900100",,17/04/2030 0:00:00,,
+Cloison,fuego light,EI60,AGC,EFR-25-000243,,"• Pyrobel-T EI60-28
+   &#45; Larg x haut maxi = 2000 x 4228 ou 2200 x 2000",0,0,Non,Joint silicone + fibre céramique,,,0,0,0,0,4356,Béton,Indifférent,"• Jonction en ligne ou à 90° sur poteau acier protégé
+• Possibilité de drainage des feuillures avec busettes 900100",,17/04/2030 0:00:00,,
+Porte tolée affleurée,fuego light,EI60,100% TOLÉE,EFR-25-001248,Rév 2,Porte tôlée affeurée,0,0,"Portes tôlées affleurées, les vantaux étant constitués :
+- Parements en tôles acier de 25/10èmes sur chaque face des profilés
+- Isolation par 2 couches de 20 mm de laine de roche Flumroc de 110 kg/m², prenant au centre en sandwich une plaque de Fermacell de 15 mm d'épaisseur (voir planches n°27 et 28)",Tôles acier soudées et/ou vissées sur les profilés,"- Possibilité d'oculus vitré (Pilkington Pyrostop 60-201)
+- Paumelles visibles à visser ou à souder, paumelles invisibles encastrées
+- Serrure mécanique 3, 4 ou 5 points (selon hauteur des vantaux)
+- Ferme-portes en applique DormaKaba ou Eco Schulte
+- Bandeau sélecteur de fermeture en applique DormaKaba ou Eco Schulte",2690 x 3013,1679,2690,3013,2620,4053,"- Béton
+- Cloison légère plaques de plâtre de classement EI120
+- Parties fixes latérales ou en imposte elles-mêmes tôlées affleurées mais dans le cas des portes à un vantail uniquement",Sens de feu indifférent,"Surface maxi de 4,59 m² pour porte 1 vantail",,17/07/2030 0:00:00,,
+Cloison,unico,E30,POLFLAM,EFR-24-002608,Rév 1,"• POLFLAM EW 30 + FIREFLAM LITE 30 :
+          - Ep. 16 mm L x H maxi = 1500 x 3000
+          - Ep. 18 mm L x H maxi = 1813 x 3613
+• POLFLAM EW 30 DGU +t FIREFLAM LITE 30 DGU :
+          - Ep. 16 mm L x H maxi = 1500 x 3000
+          - Ep. 18 mm L x H maxi = 1800 x 3600",1813,3613,"Surface maxi variable selon composition (voir PV) :
+          - BA 13 : 2 m² maxi
+          - BA 18 : 3,8 m² maxi
+          - Laine de roche : 2,6 m² maxi
+          - Powerpaneel H20 Fermacell : 3,7 m²",Joint CR ou joint Silicone,,Longueur illimitée x Hauteur maxi 3804 mm,0,0,0,0,3804,"• Béton, parpaing plein, béton cellulaire
+• Jonction sur poteau acier protégé (en ligne ou à 90°)
+• Jonction sur poteau bois (en ligne ou à 90°)",• Sens de feu indifférent,"• Assemblage mécanique dos-à-dos (profilés Unico en ""L"" avec corps de 50, 30 ou 10 mm)
+• Montant intermédiaire fin (profilé Unico en ""T"" corps de 10 mm)
+• Parcloses clipsées remplaçable par tubes, cornières ou plats acier vissés","RC2
+RC3",16/06/2030 0:00:00,,
+Porte,unico,E30,POLFLAM,EFR-24-002609,Rév 1,"• Polflam EW30 + Fireflam Lite 30, épaisseurs 16 ou 18 mm
+• Polflam EW30 DGU + Fireflam Lite 30 DGU, épaisseurs 16 ou 18 mm",,0,,,,"• Porte 1 vantail : L x H Maxi = 1621 x 3473 (surf. maxi vantail 5,1 m²)
+• Porte 2 vantaux : L x H Maxi = 2694 x 2433 (surf. maxi vantail 3,0 m² par vantail)",1621,2694,3473,2433,0,,• Sens de feu indifférent,• ,,16/06/2030 0:00:00,,
+Porte,unico,E30,POLFLAM,EFR-24-002609,Rév 1,"• Polflam EW 30 + Fireflam Lite 30, épaisseur 16 ou 18 mm
+• Polflam EW 30 DGU + Fireflam Lite 30 DGU, épaisseur 16 ou 18 mm
+► Les dimensions hors tout maximales autorisées pour les vitrages obturant chaque vantail sont déduites des dimensions hors-tout maximales de ces derniers.",0,0,"• Pour les parties fixes latérales ou en imposte, surface maxi variable selon composition :
+          - BA 13 : 2 m² maxi
+          - BA 18 : 3,8 m² maxi
+          - Laine de roche : 2,6 m² maxi
+          - Powerpaneel H20 Fermacell : 3,7 m²
+
+• Pour les vantaux, la surface d’un panneau ne peut pas excéder 50% de la surface du vantail. Ainsi pour une obturation complète, le vantail devra comporter une à trois traverses intermédiaires. Seuls les panneaux pleins réalisés à base de laine de roche ou de Powerpaneel H20 permettent d’obturer la totalité du vantail sur toute la hauteur sans avoir besoin de traverse intermédiaire.",Joint CR ou joint silicone,"• Ferme-porte en applique ou en encastrés DormaKaba, Geze, Assa Abloy, Eco Schulte
+• Ouvre-porte en applique DormaKaba ou Eco Schulte
+• Bâton de maréchal alu, acier ou inox
+• Paumelles à souder ou à visser
+• Serrures Forster, Eff Eff ou Assa Abloy
+• Passe-câbles en applique ou encastrés Forster,  DormaKaba, Assa Abloy, Eco Schulte
+• Contrôle d'accès en applique DormaKaba TV 100/200","• Porte 1 vantail : L x H maxi = 1621 x 3473, avec surface maxi vantail de 5,1 m²
+• Porte 2 vantaux :  L x H maxi = 2694 x 2433, avec surface maxi pour chaque vantail de 3,0 m²",1621,2694,3473,2433,3804,"• Béton, parpaing plein, béton cellulaire
+• Jonction sur poteau acier protégé (en ligne ou à 90°)
+• Jonction sur poteau bois (en ligne ou à 90°)",• Sens de feu indifférent,"• Assemblage mécanique dos-à-dos, y compris intégration dans cloisons Fuego Light EI30 et EI60
+• Parcloses clipsées remplaçable par tubes, cornières ou plats acier vissés
+• Petits dormants corps de 20 ou 30 mm possibles si fixés directement dans béton","CR2
+CR3",16/06/2030 0:00:00,,
+Ouvrant de service,presto,E30,POLFLAM,EFR-24-002619,Ext 25/1,"• Polflam EW30 / Fireflam Lite 30 / Flireflam Clear 30
+• Polflam EW30 DGU / Fireflam Lite 30 DGU / Flireflam Clear 30",0,0,,"• Joints fibre + silicone
+• Joints EPDM
+• Simple ou double parclosage
+• Possibilité de remplacer les parcloses clipsées par des tubes, cornières ou plat acier vissés",,"Ouvrant de service un vantail ouvrant à la française :
+- Passage libre maxi L x H = 1196 x 1285 ou L x H = 1095 x 1403",1196,0,1403,0,0,"• Béton, parpaing plein, béton cellulaire
+• Intégration dans cloison légère plaques de plâtre en imposte (500 mm maxi), partie fixes latérales
+• Poteau acier protégé entre deux châssis ou en angle à 90°
+• Possibilité d’assemblage des traverses par manchonnage (tube ou cornière acier)
+• Possibilité d’assemblage des profilés dos-à-dos
+• Possibilité de renforcement statique des profilés extérieurement (feu côté opposé aux renforts) ou intérieurement soit par soudure, soit par vissage (voir planche n°11)
+• Intégration des vantaux E30 dans la cloison fixe vitrée E30 selon PV EFR-24-002618",,"• Paumelle à souder type ""Maroc haut. 60 mm"", ou paumelles Forster 917.682 ou 917.689
+• Crémone Forster 917122, 123 ou 124 selon hauteur (voir PV)
+• Serrure STREMLER 1233.30.0 ou 2253.30.0 selon hauteur et type de béquille (voir PV)",,10/02/2030 0:00:00,,
+Porte tolée parclosée,unico,E30,POLFLAM,EFR-24-002609,Rév 1,,0,0,"• Pour les parties fixes latérales ou en imposte, surface maxi variable selon composition :
+          - BA 13 : 2 m² maxi
+          - BA 18 : 3,8 m² maxi
+          - Laine de roche : 2,6 m² maxi
+          - Powerpaneel H20 Fermacell : 3,7 m²
+
+• Pour les vantaux, la surface d’un panneau ne peut pas excéder 50% de la surface du vantail. Ainsi pour une obturation complète, le vantail devra comporter une à trois traverses intermédiaires. Seuls les panneaux pleins réalisés à base de laine de roche ou de Powerpaneel H20 permettent d’obturer la totalité du vantail sur toute la hauteur sans avoir besoin de traverse intermédiaire.","
+Joint CR ou joint silicone","• Ferme-porte en applique ou en encastrés DormaKaba, Geze, Assa Abloy, Eco Schulte
+• Ouvre-porte en applique DormaKaba ou Eco Schulte
+• Bâton de maréchal alu, acier ou inox
+• Paumelles à souder ou à visser
+• Serrures Forster, Eff Eff ou Assa Abloy
+• Passe-câbles en applique ou encastrés Forster,  DormaKaba, Assa Abloy, Eco Schulte
+• Contrôle d'accès en applique DormaKaba TV 100/200","• Porte 1 vantail : L x H maxi = 1621 x 3473, avec surface maxi vantail de 5,1 m²
+• Porte 2 vantaux :  L x H maxi = 2694 x 2433, avec surface maxi pour chaque vantail de 3,0 m²",1621,2694,3473,2433,3804,"• Béton, parpaing plein, béton cellulaire
+• Jonction sur poteau acier protégé (en ligne ou à 90°)
+• Jonction sur poteau bois (en ligne ou à 90°)",• Sens de feu indifférent,"• Assemblage mécanique dos-à-dos, y compris intégration dans cloisons Fuego Light EI30 et EI60
+• Parcloses clipsées remplaçable par tubes, cornières ou plats acier vissés
+• Petits dormants corps de 20 ou 30 mm possibles si fixés directement dans béton","CR2
+CR3",16/06/2030 0:00:00,,
+Ouvrant de service,unico,E60,VETROTECH,EFR-22-001305,Ext. 25/1-Rév.1 + Ext. 25/2,"► Ext 25/2 :
+• Contraflam Lite 60 et Contraflam Lite 60 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 1752 x 3212 - max 4.73m²
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+• Contraflam Lite 60 Climatop (sens de feu coté opposé au Contraflam uniquement)
+       - L x H = 1320 x 2400 - max 2.66m²
+• Contraflam Lite 60 Climatop (sens de feu coté Contraflam uniquement)
+       - L x H =1501 x 2854 - max 3.6m²",0,0,Non,"Joint silicone
+Joint CR ","Quincaillerie surposé ou  designo RC3
+Béquille à clé","• Ouvrant OB 1 vantail L x H = 1398 x 2433 (sans que la surface du vitrage ne puisse dépasser 3,1 m²)                                                               • Ouvrant OB 2 vantaux L x H = 1347 x 2433 (sans que la surface du vitrage ne puisse dépasser 2,97 m²)",1398,0,2433,2433,0,"Béton, parpaing plein, béton cellulaire
+Poteau protégé en ligne ou à 90°",Restrictions sur le sens de feu : voir PV + extensions,"intégration possible dans cloisons vitrées fixes attenantes en Unico ou Unico XS dito PV EFR22001302, EFR22001303 et EFR17003240, ou cloisons en Fuego Light EI30 / EI60 / EI90 / EI120
+Possibiliter de faire 2 vantaux
+L'extension 25/2 permet de faire de l'E60","RC2
+RC3",8/10/28,10226,FEU
+Cloison bords-à-bords,fuego light,EI120,PYROGUARD,EFR-25-003729,,"• Pyroguard T-EI120/58-4 SWS - L x H = 1250 x 3098
+• Pyroguard T-EI120/58-4 VF SWS - L x H = 1250 x 3098",1250,3098,,"Vitrages bords-à-bords, silicone neutre + bandes fibres céramique (simple ou double parclosage)",,,0,0,0,0,3252,Béton ou blocs de béton cellulaire,"Sens de feu indifférent, mais côté opposé à la contreface du vitrage uniquement",,,18/12/2030 0:00:00,,
+Cloison,unico XS,E30,VETROTECH,EFR-22-001303,Ext 25/2-Rév 1 + Ext. 25/3,"► PV de base :
+• Contraflam 30, Contraflam 30 Climaplus, Contraflam 30 Climalit, ou Contraflam 30 Climatop :
+       - L x H = 1560 x 3240 - max 4,25m²
+       - L x H = 1560 x 3240 - max 4,25m²
+
+► Ext 25/2-Rév 1 :
+• Contraflam Lite 30 et Contraflam Lite 30 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+       - L x H = 1752 x 3212 - max 4.73m²
+• Contraflam Lite 30 Climatop (sens de feu coté Contraflam uniquement) :
+       - L x H = 1501 x 2854 - max 3.6m²
+• Contraflam Lite 30 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+       - L x H = 1320 x 2400 - max 2.66m²
+
+► Ext 25/3 :
+• Contraflam Lite 60 et Contraflam Lite 60 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 1752 x 3212 - max 4.73m²
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+• Contraflam Lite 60 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+       - L x H = 1320 x 2400 - max 2.66m²
+• Contraflam Lite 60 Climatop (sens de feu coté Contraflam uniquement) :
+       - L x H =1501 x 2854 - max 3.6m²",3240,3278,"• à base de plaques de PROMATECTH (PROMAT), surface maxi 2 m².
+• à base de BA13 standard (PLACOPLATRE), surface maxi  2 m².
+• à base de plaques d’AESTUVER (FERMACELL), surface maxi 3,81 m².
+• à base de plaques de POWERPANEEL H2O (FERMACELL), surface maxi 2,30 m².",Joint CR,-,Longueur illimitée x 3278 hauteur,0,0,0,0,3278,"Béton, parpaing plein, béton cellulaire
+Poteau protégé en ligne ou à 90°",Restrictions sur le sens de feu : voir PV + extensions,Drainage possible pas busettes 900100 ou tubulure 980101,-,4/3/28,70336,FEU
+Ouvrant de service,unico XS,E30,VETROTECH,EFR-22-001306,Ext 25/1-Rév1 + Ext 25/2,"► PV de base :
+• Vetroflam 30 Climaplus :
+       - Passage libre fenêtre 1 vantail : L x H = 1035 x 2392, surface maxi 2,2 m²
+       - Passage libre Fenêtre 2 vantaux égaux : vantail principal 1000 x 2358, surface maxi 2,1 m² / vantail secondaire 1000 x 2358, surface maxi 2,1 m²
+
+► Ext 25/1-Rév 1 :
+• Contraflam Lite 30 et Contraflam Lite 30 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+       - L x H = 1752 x 3212 - max 4.73m²
+• Contraflam Lite 30 Climatop (sens de feu coté Contraflam uniquement) :
+       - L x H = 1501 x 2854 - max 3.6m²
+• Contraflam Lite 30 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+       - L x H = 1320 x 2400 - max 2.66m²
+
+► Ext 25/2 :
+• Contraflam Lite 60 et Contraflam Lite 60 Climaplus/Climalit (sens de feu indiffèrent) :
+       - L x H = 1752 x 3212 - max 4.73m²
+       - L x H = 3240 x 1560 - max 4.25m²
+       - L x H = 1650 x 3300 - max 5m²
+• Contraflam Lite 60 Climatop (sens de feu coté opposé au Contraflam uniquement) :
+       - L x H = 1320 x 2400 - max 2.66m²
+• Contraflam Lite 60 Climatop (sens de feu coté Contraflam uniquement) :
+       - L x H =1501 x 2854 - max 3.6m²",0,0,Non,"• Joint silicone
+• Joint CR","• Ferrage paumelles visibles ou ferrage caché RC2
+• Poignée à clé","• Fenêtre OF/OB 1 vantail : L x H = 1035 x 2392 (surface maxi du vantail 2,2 m²)
+• Fenêtre OF/OB 2 vantaux
+       - Vantail principal : L x H = 1000 x 2358 (surface maxi du vantail 2,1 m²)
+       - Vantail secondaire : L x H = 1000 x 2358 (surface maxi du vantail 2,1 m²)",0,0,0,0,0,"• Béton, parpaing plein, béton cellulaire
+• Poteau protégé en ligne ou à 90°
+• Cloison vitrée Unico ou Unico XS dito PVs EFR-22-001302, EFR-22-001303 et EFR-17-003240 et leurs extensions respectives",• Restriction sur le sens de feu : voir PV &#167; 6.2 + extensions,• Possibilité de jonctionner des fenêtres dos-à-dos avec les dormants corps de 30 et 50 mm,RC2,26/02/2030 0:00:00,,
+Cloison,presto XS,E60,AGC,EFR-25-005120,Ext. 26/1 (pour déclassement en E30),"• PYROBEL-T EW60-16 :
+      - Paysage L x H = 2650 x 1174 avec surface maxi < 2,61 m²
+      - Portrait L x H = 1174 x 3574 avec surface maxi < 5,33 m²",2650,3574,Non,Silicone sur bandes fibres céramique,,"Longueur illimitée, hauteur maxi de l'élément 3600 mm",0,0,0,0,3600,Béton,Sens de feu indifférent,Possibilité de jonction en ligne ou angle à 90° sur poteau acier protégé,,23/04/2031 0:00:00,,
+Cloison,presto XS,E30,AGC,EFR-25-005120,Ext. 26/1 (pour déclassement en E30),"• PYROBEL-T EW30-16 :
+      - Paysage L x H = 2650 x 1174 avec surface maxi < 2,61 m²
+      - Portrait L x H = 1174 x 3574 avec surface maxi < 5,33 m²",2650,3574,Non,Silicone sur bandes fibres céramique,,"Longueur illimitée, hauteur maxi de l'élément 3600 mm",0,0,0,0,3600,Béton,Sens de feu indifférent,Possibilité de jonction en ligne ou angle à 90° sur poteau acier protégé,,23/04/2031 0:00:00,,
+Porte,presto XS,E60,AGC,EFR-25-005540,Ext. 26/1 (pour déclassement en E30),• PYROBEL-T EW60-16,0,0,Non,Silicone sur bandes fibre céramique,"• Condamnation porte 1 vantail :
+     - Si mise en oeuvre dans du béton : serrure 3 points têtière filante 986.460 + extension 986.484 selon hauteur
+     - Si mise en oeuvre dans cloison vitrée : serrure 1 point centrale 917.418 + 1 verrou thermique 917.040 ou 917.041 en traverse haute
+• Condamnation porte 2 vantaux :
+     - Vantail principal : serrure 3 points têtière filante avec fonction antipanique 986.493 + extension 986.484 selon hauteur
+     - Vantail secondaire : serrure avec fonction antipanique de référence 917.400 associée à des gâches de référence 947.048 + une serrure à loqueteau automatique haut de 917.002
+• Ferme-porte Geze TS5000
+• Régulateur de fermeture 
+• Passe câble encastré","• Hauteur maxi bloc-porte + imposte vitrée : 3697 mm, avec hauteur maxi d'imposte 1023 mm
+• Largeur maxi bloc-porte + parties fixes : 2796 mm",1296,2592,2566,2656,3697,Béton,Sens de feu indifférent,"• Possibilité de jonction en ligne ou angle à 90° sur poteau acier protégé
+• Assemblage mécanique pour imposte vitrée (voir planche 23 du PV)
+• En cas d'utilisation des petits profilés de traverse haute réf. 37.512 ou 37.612 pour le vantail, voir le détail planche 20 pour la fixation de la coulisse du ferme-porte sur un tube acier soudé",,23/04/2031 0:00:00,,
+Porte,presto XS,E30,AGC,EFR-25-005540,Ext. 26/1 (pour déclassement en E30),• PYROBEL-T EW30-16,0,0,Non,Silicone sur bandes fibre céramique,"• Condamnation porte 1 vantail :
+     - Si mise en oeuvre dans du béton : serrure 3 points têtière filante 986.460 + extension 986.484 selon hauteur
+     - Si mise en oeuvre dans cloison vitrée : serrure 1 point centrale 917.418 + 1 verrou thermique 917.040 ou 917.041 en traverse haute
+• Condamnation porte 2 vantaux :
+     - Vantail principal : serrure 3 points têtière filante avec fonction antipanique 986.493 + extension 986.484 selon hauteur
+     - Vantail secondaire : serrure avec fonction antipanique de référence 917.400 associée à des gâches de référence 947.048 + une serrure à loqueteau automatique haut de 917.002
+• Ferme-porte Geze TS5000
+• Régulateur de fermeture 
+• Passe câble encastré","• Hauteur maxi bloc-porte + imposte vitrée : 3697 mm, avec hauteur maxi d'imposte 1023 mm
+• Largeur maxi bloc-porte + parties fixes : 2796 mm",1296,2592,2566,2656,3697,Béton,Sens de feu indifférent,"• Possibilité de jonction en ligne ou angle à 90° sur poteau acier protégé
+• Assemblage mécanique pour imposte vitrée (voir planche 23 du PV)
+• En cas d'utilisation des petits profilés de traverse haute réf. 37.512 ou 37.612 pour le vantail, voir le détail planche 20 pour la fixation de la coulisse du ferme-porte sur un tube acier soudé",,23/04/2031 0:00:00,,
+Cloison,presto XS,E60,VETROTECH,EFR-25-005121,Ext 26/1 (pour déclassement en E30),"• Contraflam Lite 60 :
+     - Paysage L x H = 3240 x 1560 avec surface maxi < 4,25 m²
+     - Portrait L x H = 1650 x 3300 avec surface maxi < 5 m²
+     - Portrait L x H = 1752 x 3212 avec surface maxi < 4,73 m²",3240,3300,Non,Silicone sur bandes fibres céramique,,"Longueur illimitée, hauteur maxi de l'élément 3600 mm",0,0,0,0,3600,Béton,Sens de feu indifférent,Possibilité de jonction en ligne ou angle à 90° sur poteau acier protégé,,31/05/2031 0:00:00,,
+Cloison,presto XS,E30,VETROTECH,EFR-25-005121,Ext 26/1 (pour déclassement en E30),"• Contraflam Lite 30 (via extension 26/1) :
+     - Paysage L x H = 3240 x 1560 avec surface maxi < 4,25 m²
+     - Portrait L x H = 1650 x 3300 avec surface maxi < 5 m²
+     - Portrait L x H = 1752 x 3212 avec surface maxi < 4,73 m",3240,3300,Non,Silicone sur bandes fibres céramique,,"Longueur illimitée, hauteur maxi de l'élément 3600 mm",0,0,0,0,3600,Béton,Sens de feu indifférent,,,31/05/2031 0:00:00,,
+Porte,presto XS,E60,VETROTECH,EFR-25-005538,Ext 26/1 (pour déclassement en E30),• Contraflam Lite 60,0,0,Non,Silicone sur bandes fibre céramique,"• Condamnation porte 1 vantail :
+     - Si mise en oeuvre dans du béton : serrure 3 points têtière filante 986.460 + extension 986.484 selon hauteur
+     - Si mise en oeuvre dans cloison vitrée : serrure 1 point centrale 917.418 + 1 verrou thermique 917.040 ou 917.041 en traverse haute
+• Condamnation porte 2 vantaux :
+     - Vantail principal : serrure 3 points têtière filante avec fonction antipanique 986.493 + extension 986.484 selon hauteur
+     - Vantail secondaire : serrure avec fonction antipanique de référence 917.400 associée à des gâches de référence 947.048 + une serrure à loqueteau automatique haut de 917.002
+• Ferme-porte Geze TS5000
+• Régulateur de fermeture 
+• Passe câble encastré","• Hauteur maxi bloc-porte + imposte vitrée : 3697 mm, avec hauteur maxi d'imposte 1023 mm
+• Largeur maxi bloc-porte + parties fixes : 2796 mm",1296,2592,2656,2656,3697,Béton,Sens de feu indifférent,"• Possibilité de jonction en ligne ou angle à 90° sur poteau acier protégé
+• Assemblage mécanique pour imposte vitrée (voir planche 23 du PV)
+• En cas d'utilisation des petits profilés de traverse haute réf. 37.512 ou 37.612 pour le vantail, voir le détail planche 20 pour la fixation de la coulisse du ferme-porte sur un tube acier soudé",,31/05/2031 0:00:00,,
+Porte,presto XS,E30,VETROTECH,EFR-25-005538,Ext 26/1 (pour déclassement en E30),• Contraflam Lite 30,0,0,Non,Silicone sur bandes fibre céramique,"• Condamnation porte 1 vantail :
+     - Si mise en oeuvre dans du béton : serrure 3 points têtière filante 986.460 + extension 986.484 selon hauteur
+     - Si mise en oeuvre dans cloison vitrée : serrure 1 point centrale 917.418 + 1 verrou thermique 917.040 ou 917.041 en traverse haute
+• Condamnation porte 2 vantaux :
+     - Vantail principal : serrure 3 points têtière filante avec fonction antipanique 986.493 + extension 986.484 selon hauteur
+     - Vantail secondaire : serrure avec fonction antipanique de référence 917.400 associée à des gâches de référence 947.048 + une serrure à loqueteau automatique haut de 917.002
+• Ferme-porte Geze TS5000
+• Régulateur de fermeture 
+• Passe câble encastré","• Hauteur maxi bloc-porte + imposte vitrée : 3697 mm, avec hauteur maxi d'imposte 1023 mm
+• Largeur maxi bloc-porte + parties fixes : 2796 mm",1296,2592,2656,2656,3697,Béton,Sens de feu indifférent,"• Possibilité de jonction en ligne ou angle à 90° sur poteau acier protégé
+• Assemblage mécanique pour imposte vitrée (voir planche 23 du PV)
+• En cas d'utilisation des petits profilés de traverse haute réf. 37.512 ou 37.612 pour le vantail, voir le détail planche 20 pour la fixation de la coulisse du ferme-porte sur un tube acier soudé",,31/05/2031 0:00:00,,

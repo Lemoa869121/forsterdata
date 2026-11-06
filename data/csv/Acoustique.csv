@@ -1,0 +1,779 @@
+Type de châssis,Série,Rw,Rw C,RW ctr,n° PV,Notes - Particularités
+"Châssis
+  fixe",fuego light 30 ,38,-1,-2,19-001946-PR02,"1230 x 1480
+
+    Panneau coupe-feu,
+
+    Composition: 1,5 mm acier/2 × 12,5 mm
+
+    plaques de plâtre cartonnées/1,5 mm
+
+    acier"
+"Châssis
+  fixe",fuego light 30 ,39,-1,-2,19-001946-PR02,"1230 x 1480
+
+    Pyrostop 30-10,
+
+    Composition: 15 mm vitrage simple"
+"Châssis
+  fixe",fuego light 30 ,41,-1,-3,19-001946-PR02,"1230 x 1480
+
+    Pyrostop 30-20,
+
+    Composition: 18 mm vitrage simple"
+"Châssis
+  fixe",fuego light 60,43,0,-2,19-001946-PR02,"1230 x 1480
+
+    Pyrostop 60-101,
+
+    Composition: 23 mm verre résistant au
+
+    feu, à six couches"
+"Châssis
+  fixe",fuego light 90,47,0,-2,19-001946-PR02,"1230 x 1480
+
+    Pyrostop 90-102,
+
+    Composition: 37 mm verre résistant au
+
+    feu, à dix couches"
+"Châssis
+  fixe",fuego light 30 ,43,-1,-3,19-001946-PR03,"1230 x 1480
+
+    Contraflam 30 Stadip Silence : 9 mm verre feuilleté / intercalaire de
+  protection incendie / 5 mm verre de sécurité trempé
+
+    joint sec"
+"Châssis
+  fixe",fuego light 30 ,47,-2,-5,19-001946-PR03,"1230 x 1480
+
+    Contraflam 30 Climalit Silence : 9 mm verre feuilleté / 16 mm espace entre
+  verres / 16 mm verre résistant au feu
+
+    joint vitrage à silicone"
+"Châssis
+  fixe",fuego light 60,42,-1,-1,19-001946-PR03,"1230 x 1480
+
+    Contraflam 60-3 : 27 mm verre résistant au feu, à quatre couches
+
+    joint sec"
+"Châssis
+  fixe",fuego light 60,46,-1,-2,19-001946-PR03,"1230 x 1480
+
+    Contraflam 60-3 Stadip Silence : 33 mm verre feuilleté résistant au feu
+
+    joint sec"
+"Châssis
+  fixe",fuego light 60,43,-1,-2,19-001946-PR03,"1230 x 1480
+
+    Contraflam 60-3 Climalit Silence : 27 mm verre résistant au feu / 16 mm
+  espace entre verres / 9 mm verre feuilleté
+
+    joint sec"
+"Châssis
+  fixe",fuego light 60,49,-2,-5,19-001946-PR03,"1230 x 1480
+
+    Contraflam 60-3 Climalit Silence : 27 mm verre résistant au feu / 16 mm
+  espace entre verres / 9 mm verre feuilleté
+
+    joint vitrage à silicone"
+"Châssis
+  fixe",fuego light 90,45,-1,-1,19-001946-PR03,"1230 x 1480
+
+    Contraflam 90-4 : 40 mm verre résistant au feu, à cinq couches
+
+    joint sec"
+"Châssis
+  fixe",fuego light 90,31,0,-2,19-001946-PR03,"1230 x 1480
+
+    Contraflam 90-4 Stadip Silence : 44 mm verre feuilleté résistant au feu
+
+    joint sec"
+"Châssis
+  fixe",fuego light 90,48,-1,-2,19-001946-PR03,"1230 x 1480
+
+    Contraflam 90-4 Stadip Silence : 44 mm verre feuilleté résistant au feu
+
+    joint vitrage à silicone"
+"Porte
+  1 vantail",fuego light 30 ,37,-1,-1,19-000121-PR08,"1 seuil Athmer
+
+    Contraflam 30 38 dB"
+"Porte
+  1 vantail",fuego light 30 ,39,-2,-1,19-000121-PR08,"2 seuils Athmer
+
+    Contraflam stadip silence 41dB"
+"Porte
+  1 vantail",fuego light 30 ,39,-1,-1,19-000121-PR08,"1 seuil Athmer
+
+    Contraflam stadip silence 41dB"
+"Porte
+  1 vantail",fuego light 30 ,42,-1,-2,19-000121-PR08,"2 seuil Athmer
+
+    Contraflam stadip silence 41dB"
+"Porte
+  1 vantail",fuego light 30 ,37,-1,-2,19-000121-PR05,"1 seuil Athmer
+
+    Pyrostop 30-10 38dB "
+"Porte
+  1 vantail",fuego light 30 ,38,-1,-2,19-000121-PR05,"2 seuils Athmer
+
+    Pyrostop 30-10 38dB "
+"Porte
+  1 vantail",fuego light 30 ,37,0,-1,19-000121-PR05,"1 seuil Athmer
+
+    Pyrostop 30-20 38dB "
+"Porte
+  1 vantail",fuego light 30 ,40,-1,-3,19-000121-PR05,"2 seuil Athmer
+
+    Pyrostop 30-20 38dB "
+"Porte
+  1 vantail",fuego light 30 ,40,-1,-2,19-000121-PR05,"1 seuil Athmer
+
+    Pyrostop 30-17 Optiphon 9 45dB "
+"Porte
+  1 vantail",fuego light 30 ,44,-1,-4,19-000121-PR05,"2 seuil Athmer
+
+    Pyrostop 30-17 Optiphon 9 45dB "
+"Porte
+  2 vantaux",fuego light 30 ,36,-1,-2,19-000121-PR04,"1 seuil Athmer
+
+    Pyrostop 30-10 38dB "
+"Porte
+  2 vantaux",fuego light 30 ,38,-1,-2,19-000121-PR04,"2 seuils Athmer
+
+    Pyrostop 30-10 38dB "
+"Porte
+  2 vantaux",fuego light 30 ,37,-1,-2,19-000121-PR04,"1 seuil Athmer
+
+    Pyrostop 30-20 38dB "
+"Porte
+  2 vantaux",fuego light 30 ,40,-1,-3,19-000121-PR04,"2 seuil Athmer
+
+    Pyrostop 30-10 38dB "
+"Porte
+  2 vantaux",fuego light 30 ,42,-2,-3,19-000121-PR04,"1 seuil Athmer
+
+    Pyrostop 30-17 Optiphon 9 45dB"
+"Porte
+  2 vantaux",fuego light 30 ,45,-2,-5,19-000121-PR04,"2 seuil Athmer
+
+    Pyrostop 30-17 Optiphon 9 45dB"
+"Porte
+  2 vantaux",fuego light 30 ,39,0,-1,19-000121-PR04,"1 seuil Athmer
+
+    Contraflam stadip silence 41dB"
+"Porte
+  2 vantaux",fuego light 30 ,41,0,-1,19-000121-PR04,"2 seuils Athmer
+
+    Contraflam stadip silence 41dB"
+"Porte
+  2 vantaux",fuego light 30 ,37,-1,0,19-000121-PR04,"1 seuil Athmer
+
+    Contraflam 30 38 dB"
+"Porte
+  2 vantaux",fuego light 30 ,39,-2,-1,19-000121-PR04,"2 seuils Athmer
+
+    Contraflam 30 38 dB"
+"Porte
+  2 vantaux",fuego light 30 ,42,-1,-3,19-000121-PR04,"1 seuil Athmer
+
+    Contraflam 30 Climalit Silence 44.2 46dB"
+"Porte
+  2 vantaux",fuego light 30 ,45,-1,-4,19-000121-PR04,"2 seuils Athmer
+
+    Contraflam 30 Climalit Silence 44.2 46dB"
+"Châssis
+  fixe",fuego light 30 ,39,-1,-2,19-000121-PR02,"Joint à sec
+
+    Pyrostop 30-10 38dB"
+"Châssis
+  fixe",fuego light 30 ,41,-1,-3,19-000121-PR02,"Joint à sec
+
+    Pyrostop 30-20 38dB"
+"Châssis
+  fixe",fuego light 30 ,43,-1,-3,19-000121-PR03,"Joint à sec
+
+    Contraflam stadip silence 41dB"
+"Châssis
+  fixe",fuego light 30 ,47,-2,-5,19-000121-PR03,"Joint à sec
+
+    Contraflam 30 Climalit Silence 44.2 46dB"
+"Porte
+  1 vantail",fuego light 60,38,0,0,19-002652-PR02,"1 seuil Planet FP
+
+    Contraflam 60-3 43dB"
+"Porte
+  1 vantail",fuego light 60,42,-2,-2,19-002652-PR02,"2 seuils Planet FP
+
+    Contraflam 60-3 43dB"
+"Porte
+  1 vantail",fuego light 60,39,0,-1,19-002652-PR02,"1 seuil Planet FP
+
+    Contraflam 60-3 stadip silence 46dB"
+"Porte
+  1 vantail",fuego light 60,43,0,-2,19-002652-PR02,"2 seuils Planet FP
+
+    Contraflam 60-3 stadip silence 46dB"
+"Porte
+  1 vantail",fuego light 60,40,-1,-2,19-002652-PR02,"1 seuil Planet FP
+
+    Contraflam 60-3 Climalit 51dB"
+"Porte
+  1 vantail",fuego light 60,45,-2,-5,19-002652-PR02,"2 seuils Planet FP
+
+    Contraflam 60-3 Climalit 51dB"
+"Porte
+  1 vantail",fuego light 60,38,0,-1,19-002652-PR03,"1 seuil Planet FP
+
+    Pyrostop 60-101 41 dB"
+"Porte
+  1 vantail",fuego light 60,41,-1,-3,19-002652-PR03,"2 seuils Planet FP
+
+    Pyrostop 60-101 41 dB"
+"Châssis
+  fixe",fuego light 60,46,-1,-2,19-001946-PR03-,"Joint à sec
+
+    Contraflam 60-3 43dB"
+"Châssis
+  fixe",fuego light 60,46,-1,-2,19-001946-PR03-,"Joint à sec
+
+    Contraflam 60-3 stadip silence 46dB"
+"Châssis
+  fixe",fuego light 60,49,-2,-5,19-001946-PR03-,"silicone
+
+    Contraflam 60-3 Climalit 51dB"
+"Châssis
+  fixe",fuego light 60,43,0,-2,19-001946-PR02-,"Joint à sec
+
+    Pyrostop 60-101 41dB"
+"Châssis
+  fixe",fuego light 90,45,-1,-1,19-001946-PR03-,"silicone
+
+    Contraflam 90-4 46 dB"
+"Châssis
+  fixe",fuego light 90,48,-1,-2,19-001946-PR03-,"silicone
+
+    Cotraflam 90-4 stadip Silence 48dB"
+"Châssis
+  fixe",fuego light 90,47,0,-2,19-001946-PR02-,"Joint à sec
+
+    Pyrostop 90-102 44 dB"
+"Porte
+  1 vantail",Presto 50,39,-2,-6,16237053/Z06,"serrure 2 points, seuil en
+  battue, ouverture intérieure
+
+    Double vitrage 24 mm Glas Trösch 6/14/4 argon Rw 36 dB"
+"Porte
+  1 vantail",Presto 50,37,-2,-6,16237053/Z06,"serrure 2 points, seuil en
+  battue, ouverture intérieure
+
+    Double vitrage (ép 24 mm)
+
+    Glas Trösch 6/14/4, gaz argon
+
+    Rw 36 dB"
+"Porte
+  1 vantail",Presto 60,43,-1,-5,162 43582/Z10,"Joint battue 905 307 (CR)
+  Serrure 2 points
+
+    Seuil automatique avec deux tubes acier. Etanchéité avec 915000
+
+    Double vitrage (ép 33 mm)
+
+    Glas Trösch 66-2/ 12/44-2
+
+    Gaz argon
+
+    Rw 47dB"
+"Porte
+  1 vantail",Presto 60,41,-1,-4,162 43582/Z12,"Joint battue 905 307 (CR)
+  Serrure 1 point
+
+    Seuil automatique avec deux tubes acier.
+
+    Double vitrage (ép 33 mm)
+
+    Glas Trösch 66-2/ 12/44-2
+
+    Gaz argon
+
+    Rw 47dB"
+"Porte
+  1 vantail",Presto 60,41,-1,-4,163 43582/Z13,"Joint battue 905 307 (CR)
+  Serrure 1 point
+
+    Seuil automatique avec deux tubes acier.
+
+    Double vitrage (ép 35 mm)
+
+    Glas Trösch10/16/44-2
+
+    Gaz argon
+
+    Rw 45 dB"
+"Porte
+  1 vantail",Presto 60,42,-2,-5,163 43582/Z15,"Joint battue 905 307 (CR)
+  Serrure 1 point
+
+    Seuil automatique avec deux tubes acier. Etanchéité avec 915 000
+
+    Double vitrage (ép 35 mm)
+
+    Glas Trösch10/16/44-2
+
+    Gaz argon
+
+    Rw 45 dB"
+"Porte
+  1 vantail",Presto 60,42,-1,-5,164 43582/Z17,"Joint battue 905 307 (CR)
+  Serrure 1 point
+
+    Seuil joint à lèvre 905 401
+
+    Etanchéité avec 915 000
+
+    Double vitrage (ép 35 mm)
+
+    Glas Trösch10/16/44-2
+
+    Gaz argon
+
+    Rw 45 dB"
+"Porte
+  1 vantail",Presto 60,44,-2,-5,164 43582/Z20,"Joint battue 905 307 (CR)
+  Serrure 1 point
+
+    Seuil joint à lèvre 905 401
+
+    Etanchéité avec 915 000
+
+    Double vitrage (ép 33 mm)
+
+    Glas Trösch 66-2/ 12/44-2
+
+    Gaz argon
+
+    Rw 47dB"
+"Porte
+  1 vantail",Presto 60,42,-1,-4,164 43582/Z39,"Joint battue 905 307 (CR)
+  Serrure 1 point
+
+    Seuil automatique avec deux tubes acier. Etanchéité avec 915 000
+
+    Double vitrage (ép 33 mm)
+
+    Glas Trösch 66-2/ 12/44-2
+
+    Gaz argon
+
+    Rw 47dB"
+"Porte
+  2 vantaux",Presto 50,36,-2,-6,162 67053/Z12,"Joint vitrage EPDM
+
+    Serrure 2 points
+
+    Crémone verrouillage haut et bas
+
+    Seuil en battue
+
+    Ouverture intérieure
+
+    Double vitrage (ép 24 mm)
+
+    Glas Trösch 6/14/4, gaz argon
+
+    Rw 36 dB"
+"Porte
+  2 vantaux",Presto 50,39,-2,-6,162 67053/Z14,"Joint vitrage EPDM
+
+    Serrure 2 points
+
+    Crémone verrouillage haut et bas
+
+    Seuil en battue
+
+    Ouverture intérieure
+
+    Double vitrage (ép 26 mm)
+
+    Glas Trösch 44-2,14,4 gaz argon
+
+    Rw 37 dB"
+"Porte
+  2 vantaux",Presto 50,42,-2,-3,19-000121-PR03,"Joint 905 307 (CR)
+
+    Stadi L 24/20 /Athmer
+
+    Serrure deux points
+
+    Double vitrage (ép 36 mm)
+
+    Pyrodur 30-273
+
+    11/16/9
+
+    Rw 45 dB"
+"Porte
+  2 vantaux",Presto 60,38,-2,-3,162 43582/Z28,"Joint vitrage EPDM
+
+    Joint battue CR 905 307
+
+    Joint battue centrale 905 406
+
+    Seuil automatique avec deux tube acier Etanchéité avec 915 000
+
+    Serrure un point , crémone verrouillage haut et bas
+
+    Double vitrage (ép 33 mm)
+
+    Glas Trösch 66-2/ 12/44-2
+
+    Gaz argon
+
+    Rw 47dB"
+"Porte
+  2 vantaux",Presto 60,44,-2,-5,162 43582/Z23,"Joint vitrage EPDM
+
+    Joint battue CR 905 307
+
+    Joint battue centrale 905 406
+
+    Seuil automatique avec deux tube acier Etanchéité avec 915 000
+
+    Serrure 2 points , crémone verrouillage haut et bas
+
+    Double vitrage (ép 33 mm)
+
+    Glas Trösch 66-2/ 12/44-2
+
+    Gaz argon
+
+    Rw 47dB"
+"Porte
+  2 vantaux",Presto 60,43,-1,-4,162 43582/Z24,"Joint vitrage EPDM
+
+    Joint battue CR 905 307
+
+    Seuil automatique avec deux tube acier Etanchéité avec 915 000
+
+    Serrure 2 points , crémone verrouillage haut et bas
+
+    Double vitrage (ép 33 mm)
+
+    Glas Trösch 66-2/ 12/44-2
+
+    Gaz argon
+
+    Rw 47dB"
+"Porte
+  2 vantaux",Presto 60,43,-2,-4,162 43582/Z32,"Serrure deux points
+
+    Crémone verrouillage haute et bas
+
+    Joint CR et joint 905 406 battue centrale
+
+    Seuil avec joint 905 401
+
+    Double vitrage (ép 33 mm)
+
+    Glas Trösch 66-2/ 12/44-2
+
+    Gaz argon
+
+    Rw 47dB"
+Fenêtre,Presto 50,36,-2,-5,,"Quincaillerie 907111
+
+    Joint battue 905 306
+
+    3 paumelles à souder
+
+    Joint EPDM vitrage
+
+    Double vitrage (ép 24 mm)
+
+    Glas Trösch 6/14/4, gaz argon
+
+    Rw 36 dB"
+Fenêtre,Presto 50,38,-1,-5,,"Quincaillerie 907111
+
+    Joint battue 905 306
+
+    3 paumelles à souder
+
+    Joint EPDM vitrage
+
+    Double vitrage (ép 26 mm)
+
+    Glas Trösch 44-2,14,4 gaz argon
+
+    Rw 37 dB"
+Fenêtre,Presto 50,40,-3,-7,,"Profilé 32808 et 32807
+
+    Quincaillerie 907 120
+
+    Joint battue 905 306
+
+    3 paumelles à souder
+
+    Joint EPDM vitrage
+
+    Double vitrage (ép 32 mm)
+
+    Glas Trösch Silverstar PHON III
+
+    10/16/6 , gaz argon
+
+    Rw 40 dB"
+Fenêtre,Presto 50,36,-2,-6,,"Profilé 32808 et 32807
+
+    Quincaillerie 907 120
+
+    Joint battue 905 306
+
+    3 paumelles à souder
+
+    Joint EPDM vitrage
+
+    Double vitrage (ép 24 mm)
+
+    Glas Trösch 6/14/4, gaz argon
+
+    Rw 36 dB"
+"Châssis
+  fixe",Presto 50,35,-2,-6,161 37053/Z08,"Joint EPDM vitrage
+
+    Profilés 32 851
+
+    "
+"Châssis
+  fixe",Presto 50,37,-2,-6,161 37053/Z09,"Joint EPDM vitrage
+
+    Profilés 32 851
+
+    "
+"Châssis
+  fixe",Presto XS,32,-1,-2,L22_0855_01,"
+
+    Glas/Paneel : ESG 6 mm / Rw (C;Ctr) = 32 (-1 ;-2) dB"
+"Châssis
+  fixe",Presto XS,36,-1,-2,L22_0855_01,"
+
+    Glas/Paneel : vetroSafe VSG 55.2 VSG / Rw (C;Ctr) = 36 (-1 ;-2) dB"
+"Châssis
+  fixe",Presto XS,38,-1,-3,L22_0855_01,"
+
+    Glas/Paneel : vetroPhon 5/0.76/5 VSG / Rw (C;Ctr) = 38 (-1 ;-3) dB"
+"Châssis
+  fixe",Presto XS,30,-1,-3,L22_0855_01,"
+
+    Glas/Paneel : Paneel 1.5/15/1.5 (Alu - EPS - Alu) / Rw (C;Ctr) = 30 (-1
+  ;-3) dB"
+"Châssis
+  fixe",Presto XS,32,-1,-3,L22_0855_01,"
+
+    Glas/Paneel : vetroIso 6/10/4 / Rw (C;Ctr) = 32 (-1 ;-3) dB"
+"Châssis
+  fixe",Presto XS,35,-1,-3,L22_0855_01,"
+
+    Glas/Paneel : vetroIso 4/12/33.2 Phon (VSG) / Rw (C;Ctr) = 35 (-1 ;-5) dB"
+"Châssis
+  fixe",Presto XS,33,-1,-3,L22_0855_02,"
+
+    Glas/Paneel : ESG 6 mm / Rw,Glas (C;Ctr) = 32 (-2 ;-2) dB"
+"Châssis
+  fixe",Presto XS,37,-1,-3,L22_0855_02,"
+
+    Glas/Paneel : vetroSafe VSG 55.2 / Rw,Glas (C;Ctr) = 36 (-1 ;-2) dB"
+"Châssis
+  fixe",Presto XS,38,-1,-3,L22_0855_02,"
+
+    Glas/Paneel : vetroPhon 5/0.76/5 VSG / Rw,Glas (C;Ctr) = 38 (-1 ;-3) dB"
+"Châssis
+  fixe",Presto XS,30,0,-2,L22_0855_02,"
+
+    Glas/Paneel : Alu-EPS-Alu 1.5/15/1.5 / Rw,Glas (C;Ctr) = 29 (0 ;-2) dB"
+"Châssis
+  fixe",Presto XS,36,-1,-3,L22_0855_02,"
+
+    Glas/Paneel : vetroIso 6/10/4 / Rw,Glas (C;Ctr) = 34 (-1 ;-4) dB"
+"Châssis
+  fixe",Presto XS,39,-2,-5,L22_0855_02,"
+
+    Glas/Paneel : vetroIso 4/12/33.2 Phon (VSG) / Rw,Glas (C;Ctr) = 38 (-1 ;-3)
+  dB"
+"Porte
+  1 vantail",Presto XS,29,-1,-2,L22_0855_03,"
+
+    Glas/Paneel : ESG 6 mm / Rw,Glas (C;Ctr) = 32 (-2 ;-2) dB"
+"Porte
+  1 vantail",Presto XS,30,-1,-2,L22_0855_03,"
+
+    Glas/Paneel : vetroSafe VSG 55.2 / Rw,Glas (C;Ctr) = 36 (-1 ;-2) dB"
+"Porte
+  1 vantail",Presto XS,32,-1,-2,L22_0855_03,"
+
+    Glas/Paneel : vetroSafe VSG 55.2 (joint décalé vers le plan d'étanchéité) /
+  Rw,Glas (C;Ctr) = 36 (-1 ;-2) dB"
+"Porte
+  1 vantail",Presto XS,33,-1,-2,L22_0855_03,"
+
+    Glas/Paneel : vetroPhon 5/0.76/5 VSG (joint décalé vers le plan
+  d'étanchéité) / Rw,Glas (C;Ctr) = 38 (-1 ;-3) dB"
+"Porte
+  1 vantail",Presto XS,28,-1,-2,L22_0855_03,"
+
+    Glas/Paneel : Paneel 1.5 Alu / 15 EPS / 1.5 Alu (joint décalé vers le plan
+  d'étanchéité) / Rw,Glas (C;Ctr) = 29 (0 ;-2) dB"
+"Porte
+  1 vantail",Presto XS,30,0,-3,L22_0855_03,"
+
+    Glas/Paneel : vetroIso 6/10/4 (joint décalé vers le plan d'étanchéité) /
+  Rw,Glas (C;Ctr) = 32 (-1 ;-4) dB"
+"Porte
+  1 vantail",Presto XS,32,-1,-3,L22_0855_03,"
+
+    Glas/Paneel : vetroIso 4/12/33.2 Phon (VSG) (joint décalé vers le plan
+  d'étanchéité) / Rw,Glas (C;Ctr) = 34 (-1 ;-4) dB"
+"Porte
+  1 vantail",Presto XS,32,0,-3,L22_0855_03,"
+
+    Glas/Paneel : vetroIso 4/12/33.2 Phon (VSG) + cavité arrière remplie avec
+  bande isolante / Rw,Glas (C;Ctr) = 34 (-1 ;-4) dB"
+"Porte
+  2 vantaux",Presto XS,30,-1,-1,L22_0855_04,"
+
+    Glas/Paneel : ESG 6 mm / Rw,Glas (C;Ctr) = 32 (-2 ;-2) dB"
+"Porte
+  2 vantaux",Presto XS,34,0,-2,L22_0855_04,"
+
+    Glas/Paneel : vetroSafe VSG 55.2 / Rw,Glas (C;Ctr) = 36 (-1 ;-2) dB"
+"Porte
+  2 vantaux",Presto XS,35,-1,-3,L22_0855_04,"
+
+    Glas/Paneel : vetroPhon 5/0.76/5 VSG / Rw,Glas (C;Ctr) = 38 (-1 ;-3) dB"
+"Porte
+  2 vantaux",Presto XS,28,-1,-3,L22_0855_04,"
+
+    Glas/Paneel : Paneel 1.5/15/1.5 (Alu - EPS - Alu) / Rw,Glas (C;Ctr) = 29 (0
+  ;-2) dB"
+"Porte
+  2 vantaux",Presto XS,33,-1,-4,L22_0855_04,"
+
+    Glas/Paneel : vetroIso 4/12/33.2 Phon (VSG) / Rw,Glas (C;Ctr) = 34 (-1 ;-4)
+  dB"
+"Châssis
+  fixe",Presto XS,32,-2,-2,L22/0855_05,"
+
+    vetroDur ESG 6 mm"
+"Châssis
+  fixe",Presto XS,36,-1,-2,L22/0855_05,"
+
+    vetroSafe 55.2 (VSG) 36 (-1;-2) dB"
+"Châssis
+  fixe",Presto XS,38,-1,-3,L22/0855_05,"
+
+    vetroPhon 5/0.76/5 (VSG)"
+"Châssis
+  fixe",Presto XS,29,0,-2,L22/0855_05,"
+
+    Paneel 1.5mm Alu / 15mm EPS30 / 1.5mm Alu"
+"Châssis
+  fixe",Presto XS,32,-1,-4,L22/0855_05,"
+
+    vetroIso 6/10/4"
+"Châssis
+  fixe",Presto XS,34,-1,-4,L22/0855_05,"
+
+    vetroIso 4/12/33.2 Phon (VSG)"
+"Châssis
+  fixe",Presto XS,32,-1,-3,L22/0855_05,"
+
+    Paneel 3mm Alu / 15mm EPS30 / 1.5mm Alu (Spezial)"
+"Porte
+  2 vantaux",Presto XS,21,0,-1,L24/0336_01,"
+
+    ESG 6"
+"Porte
+  2 vantaux",Presto XS,27,0,-1,L24/0336_01,"
+
+    VSG55.2 Phon;"
+"Châssis
+  fixe",Thermfix vario,45,-2,-7,12-001279-PR01 (PB1),"
+
+    triple vitrage Rw 48 dB"
+"Châssis
+  fixe",Thermfix vario,44,-2,-7,12-001279-PR01 (PB2),"
+
+    double vitrage Rw 50 dB"
+"Châssis
+  fixe",Thermfix vario,44,-2,-6,12-001279-PR01 (PB3),"
+
+    double vitrage Pyrostop Rw 47 dB"
+"Châssis
+  fixe",Thermfix vario,42,-2,-6,12-001279-PR01 (PB4),"
+
+    double vitrage Rw 45 dB"
+"Châssis
+  fixe",Presto XS,36,-1,-4,12-001279-PR01 (PB5),"
+
+    double vitrage Rw38 dB"
+"Châssis
+  fixe",Presto XS,50,-2,-4,L18/0601_01,"
+
+    double vitrage Rw 54 dB"
+Fenêtre,Unico / Unico XS,47,-2,-4,16130936/Z28,"Joint vitrage EPDM
+
+    Double vitrage 40 mm Glas Trösch 12-2P/20/8-2P, Rw 50 dB"
+Fenêtre,Unico / Unico XS,48,-1,-4,16130936/Z16,"Joint vitrage silicone
+
+    Double vitrage 40 mm Glas Trösch 12-2P/20/8-2P, Rw 50 dB"
+Fenêtre,Unico / Unico XS,46,-1,-4,16130936/Z15,"Joint vitrage EPDM
+
+    Double vitrage 40 mm Glas Trösch 12-2P/20/8-2P, Rw 50 dB"
+Fenêtre,Unico / Unico XS,33,-1,-5,16130936/Z13,"Joint vitrage EPDM
+
+    Double vitrage 24 mm 4/16/4, Rw 32 dB"
+Fenêtre,Unico / Unico XS,40,-2,-5,16130936/Z12,"Joint vitrage EPDM
+
+    Double vitrage 28 mm 10/14/4, Rw 38 dB"
+Fenêtre,Unico / Unico XS,44,-1,-4,16130936/Z11,"Joint vitrage EPDM
+
+    Double vitrage 34 mm 10/16/8-2P, Rw 45 dB"
+Fenêtre,Unico / Unico XS,47,-1,-4,16130936/Z10,"Joint vitrage EPDM, point de
+  condamnation en bas
+
+    Double vitrage 40 mm 12-2P/20/8-2P, Rw 50 dB"
+Fenêtre,Unico / Unico XS,43,-1,-4,12-001279-PR02,"Joint vitrage EPDM
+
+    Double vitrage 42 mm 12-1P/20/8-1P, Rw 50 dB"
+"Châssis
+  fixe",Unico / Unico XS,47,-1,-4,16130936/Z14,"Joint vitrage EPDM
+
+    Double vitrage 40 mm 12-2P/20/8-2P, Rw 50 dB"
+"Porte
+  2 vantaux",Unico / Unico XS,45,-1,-4,16130936/Z27,"Seuil en battue, serrure 1
+  point, joint vitrage EPDM
+
+    Double vitrage 40 mm 12-2P/20/8-2P, Rw 50 dB"
+"Porte
+  1 vantail",Unico / Unico XS,40,-1,-2,16130936/Z2,"Un seul joint automatique,
+  serrure 1 point, joint vitrage EPDM
+
+    Double vitrage 40 mm 12-2P/20/8-2P, Rw 50 dB"
+"Porte
+  1 vantail",Unico / Unico XS,39,-1,-3,16130936/Z5,"Un seul joint automatique,
+  serrure 1 point, joint vitrage EPDM
+
+    Double vitrage 34 mm 8-2P/16/10, Rw 45 dB"
+"Porte
+  1 vantail",Unico / Unico XS,36,0,-2,16130936/Z6,"Un seul joint automatique,
+  serrure 1 point, joint vitrage EPDM
+
+    Double vitrage 28 mm 10/14/4, Rw 38 dB"
+"Porte
+  1 vantail",Unico / Unico XS,33,-2,"-5
+  ",16130936/Z1,"Un seul joint automatique,
+  serrure 1 point, joint vitrage EPDM
+
+    Double vitrage 24 mm 4/16/4, Rw 32 dB"
