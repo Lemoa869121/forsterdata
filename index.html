@@ -110,6 +110,14 @@
   .kv.nums{display:grid;grid-template-columns:repeat(auto-fill,minmax(120px,1fr));gap:10px}
   .kv.nums div span{display:block;font-size:11.5px;color:var(--muted)}
   .kv.nums div b{font-size:15px}
+  .kv.links .sub{color:var(--muted);font-size:12px;margin:-2px 0 10px}
+  .lkg{margin-top:10px}
+  .lkh{font-size:12px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.4px;margin-bottom:6px}
+  .lk{display:grid;grid-template-columns:64px 1fr auto;gap:10px;align-items:center;width:100%;text-align:left;border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 10px;margin-bottom:6px}
+  .lk:hover{border-color:var(--navy);background:#f7f9fc}
+  .lk b{color:var(--navy)}
+  .lk em{font-style:normal;color:var(--muted);font-size:12px}
+  .none{color:var(--muted);font-size:13px}
   .drawer .actions{display:flex;justify-content:center;gap:8px;margin-top:12px}
   .btn{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 12px;font-weight:600}
   .btn.primary{background:var(--navy);color:#fff;border-color:var(--navy)}
@@ -190,7 +198,7 @@ const CONFIG = {
     sub: r => r['Verrier'],
     columns: [
       {key:'Type de châssis', strong:true}, {key:'Degré feu', label:'Degré feu'}, {key:'Série'},
-      {key:'Verrier', cls:'hide-sm'}, {key:'n° PV', label:'PV'}, {key:'Validité', badge:true, cls:'hide-sm'}
+      {key:'Verrier', cls:'hide-sm'}, {key:'n° PV', label:'PV'}, {key:'_cumulTxt', label:'Cumul RC / FB', cls:'hide-sm'}, {key:'Validité', badge:true, cls:'hide-sm'}
     ],
     filters: [
       {type:'search', label:'Recherche par référence', placeholder:'Numéro de PV', fields:['n° PV','Codification de classement']},
@@ -199,6 +207,7 @@ const CONFIG = {
       {type:'select', label:'Application', key:'Type de châssis'},
       {type:'chips', label:'Série', key:'Série', ref:'series'},
       {type:'chips', label:'Verrier', key:'Verrier', ref:'verriers', extra:['Tous'], note:'Les PV « Tous » (tous verriers) restent affichés quand un verrier est choisi.', wildcard:'Tous'},
+      {type:'cumul'},
       {type:'dims', label:'Recherche dimensions'},
       {type:'valid', label:'Validité'}
     ],
@@ -210,12 +219,13 @@ const CONFIG = {
   rc: {
     title: r => `Forster ${r['Série']} ${r['Type de châssis']} ${r['Classe']}`,
     sub: r => r['Type de résistance'],
-    columns: [{key:'Type de châssis', strong:true},{key:'Classe'},{key:'Série'},{key:'Entrée controlée', label:'Entrée contrôlée', cls:'hide-sm'},{key:'n° PV', label:'PV'}],
+    columns: [{key:'Type de châssis', strong:true},{key:'Classe'},{key:'Série'},{key:'n° PV', label:'PV'},{key:'_cumulTxt', label:'Cumul feu / FB', cls:'hide-sm'}],
     filters: [
       {type:'search', label:'Recherche par référence', placeholder:'Numéro de PV', fields:['n° PV','Codification de classement']},
       {type:'chips', label:'Classe', key:'Classe', values:['RC1','RC2','RC3','RC4']},
       {type:'select', label:'Application', key:'Type de châssis'},
       {type:'chips', label:'Série', key:'Série', ref:'series'},
+      {type:'cumul'},
       {type:'select', label:'Sortie', key:'Sortie type'},
       {type:'select', label:'Verrouillage', key:'Type de verrouillage'}
     ],
@@ -224,12 +234,13 @@ const CONFIG = {
   fb: {
     title: r => `Forster ${r['Série']} ${r['Type de châssis']} ${r['Classe']}`,
     sub: r => r['Type de résistance'],
-    columns: [{key:'Type de châssis', strong:true},{key:'Classe'},{key:'Série'},{key:'n° PV', label:'PV'}],
+    columns: [{key:'Type de châssis', strong:true},{key:'Classe'},{key:'Série'},{key:'n° PV', label:'PV'},{key:'_cumulTxt', label:'Cumul feu / RC', cls:'hide-sm'}],
     filters: [
       {type:'search', label:'Recherche par référence', placeholder:'Numéro de PV', fields:['n° PV','Codification de classement']},
       {type:'chips', label:'Classe', key:'Classe'},
       {type:'select', label:'Application', key:'Type de châssis'},
-      {type:'chips', label:'Série', key:'Série', ref:'series'}
+      {type:'chips', label:'Série', key:'Série', ref:'series'},
+      {type:'cumul'}
     ],
     header: ['Type de châssis','Série','Classe','n° PV','Type de résistance']
   },
@@ -296,8 +307,76 @@ const PAGE = 20;
 
 function catData(id){ return DATA.categories.find(c => c.id === id); }
 
+/* ---------- Liens Feu / Anti-effraction / Pare-balles ----------
+   Deux PV de catégories différentes sont liés quand :
+   - ils portent sur la même série (presto, unico, fuego light…),
+   - et le même type d'ouvrage (porte, ouvrant de service, cloison, mur rideau…),
+   - et l'un des deux déclare la performance de l'autre dans « Cumul de perf »
+     (ex. Feu « RC2 / RC3 » <-> RC2 ; RC « E30, EI30 » <-> E30 ; FB « RC3 » <-> RC3).
+   Quand les deux déclarent, c'est le PV le plus spécifique qui fait foi (FB > RC > Feu). */
+const SECU = ['feu','rc','fb'];
+const PRIO = {feu:0, rc:1, fb:2};
+const SECU_LABEL = {feu:'Feu', rc:'Anti-effraction', fb:'Pare-balles'};
+function famille(type){
+  const t = norm(type);
+  if(/^porte d\.?a\.?s/.test(t)) return 'porte das';
+  if(/^porte va-et-vient/.test(t)) return 'porte va-et-vient';
+  if(/^porte/.test(t)) return 'porte';             // porte, porte anti-panique, porte tôlée…
+  if(/^ouvrant/.test(t)) return 'ouvrant';
+  if(/bords/.test(t)) return 'cloison bords-a-bords';
+  if(/^cloison/.test(t)) return 'cloison';
+  if(/^mur/.test(t)) return 'mur rideau';
+  return t;
+}
+function classeDe(cat, r){
+  if(cat === 'feu') return String(r['Degré feu'] || '').replace(/\s/g,'').toUpperCase();
+  return String(r['Classe'] || '').replace(/\s/g,'').toUpperCase().replace(/^(FB\d)(N?S)$/, '$1-$2');
+}
+function declare(txt){
+  const t = String(txt || '').toUpperCase(), d = {feu:new Set(), rc:new Set(), fb:new Set()};
+  for(const m of t.matchAll(/(?<![A-Z0-9])(EI|E)\s?(30|60|90|120)(?!\d)/g)) d.feu.add(m[1] + m[2]);
+  for(const m of t.matchAll(/(?<![A-Z0-9])(?:RC|CR)\s?([1-6])(?!\d)/g)) d.rc.add('RC' + m[1]);
+  for(const m of t.matchAll(/(?<![A-Z0-9])(?:FB|BR)\s?([4-7])(?:\s*-?\s*(NS|S)(?![A-Z]))?/g)) d.fb.add('FB' + m[1] + (m[2] ? '-' + m[2] : ''));
+  return d;
+}
+function declMatch(cat, decl, classe){
+  if(cat !== 'fb') return decl.has(classe);
+  for(const x of decl) if(x === classe || (!x.includes('-') && classe.startsWith(x + '-'))) return true;
+  return false;
+}
+const ORDRE = c => { const m = c.match(/^(EI|E|RC|FB)(\d+)(?:-(NS|S))?$/); return m ? ({E:0,EI:1000,RC:2000,FB:3000}[m[1]] + (+m[2]) * 2 + (m[3]==='S'?1:0)) : 9999; };
+function buildLinks(){
+  const idx = {};
+  SECU.forEach(cat => (catData(cat)?.rows || []).forEach((r, i) => {
+    r._cat = cat; r._i = i;
+    r._classe = classeDe(cat, r);
+    r._decl = declare(r['Cumul de perf']);
+    r._links = [];
+    const key = norm(r['Série']) + '|' + famille(r['Type de châssis']);
+    (idx[key] ||= []).push(r);
+  }));
+  Object.values(idx).forEach(group => {
+    for(const a of group) for(const b of group){
+      if(PRIO[a._cat] >= PRIO[b._cat]) continue; // chaque paire une fois, b = performance la plus spécifique
+      // Si le PV le plus spécifique (FB > RC > Feu) liste les classes de l'autre, il fait foi ;
+      // sinon on s'appuie sur ce que déclare l'autre PV.
+      const ok = b._decl[a._cat].size ? declMatch(a._cat, b._decl[a._cat], a._classe) : declMatch(b._cat, a._decl[b._cat], b._classe);
+      if(ok){
+        a._links.push({cat:b._cat, i:b._i}); b._links.push({cat:a._cat, i:a._i});
+      }
+    }
+  });
+  SECU.forEach(cat => (catData(cat)?.rows || []).forEach(r => {
+    r._cumul = {};
+    r._links.forEach(l => { const c = catData(l.cat).rows[l.i]._classe; (r._cumul[l.cat] ||= new Set()).add(c); });
+    const parts = [];
+    SECU.filter(c => r._cumul[c]).forEach(c => parts.push([...r._cumul[c]].sort((x,y)=>ORDRE(x)-ORDRE(y)).join(' ')));
+    r._cumulTxt = parts.join(' · ');
+  }));
+}
+
 function defaultFilters(){
-  return { q:'', chips:{}, sel:{}, min:{}, numMin:{}, dims:{app:'', L:'', H:''}, valid:'all' };
+  return { q:'', chips:{}, sel:{}, min:{}, numMin:{}, cumul:{}, dims:{app:'', L:'', H:''}, valid:'all' };
 }
 
 /* ---------- Groupes de catégories ---------- */
@@ -346,6 +425,14 @@ function renderFilters(cat, cfg){
     if(f.type === 'numMin'){
       return `<div class="f"><label for="n${i}">${esc(f.label)}</label><input id="n${i}" class="txt" type="number" inputmode="numeric" placeholder="${esc(f.placeholder||'')}" data-nummin="${esc(f.key)}" value="${esc(F.numMin[f.key]??'')}"></div>`;
     }
+    if(f.type === 'cumul'){
+      return SECU.filter(o => o !== state.cat).map(o => {
+        const vals = [...new Set(rows.flatMap(r => [...(r._cumul?.[o] || [])]))].sort((x,y)=>ORDRE(x)-ORDRE(y));
+        if(!vals.length) return '';
+        const on = F.cumul[o] || [];
+        return `<div class="f"><span class="lab">Cumul ${esc(SECU_LABEL[o].toLowerCase())}</span><div class="sub">PV ${esc(cat.label.toLowerCase())} combinables avec un PV ${esc(SECU_LABEL[o].toLowerCase())} de cette classe.</div><div class="chips">${vals.map(v => `<button class="chip" data-cumul="${o}" data-v="${esc(v)}" aria-pressed="${on.includes(v)}">${esc(v)}</button>`).join('')}</div></div>`;
+      }).join('');
+    }
     if(f.type === 'dims'){
       const d = F.dims;
       return `<div class="f"><span class="lab">${esc(f.label)}</span>
@@ -384,6 +471,7 @@ function applyFilters(cat, cfg){
       if(!vals.includes(v) && !(fdef && fdef.wildcard && v === fdef.wildcard)) return false;
     }
     for(const [k, v] of Object.entries(F.sel)) if(v && r[k] !== v) return false;
+    for(const [o, vals] of Object.entries(F.cumul)) if(vals.length && !vals.some(v => r._cumul?.[o]?.has(v))) return false;
     for(const [k, v] of Object.entries(F.min)) if(v !== '' && v != null && !((num(r[k]) ?? -1) >= +v)) return false;
     for(const [k, v] of Object.entries(F.numMin)) if(v !== '' && v != null && !((r[k] ?? -999) >= +v)) return false;
     const d = F.dims;
@@ -442,6 +530,11 @@ function bindFilters(cat, cfg){
   const q = $('#q'); if(q) q.oninput = () => { F.q = q.value; upd(); };
   panel.querySelectorAll('[data-chip]').forEach(b => b.onclick = () => {
     const k = b.dataset.chip, v = b.dataset.v, arr = (F.chips[k] ||= []);
+    const i = arr.indexOf(v); i >= 0 ? arr.splice(i, 1) : arr.push(v);
+    b.setAttribute('aria-pressed', i < 0); upd();
+  });
+  panel.querySelectorAll('[data-cumul]').forEach(b => b.onclick = () => {
+    const o = b.dataset.cumul, v = b.dataset.v, arr = (F.cumul[o] ||= []);
     const i = arr.indexOf(v); i >= 0 ? arr.splice(i, 1) : arr.push(v);
     b.setAttribute('aria-pressed', i < 0); upd();
   });
@@ -511,8 +604,22 @@ function pager(pages){
 }
 
 /* ---------- Fiche détail ---------- */
+function linksBlock(r){
+  if(!r._links || !SECU.includes(state.cat)) return '';
+  const others = SECU.filter(c => c !== state.cat);
+  const html = others.map(o => {
+    const list = r._links.filter(l => l.cat === o).map(l => catData(o).rows[l.i])
+      .sort((a,b) => ORDRE(a._classe) - ORDRE(b._classe));
+    const body = list.length
+      ? list.map(x => `<button class="lk" data-lcat="${o}" data-li="${x._i}"><b>${esc(x._classe)}</b><span>${esc(x['Type de châssis'])} ${esc(x['Série'])}</span><em>${esc(String(x['n° PV']||'').split('\n')[0])}</em></button>`).join('')
+      : '<div class="none">Aucun PV lié</div>';
+    return `<div class="lkg"><div class="lkh">${esc(SECU_LABEL[o])}</div>${body}</div>`;
+  }).join('');
+  return `<div class="kv links"><h4>Performances cumulées</h4><div class="sub">PV de même série et même type d'ouvrage, déclarés combinables (colonne « Cumul de perf »).</div>${html}</div>`;
+}
+
 function detailBody(r, cfg){
-  const parts = [];
+  const parts = [linksBlock(r)];
   if(cfg.numbers){
     const nums = cfg.numbers.filter(k => r[k]);
     if(nums.length) parts.push(`<div class="kv"><h4>Dimensions maximales (mm)</h4><div class="kv nums" style="border:0;padding:0;margin:0">${nums.map(k => `<div><span>${esc(cfg.numberLabels[k]||k)}</span><b>${r[k].toLocaleString('fr-FR')}</b></div>`).join('')}</div></div>`);
@@ -541,6 +648,11 @@ function openDetail(i){
     </div>
     <div class="db">${detailBody(r, cfg)}</div>`;
   $('#dx').onclick = closeOverlays;
+  $('#drawer').querySelectorAll('[data-lcat]').forEach(b => b.onclick = () => {
+    state.pendingOpen = +b.dataset.li;
+    if(location.hash.slice(1) === b.dataset.lcat){ openDetail(state.pendingOpen); state.pendingOpen = null; }
+    else location.hash = b.dataset.lcat;
+  });
   $('#dcmp').onclick = () => { toggleCmp(i, !state.cmp.has(i)); openDetail(i); };
   $('#dcopy').onclick = async e => { try{ await navigator.clipboard.writeText(r['n° PV']); e.target.textContent = 'Copié ✓'; }catch{ e.target.textContent = 'Copie impossible'; } };
   $('#drawer').classList.add('on'); $('#scrim').classList.add('on');
@@ -579,10 +691,11 @@ function openCompare(){
   rows.forEach(r => Object.keys(r).forEach(k => { if(!k.startsWith('_') && !keys.includes(k)) keys.push(k); }));
   const shown = keys.filter(k => rows.some(r => !isBlank(r[k])));
   const fmt = (k, v) => k === 'Validité' ? (v ? fmtDate(v) : '—') : (typeof v === 'number' ? v.toLocaleString('fr-FR') : (isBlank(v) ? '—' : rich(v)));
+  if(SECU.includes(state.cat)) shown.push('_cumulTxt');
   const tbody = shown.map(k => {
     const vals = rows.map(r => String(r[k] ?? ''));
     const diff = new Set(vals).size > 1;
-    return `<tr class="${diff?'diff':''}" data-diff="${diff}"><th class="k">${esc(k)}</th>${rows.map(r => `<td>${fmt(k, r[k])}</td>`).join('')}</tr>`;
+    return `<tr class="${diff?'diff':''}" data-diff="${diff}"><th class="k">${esc(k === '_cumulTxt' ? 'Performances cumulées (PV liés)' : k)}</th>${rows.map(r => `<td>${fmt(k, r[k])}</td>`).join('')}</tr>`;
   }).join('');
   $('#modal').innerHTML = `<div class="mh"><h3>Comparaison – ${esc(cat.label)}</h3>
       <label><input type="checkbox" id="onlydiff"> Uniquement les différences</label>
@@ -597,7 +710,10 @@ function openCompare(){
 $('#scrim').onclick = closeOverlays;
 document.addEventListener('keydown', e => { if(e.key === 'Escape') closeOverlays(); });
 $('#home').onclick = e => { e.preventDefault(); location.hash = ''; };
-window.addEventListener('hashchange', () => { closeOverlays(); selectCat(location.hash.slice(1) || null); });
+window.addEventListener('hashchange', () => {
+  closeOverlays(); selectCat(location.hash.slice(1) || null);
+  if(state.pendingOpen != null && state.cat){ const i = state.pendingOpen; state.pendingOpen = null; openDetail(i); }
+});
 
 async function load(){
   if(window.__FORSTER_DATA__) return window.__FORSTER_DATA__;
@@ -607,6 +723,7 @@ async function load(){
 }
 load().then(d => {
   DATA = d;
+  buildLinks();
   $('#stamp').textContent = 'Données du ' + fmtDate(d.generated);
   $('#foot').textContent = `ForsterData · ${d.categories.reduce((n, c) => n + c.rows.length, 0)} PV · données mises à jour le ${fmtDate(d.generated)}`;
   selectCat(location.hash.slice(1) || null);

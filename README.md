@@ -11,8 +11,20 @@ Site 100 % statique : un fichier `index.html` et les données dans `data/data.js
 - Recherche par dimensions (Feu) : cloison (dimensions du vitrage), bloc-porte 1 ou 2 vantaux
 - Statut de validité des PV : valide, expire dans les 3 mois, expiré
 - Fiche détaillée de chaque PV
+- **Lien Feu ↔ Anti-effraction ↔ Pare-balles** : chaque fiche liste les PV des deux autres catégories qu'on peut cumuler avec elle. On peut aussi filtrer, par exemple « PV feu cumulables avec un RC3 ». Voir la règle ci-dessous.
 - Comparaison côte à côte de 2 à 4 PV, avec option « uniquement les différences »
 - Tri des colonnes, pagination, adresse directe par catégorie (`…/#feu`, `…/#rc`, `…/#aev`…)
+
+## Règle de lien entre Feu, Anti-effraction et Pare-balles
+
+Deux PV de catégories différentes sont liés quand ils ont :
+1. la **même série** (presto, unico, fuego light…) ;
+2. le **même type d'ouvrage** : porte (porte, porte anti-panique et portes tôlées sont regroupées), ouvrant de service, cloison, cloison bords-à-bords, mur rideau… ;
+3. une **déclaration de cumul** dans la colonne « Cumul de perf » d'au moins un des deux PV. Par exemple, Feu « RC2 / RC3 » ↔ RC2, RC « E30, EI30 » ↔ E30, FB « RC3 » ↔ RC3.
+
+Si les deux PV déclarent un cumul, c'est le plus spécifique qui fait foi (Pare-balles > Anti-effraction > Feu). Par exemple, un PV RC2 testé avec « EI60 » n'est pas lié aux portes EI30, même si celles-ci indiquent « RC2 ».
+
+Pour que les liens soient justes, il suffit de bien remplir « Cumul de perf ». La règle est codée dans la fonction `buildLinks()` de `index.html`.
 
 ## Structure
 
